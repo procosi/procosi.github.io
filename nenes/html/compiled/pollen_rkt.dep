@@ -1,1 +1,0 @@
-("6.3" ("d40e020af124660b33084f8f20ec3eba6da5f594" . "b4674d35785ae81782e12c0d5d40ca53ff94bc5f") (collects #"pollen" #"decode.rkt") (collects #"pollen" #"tag.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"string.rkt") (collects #"txexpr" #"main.rkt"))

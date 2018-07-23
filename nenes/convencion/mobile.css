@@ -1,0 +1,108 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'charterbold';
+    src: url('fonts/charter_bold-webfont.eot');
+    src: url('fonts/charter_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/charter_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'charteritalic';
+    src: url('fonts/charter_italic-webfont.eot');
+    src: url('fonts/charter_italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/charter_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'charterregular';
+    src: url('fonts/charter_regular-webfont.eot');
+    src: url('fonts/charter_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/charter_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AbrilFatface-Regular';
+    src: url('fonts/abril_fatface.eot');
+    src: url('fonts/abril_fatface.eot?#iefix') format('embedded-opentype'),url('fonts/abril_fatface.woff2') format('woff2'),url('fonts/abril_fatface.woff') format('woff'),url('fonts/abril_fatface.ttf') format('truetype');
+}
+
+@keyframes fadein{
+    0% {color: transparent}
+    40% {color: red}
+    100% {color: #ff7070}
+}
+
+body{
+    font-family: charterregular;
+    background-color: #fffcfc;
+}
+
+#article{
+    text-align: center;
+    width: 90%;
+    padding-left: 5%;
+}
+
+h3{
+    font-family: 'AbrilFatface-Regular';
+    font-weight: normal;
+    padding-top: 30px;
+    margin:auto;
+    font-size: 50px;
+    line-height: 1.5;
+    color: #ff7070;
+    text-align: center;
+    animation-name: fadein;
+    animation-duration: 0.8s;
+}
+
+#content{
+    color: #b7a2a2;
+    font-size: 13px;
+    padding: 20px 0;
+}
+
+#summary{
+    color: #b4ccc6;
+    text-align: center;
+    font-style: italic;
+    font-size: 0.9em;
+    padding: 25px 0;
+}
+
+hr{
+    border-top: 1px dotted #f1bbbb;
+    border-bottom: 1px dotted #fff;
+    margin: 0px 19px;
+}
+
+.plain{
+    margin:auto;
+    line-height: 1.6;
+    text-align: left;
+    padding: 10px 0px;
+}
+
+.prefixedparagraph{
+    padding: 7px 0px;
+    margin:auto;
+    line-height: 1.6;
+    text-align: left;
+}
+
+.prefix{
+    width: 10px;
+    float: left;
+    text-align: left;
+}
+
+.prefixed{
+    margin-left: 30px;
+}

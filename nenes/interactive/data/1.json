@@ -1,0 +1,351 @@
+{
+  "titulo": {
+    "pre": "Guía a la",
+    "main":"Convención sobre los Derechos de los Niños",
+    "post": ""
+  },
+  "guia":[
+    {
+      "t":"p",
+      "c":
+      "Todas las personas merecemos vivir sin temor, miseria o ignorancia. Sin embargo, cada sociedad tiene una idea sobre las condiciones necesarias para lograr esta vida y quiénes las merecen. Para que estas condiciones sean razonables y se extiendan a todas las personas sin distinción, las Naciones Unidas crean normas internacionales que ofrecen a todos los Estados. Llamamos derechos a estas condiciones y asumimos que es la responsabilidad del Estado garantizarlos a sus ciudadanos."
+    },
+
+    {
+      "t":"p",
+      "c": "Para garantizar derechos a los niños, las Naciones Unidas crearon la Convención de los Derechos de los Niños. La Convención consiste en 54 artículos que tratan decenas de temas. Juntos, estos temas expresan una visión de los niños y una posición sobre cómo garantizar sus derechos, especialmente en situaciones donde la intervención del Estado hace más falta. "
+    },
+
+    {
+      "t":"p",
+      "c": "El objetivo de esta guía es facilitar el encuentro con ideas importantes en la Convención y hacer intuitiva una estructura coherente a través de ellas. Para esto, es posible explorar los temas que se mencionan y los artículos donde se tratan. La guía representa temas como textos resaltados y artículos como puntos en el círculo del lado. Puedes hacer click en cualquier tema y artículo en el orden que capture tu atención. "
+    },
+
+    {
+      "t":"p",
+      "c": "La Convención de los Derechos de los Niños se divide en 3 partes. La [[t1][Primera Parte]] consiste en 41 artículos que norman la relación entre el Estado, los niños y los adultos que se hacen responsables de ellos. A manera de índice es posible clasificar estos artículos en los siguientes temas:"
+    },
+
+    {
+      "t": "ul",
+      "c": [
+	"[[t4][Definición de niño]]",
+	"[[t5][Ampliación de derechos sin discriminación]]",
+	"[[t6][El interés superior del niño en asuntos que lo afectan]]",
+	"[[t7][Uso de recursos del Estado]]",
+	"[[t8][Rol de adultos que se responsabilizan de niños]]",
+	"[[t9][Derecho a la vida]]",
+	"[[t10][Relación con padres e identidad del niño]]",
+	"[[t11][Control del traslado ilícito de niños al extranjero]]",
+	"[[t12][Libertad de expresión, pensamiento, conciencia, religión y asociación]]",
+	"[[t13][Relación del Estado con medios de comunicación]]",
+	"[[t14][Protección del niño de agresiones físicas, mentales o reputacionales]]",
+	"[[t15][Protección de niños sin familia]]",
+	"[[t16][Salud del niño]]",
+	"[[t17][Economía del niño]]",
+	"[[t18][Educación del niño]]",
+	"[[t19][Cultura del niño]]",
+	"[[t20][Protección de situaciones de explotación]]",
+	"[[t21][Protección de la tortura y el uso de niños en conflictos armados]]",
+	"[[t22][Tratamiento penal de niños]]",
+	"[[t23][La importancia del espíritu de la Convención]]"
+	]
+    },
+    
+    {
+      "t":"p",
+      "c": "La [[t2][Segunda Parte]] consiste en 4 artículos que norman la relación entre el Estado y el Comité de los Derechos del Niño, que se encarga de evaluar cómo cumple la Convención. Es posible distinguir en estos artículos los siguientes temas:"
+    },
+
+    {
+      "t": "ul",
+      "c": [
+	"[[t24][Compromiso del Estado para hacer conocer la Convención]]",
+	"[[t25][Rol, composición y mecanismos de coordinación del Comité]]",
+	"[[t26][Presentación de informes]]",
+	"[[t27][Colaboración de otras organizaciones]]"
+	]
+    },
+    
+    {
+      "t": "p",
+      "c": "[[t3][La Tercera Parte]] consta de 9 artículos que norman cómo un Estado llega a adherirse a la Convención. Los temas que trata esta parte son los siguientes:"
+    },
+
+    {
+      "t": "ul",
+      "c":[
+	"[[t28][Invitación a los Estados]]",
+	"[[t29][Tiempo que tiene el Estado para cumplir la norma]]",
+	"[[t30][Cómo el Estado puede proponer cambios o denuncias a la Convención, y evitar cumplir algunos artículos]]",
+	"[[t31][Entrega de la Convención]]"
+	]
+    },
+    
+    {
+      "t": "p",
+      "c": "Para facilitar a los Estados la redacción de informes, el Comité de los Derechos del Niño desarrolló una lista de Principios Generales. Estos principios representan aspectos irrenunciables en la Convención:"
+    },
+
+    {
+      "t":"ul",
+      "c":[
+	"[[t32][No discriminación]]",
+	"[[t33][Interés superior del niño]]",
+	"[[t34][Derecho a la supervivencia y desarrollo]]",
+	"[[t35][Derecho a ser escuchado]]"
+      ]
+    },
+
+    {
+      "t":"p",
+      "c": "En la Convención, el niño se distingue de otros sujetos de derechos por ser una persona en maduración. Por eso, el aseguramiento de sus derechos requiere de la interacción entre el Estado, el niño y los adultos que se hacen responsables de él."
+    },
+
+    {
+      "t":"p",
+      "c": "Esta idea de maduración se manifiesta de las siguientes formas:"
+    },
+
+    {
+      "t": "ul",
+      "c": [
+	"[[t36][La idea del niño inmaduro]]",
+	"[[t37][La idea del niño maduro]]",
+	"[[t38][Una trayectoria de maduración]]"
+      ]
+    }
+    
+  ],  
+  "asociaciones":
+  {
+    "t1": {
+      "n": "Primera Parte",
+      "s": "Parte 1",
+      "a": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
+    },
+ 
+   "t2": {
+      "n": "Segunda Parte",
+      "s": "Parte 2",
+      "a": [42, 43, 44, 45]
+    },
+ 
+   "t3": {
+      "n": "Tercera Parte",
+      "s": "Parte 3",
+      "a": [46, 47, 48, 49, 50, 51, 52, 53, 54]
+    },
+ 
+   "t4": {
+      "n":"Definición de niño",
+      "s": "Un niño es cualquier ser humano menor de 18 años (1).",
+      "a": [1]
+    },
+    
+    "t5": {
+      "n":"Ampliación de derechos sin discriminación",
+      "s": "El Estado asegura derechos a todos los niños en su jurisdicción (2).",
+      "a": [2]
+    },
+
+    "t6": {
+      "n":"El interés superior del niño en asuntos que lo afectan",
+      "s": "Toda decisión que afecte a un niño debe priorizar su interés superior (3).",
+      "a": [3]
+    },
+
+    "t7": {
+      "n":"Uso de recursos del Estado",
+      "s": "El Estado usará todos los recursos disponibles para efectuar estos derechos (4).",
+      "a": [4]
+    },
+
+    "t8": {
+      "n":"Rol de adultos que se responsabilizan de niños",
+      "s": "Adultos que sean responsables de niños tienen responsabilidades, derechos y deberes para orientar al niñoa ejercer sus propios derechos (5).",
+      "a": [5]
+    },
+
+    "t9": {
+      "n":"Derecho a la vida",
+      "s": "El Estado garantiza la supervivencia y desarrollo del niño (6)",
+      "a": [6]
+    },
+
+    "t10": {
+      "n":"Relación con padres e identidad del niño",
+      "s": "El niño tiene derecho a una relación con sus padres (7, 8, 9, 10), ambos de los cuales tienen la misma responsabilidad (18) El niño tiene derecho a un nombre y nacionalidad (7, 8)",
+      "a": [7, 8, 9, 10, 18]
+    },
+
+    "t11": {
+      "n":"Control del traslado ilícito de niños al extranjero",
+      "s": "El Estado evita que niños sean trasladados y retenidos en el extranjero de forma ilícita (11).",
+      "a": [11]
+    },
+
+    "t12": {
+      "n":"Libertad de expresión, pensamiento, conciencia, religión y asociación",
+      "s": "El Estado garantiza que el niño pueda expresar su opinión (12), recibir y difundir información (13), pensar, creer (14) y asociarse libremente (15).",
+      "a": [12, 13, 14, 15]
+    },
+
+    "t13": {
+      "n":"Relación del Estado con medios de comunicación",
+      "s": "El Estado alienta a medios de comunicación a producir y difundir información útil para el bienestar del niño (17).",
+      "a": [17]
+    },
+
+    "t14": {
+      "n":"Protección del niño de agresiones físicas, mentales o reputacionales",
+      "s": "El Estado protege al niño contra abusos físicos y mentales, tratos negligentes y explotativos (19), injerencias a su privacidad o ataques ilegales a su reputación (16).",
+      "a": [16, 19]
+    },
+
+    "t15": {
+      "n":"Protección de niños sin familia",
+      "s": "El Estado protege a niños sin familia (20), regula adopciones (21) y asiste a niños considerados refugiados (22).",
+      "a": [20, 21, 22]
+    },
+
+    "t16": {
+      "n":"Salud del niño",
+      "s": "El Estado asegura que el niño reciba el mejor servicio de salud posible (24), especialmente si está impedido física o mentalmente (23), y que reciba un examen periódico si se encuentra internado (25).",
+      "a": [23, 24, 25]
+    },
+
+    "t17": {
+      "n":"Economía del niño",
+      "s": "Los adultos son responsables de proveer un buen nivel de vida al niño, con asistencia del Estado en nutrición, vestuario, vivienda (27) y prestaciones sociales correspondientes (26).",
+      "a": [26, 27]
+    },
+
+    "t18": {
+      "n":"Educación del niño",
+      "s": "El Estado garantiza una educación primaria a los niños donde la disciplina respete su dignidad (28), se desarrollen sus aptitudes, respeto y capacidad para vivir en una sociedad libre (29).",
+      "a": [28, 29]
+    },
+
+    "t19": {
+      "n":"Cultura del niño",
+      "s": "El Estado promueve oportunidades para que niños puedan recrearse y participar de la vida cultural (31), incluso si su cultura representa una minoría (30).",
+      "a": [30, 31]
+    },
+
+    "t20": {
+      "n":"Protección de situaciones de explotación",
+      "s": "El Estado protege al niño de explotación económica (32), relacionada a estupefacientes (33), sexual (34), de trata (35) y otras (36).",
+      "a": [32, 33, 34, 35, 36]
+    },
+
+    "t21": {
+      "n":"Protección de la tortura y el uso de niños en conflictos armados",
+      "s": "El Estado evita imponer torturas, tratos inhumanos, pena capital o prisión perpetua a niños (37), además de evitar reclutar a menores de 15 años en conflictos armados (38). El Estado se responsabiliza por reintegrar niños víctimas de abusos a la sociedad (39).",
+      "a": [37, 38, 39]
+    },
+
+    "t22": {
+      "n":"Tratamiento penal de niños",
+      "s": "El Estado trata dígnamente a niños que encuentra culpables de infringir leyes penales 40()",
+      "a": [40]
+    },
+
+    "t23": {
+      "n":"La importancia del espíritu de la Convención ",
+      "s": "El Estado puede emplear disposiciones no descritas en la Convención que se encuentren en su derecho propio o el internacional y que promuevan mejor los derechos de niños (41).",
+      "a": [41]
+    },
+
+    "t24": {
+      "n": "Compromiso del Estado para hacer conocer la Convención",
+      "s": "El Estado informa a niños y adultos de los principios y disposiciones de la Convención (42)",
+      "a": [42]
+    },
+
+    "t25": {
+      "n": "Rol, composición y mecanismos de coordinación del Comité",
+      "s": "Rol, composición y mecanismos de coordinación del Comité: El Comité evalúa como el Estado cumple la Convención. Se compone de 18 expertos de los Estados Parte, votados cada 2 años por mayoría absoluta. Se reúne cada año. (43)",
+      "a": [43]
+    },
+
+    "t26": {
+      "n": "Presentación de informes",
+      "s": "El Estado presenta un informe al Comité cada 5 años indicando medidas, progreso y dificultades que encuentra al cumplir la Convención. El Comité presenta un informe a la Asamblea General de las Naciones Unidas cada 2 años. (44)",
+      "a": [44]
+    },
+
+    "t27": {
+      "n": "Colaboración de otras organizaciones",
+      "s": "Por iniciativa propia o invitación, órganos de las Naciones Unidas, en especial el Fondo de las Naciones Unidas para la Infancia, y otras organizaciones pueden asesorar la aplicación de la Convención. (45)",
+      "a": [45]
+    },
+
+    "t28":{
+      "n":"Invitación a los Estados",
+      "s":"Todos los Estados están invitados a firmar (46), adherirse (48) o ratificar (47) la Convención.",
+      "a":[46, 47, 48]
+    },
+
+    "t29":{
+      "n":"Tiempo que tiene el Estado para cumplir la norma",
+      "s":"El Estado debe cumplir la norma a partir de 30 días despúes de su adhesión (49).",
+      "a":[49]
+    },
+
+    "t30":{
+      "n":"Cómo el Estado puede proponer cambios o denuncias a la Convención, y evitar cumplir algunos artículos",
+      "s":"El Estado expresa enmiendas (50), reservas (51) y denuncias (52) a la Convención mediante el Secretario General de las Naciones Unidas.",
+      "a":[50, 51, 52]
+    },
+
+    "t31":{
+      "n":"Entrega de la Convención",
+      "s":"El Secretario General de las Naciones Unidas es el depositario de la Convención (53), incluyendo el documento original (54).",
+      "a":[53, 54]
+    },
+
+    "t32":{
+      "n":"Principio General: No discriminación",
+      "s":"El Estado asegura la aplicación de la Convención a cada niño sin distinción de cualquier condición del niño, de sus padres o de sus representantes legales (2).",
+      "a":[2]
+    },
+
+    "t33":{
+      "n":"Principio General: Interés superior del niño",
+      "s":"Toda decisión en una institución pública o privada que afecte al niño debe priorizar su interés superior (3).",
+      "a":[3]
+    },
+
+    "t34":{
+      "n":"Principio General: Derecho a la supervivencia y desarrollo",
+      "s":"El Estado reconoce el derecho del niño a la vida y garantiza su supervivencia y desarrollo (6).",
+      "a":[6]
+    },
+
+    "t35":{
+      "n":"Principio General: Derecho a ser escuchado",
+      "s":"El Estado garantiza que el niño pueda formar y expresar su opinión sobre asuntos que lo afectan (12).",
+      "a":[12]
+    },
+
+    "t36":{
+      "n":"El niño inmaduro",
+      "s":"Un sujeto indefenso que requiere protección especial. Por ejemplo, el niño tiene derecho a obtener (7) y preservar (8, 9) una relación con sus padres, incluso cuando sea separado de ellos (9) y a reunirse con ellos cuando se encuentren fuera del Estado (10). En caso de no contar con sus padres, el niño requiere la protección del Estado (20).",
+      "a":[7, 8, 9, 10, 20]
+    },
+
+    "t37":{
+      "n":"El niño maduro",
+      "s":"Un sujeto capaz de formar y expresar su opinión. Por ejemplo, el niño debe ser escuchado en asuntos que lo afectan (12), puede buscar, recibir y difundir cualquier información (13), tiene libertad de pensamiento, conciencia y religión (14), y puede asociarse y celebrar reuniones pacíficas (15).",
+      "a":[12, 13, 14, 15]
+    },
+
+    "t38":{
+      "n":"Una trayectoria de maduración",
+      "s":"Un sujeto que forma progresivamente mejor su propia opinión respecto a sus derechos con la ayuda del Estado y los adultos responsables de él. Por ejemplo, el Estado debe ayudar al niño a formar su opinión sobre asuntos que lo afectan (12) a través de medios de comunicación (17) y el sistema educativo (28), junto a los adultos que son responsables por él (5).",
+      "a":[12, 17, 28, 5]
+    }
+    
+  }
+}

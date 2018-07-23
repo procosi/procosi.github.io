@@ -1,0 +1,4 @@
+/children/html/compiled/
+/children/pdf/*.aux
+/children/pdf/*.log
+/children/pdf/*.out

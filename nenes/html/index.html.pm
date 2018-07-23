@@ -128,15 +128,15 @@ Derechos de los Niños:
 
 ◊h3[#:id "6"]{Conceptos básicos}◊marginnote{Adhesión, estructura y Principios Generales de la Convención.}
 
-Las Naciones Unidas invitan a todos los Estados a firmar o adherirse a la Convención sobre los Derechos del Niño (◊em{Artículos 46, 47 y 48}). Una firma indica que el Estado está de acuerdo con las disposiciones en ella y una adhesión lo compromete a cumplirlas luego de 30 días (◊em{Artículo 49}). Este compromiso implica utilizar todas las medidas y recursos posibles para hacerlas realidad (Artículo 4) y ser evaluado periódicamente por el Comité de los Derechos del Niño (◊em{Artículos 43, 44 y 45}).
+Las Naciones Unidas invitan a todos los Estados a firmar o adherirse a la Convención sobre los Derechos del Niño (◊em{Artículos ◊art{46}, ◊art{47} y ◊art{48}}). Una firma indica que el Estado está de acuerdo con las disposiciones en ella y una adhesión lo compromete a cumplirlas luego de 30 días (◊em{Artículo ◊art{49}}). Este compromiso implica utilizar todas las medidas y recursos posibles para hacerlas realidad (◊em{Artículo ◊art{4}}) y ser evaluado periódicamente por el Comité de los Derechos del Niño (◊em{Artículos ◊art{43}, ◊art{44} y ◊art{45}}).
 
 La Convención está organizada en 3 partes que contienen 54 artículos. Los derechos de los niños se exponen en los 41 artículos de la primera parte. Las otras dos partes describen la operación del Comité y el proceso de adhesión. 4 de estos derechos, denominados Principios Generales, son considerados esenciales para comprender los demás:
 
 ◊ol{
-◊li{No ser discriminado por ninguna condición suya, de sus padres o representantes legales (◊em{Artículo 2}).}
-◊li{La consideración primordial de su interés superior en decisiones que lo afecten (◊em{Artículo 3}).}
-◊li{Su supervivencia y desarrollo (◊em{Artículo 6})}
-◊li{Ser escuchado en procedimientos judiciales o administrativos que lo afecten (◊em{Artículo 12})}
+◊li{No ser discriminado por ninguna condición suya, de sus padres o representantes legales (◊em{Artículo ◊art{2}}).}
+◊li{La consideración primordial de su interés superior en decisiones que lo afecten (◊em{Artículo ◊art{3}}).}
+◊li{Su supervivencia y desarrollo (◊em{Artículo ◊art{6}})}
+◊li{Ser escuchado en procedimientos judiciales o administrativos que lo afecten (◊em{Artículo ◊art{12}})}
 }
 
 ◊h3[#:id "7"]{Derechos de los Niños}
@@ -154,44 +154,44 @@ Asumiendo los Principios Generales mencionados en la ◊link["#6"]{anterior lecc
 
 Al igual que el principio 6 de la Declaración de los Derechos del Niño y los pactos internacionales de derechos mencionados en la ◊link["#4"]{Lección 4}, la Convención considera que el niño necesita un ambiente de afecto y seguridad moral, y que la opción natural son sus padres. 
 
-El niño tiene derecho a una relación con sus padres (◊em{Artículo 9}). Esta relación no puede ser anulada unilateralmente por ellos (◊em{Artículo 9}) y debe preservarse incluso si son separados por una frontera (◊em{Artículo 10}) o un evento que los convierta en refugiados (◊em{Artículo 22}). La separación sólo se justifica si todas las partes creen que es necesaria para el interés superior del niño (◊em{Artículo 9}). El niño que sea separado de sus padres merece una protección especial del Estado que priorice su educación y sea coherente con su origen cultural (◊em{Artículo 20}). Para tener una familia permanente el niño puede ser adoptado. La adopción requiere su consentimiento y debe ser manejada por autoridades competentes sin generar beneficios indebidos para nadie (◊em{Artículo 21}).
+El niño tiene derecho a una relación con sus padres (◊em{Artículo ◊art{9}}). Esta relación no puede ser anulada unilateralmente por ellos (◊em{Artículo ◊art{9}}) y debe preservarse incluso si son separados por una frontera (◊em{Artículo ◊art{10}}) o un evento que los convierta en refugiados (◊em{Artículo ◊art{22}}). La separación sólo se justifica si todas las partes creen que es necesaria para el interés superior del niño (◊em{Artículo ◊art{9}}). El niño que sea separado de sus padres merece una protección especial del Estado que priorice su educación y sea coherente con su origen cultural (◊em{Artículo ◊art{20}}). Para tener una familia permanente el niño puede ser adoptado. La adopción requiere su consentimiento y debe ser manejada por autoridades competentes sin generar beneficios indebidos para nadie (◊em{Artículo ◊art{21}}).
 
 ◊h3[#:id "9"]{Derecho a una Vida Plena}◊marginnote{Condiciones para otorgar al niño una vida plena.}
 
 Como el principio 4 de la Declaración, la Convención cree que para su desarrollo el niño necesita atención en salud, vivienda y nutrición.
 
-El niño tiene derecho al mejor servicio de salud posible (◊em{Artículo 24}). Este servicio incluye la atención primaria de salud, difusión de principios básicos de salud y nutrición, y medidas para combatir la mortalidad infantil, enfermedades y malnutrición. En caso de ser internado, el niño debe recibir un examen periódico de su tratamiento (◊em{Artículo 25}). Y si está impedido física o mentalmente, merece un cuidado especial (◊em{Artículo 23}).
+El niño tiene derecho al mejor servicio de salud posible (◊em{Artículo ◊art{24}}). Este servicio incluye la atención primaria de salud, difusión de principios básicos de salud y nutrición, y medidas para combatir la mortalidad infantil, enfermedades y malnutrición. En caso de ser internado, el niño debe recibir un examen periódico de su tratamiento (◊em{Artículo ◊art{25}}). Y si está impedido física o mentalmente, merece un cuidado especial (◊em{Artículo ◊art{23}}).
 
-El niño tiene derecho a un buen nivel de vida (◊em{Artículo 27}). Este nivel de vida es responsabilidad de los padres e incluye acceso a nutrición, vivienda y vestuario. Si ellos no pueden brindar estos beneficios, el Estado debe ayudarlos mediante prestaciones de seguridad social (◊em{Artículo 26}).
+El niño tiene derecho a un buen nivel de vida (◊em{Artículo ◊art{27}}). Este nivel de vida es responsabilidad de los padres e incluye acceso a nutrición, vivienda y vestuario. Si ellos no pueden brindar estos beneficios, el Estado debe ayudarlos mediante prestaciones de seguridad social (◊em{Artículo ◊art{26}}).
 
 ◊h3[#:id "10"]{Derecho a Protección de los Peligros de la Sociedad Adulta}◊marginnote{Condiciones para mantener al niño alejado de los peligros de la sociedad adulta.}
 
 Como se menciona en la ◊link["#2"]{Lección 2}, el diálogo acerca de los derechos de los niños comienza luego de la adopción general de una visión del niño como ángel inocente que necesita protección de la sociedad adulta. Naturalmente, los peligros más visibles en la sociedad adulta son el objeto inicial de este diálogo. A diferencia de la Declaración, específicamente en los principios 8 y 9, la Convención presenta una lista exhaustiva de estos peligros. El niño tiene derecho a una protección especial de:
 
 ◊ul{
-◊li{Ser trasladado y retenido en el extranjero ilícitamente (◊em{Artículo 11}).}
-◊li{Ataques ilegales o arbitrarios a su privacidad y honra (◊em{Artículo 16}).}
-◊li{Ser abusado física o mentalmente (◊em{Artículo 19}).}
-◊li{Ser explotado económicamente (◊em{Artículo 32}).}
-◊li{Realizar trabajos que afecten su salud o educación (◊em{Artículo 32}).}
-◊li{Realizar trabajos a una edad muy temprana (◊em{Artículo 32}).}
-◊li{Producir, traficar o consumir drogas (◊em{Artículo 33}).}
-◊li{Ser utilizado en prostitución, pornografía u otras prácticas sexuales ilegales (◊em{Artículo 34}).}
-◊li{Ser secuestrado, vendido o tratado (◊em{Artículo 35}).}
-◊li{Ser víctima de formas de explotación no mencionadas en la Convención (◊em{Artículo 36}).}
-◊li{Ser reclutado para conflictos armados en caso de ser menor a 15 años (◊em{Artículo 38}).}
-◊li{Ser vícitma de tortura, tratos inhumanos, sentencias de pena capital o prisión perpetua (◊em{Artículo 37}).}
-◊li{Ser privado de su libertad ilegal o arbitrariamente (◊em{Artículos 37 y 40}).}
-◊li{Ser tratado de una forma no digna en caso de ser sentenciado por un delito (◊em{Artículo 40}).}
+◊li{Ser trasladado y retenido en el extranjero ilícitamente (◊em{Artículo ◊art{11}}).}
+◊li{Ataques ilegales o arbitrarios a su privacidad y honra (◊em{Artículo ◊art{16}}).}
+◊li{Ser abusado física o mentalmente (◊em{Artículo ◊art{19}}).}
+◊li{Ser explotado económicamente (◊em{Artículo ◊art{32}}).}
+◊li{Realizar trabajos que afecten su salud o educación (◊em{Artículo ◊art{32}}).}
+◊li{Realizar trabajos a una edad muy temprana (◊em{Artículo ◊art{32}}).}
+◊li{Producir, traficar o consumir drogas (◊em{Artículo ◊art{33}}).}
+◊li{Ser utilizado en prostitución, pornografía u otras prácticas sexuales ilegales (◊em{Artículo ◊art{34}}).}
+◊li{Ser secuestrado, vendido o tratado (◊em{Artículo ◊art{35}}).}
+◊li{Ser víctima de formas de explotación no mencionadas en la Convención (◊em{Artículo ◊art{36}}).}
+◊li{Ser reclutado para conflictos armados en caso de ser menor a 15 años (◊em{Artículo ◊art{38}}).}
+◊li{Ser vícitma de tortura, tratos inhumanos, sentencias de pena capital o prisión perpetua (◊em{Artículo ◊art{37}}).}
+◊li{Ser privado de su libertad ilegal o arbitrariamente (◊em{Artículos ◊art{37} y ◊art{40}}).}
+◊li{Ser tratado de una forma no digna en caso de ser sentenciado por un delito (◊em{Artículo ◊art{40}}).}
 }
 
-Un niño acusado de cometer un delito tiene derechos especiales como no prestar testimonio, hacer que una autoridad judicial superior revise su sentencia y, en caso de culpa, acceder a medidas no judiciales como hogares de guarda y programas de formación profesional (◊em{Artículo 40}). Niños a los cuales el Estado no haya podido salvar de estos peligros merecen tratos que les ayuden a recuperarse y reintegrarse a la sociedad (◊em{Artículo 39}).
+Un niño acusado de cometer un delito tiene derechos especiales como no prestar testimonio, hacer que una autoridad judicial superior revise su sentencia y, en caso de culpa, acceder a medidas no judiciales como hogares de guarda y programas de formación profesional (◊em{Artículo ◊art{40}}). Niños a los cuales el Estado no haya podido salvar de estos peligros merecen tratos que les ayuden a recuperarse y reintegrarse a la sociedad (◊em{Artículo ◊art{39}}).
 
 ◊h3[#:id "11"]{Derecho a Participar en una Sociedad Libre}◊marginnote{Condiciones para que el niño participe en una sociedad libre.}
 
 Según el principio 10 de la Declaración, la formación del niño debe llevarlo a adoptar un espíritu de comprensión y fraternidad. La Convención cree que para demandar comprensión del niño es necesario comprenderlo mejor. El niño necesita ser escuchado con seriedad y tener la oportunidad de cambiar la dirección que los adultos definen para él.
 
-El niño tiene derecho a aprender a vivir responsablemente en una sociedad libre (◊em{Artículo 29}). La manifestación de esta responsabilidad es el respeto:
+El niño tiene derecho a aprender a vivir responsablemente en una sociedad libre (◊em{Artículo ◊art{29}}). La manifestación de esta responsabilidad es el respeto:
 
 ◊ul{
 ◊li{Respeto por los derechos humanos y las libertades fundamentales.}
@@ -199,17 +199,17 @@ El niño tiene derecho a aprender a vivir responsablemente en una sociedad libre
 ◊li{Y el respeto por otras identidades y pueblos}
 }
 
-Para afirmar que los adultos respetan al niño, éste tiene derecho a ser escuchado seriamente. Su opinión, especialmente sobre asuntos que lo afectan, debe ser escuchada por el Estado (◊em{Artículo 12}). Esta opinión se forma, comunica y conduce hacia la participación política. Para formarse, el niño tiene derecho a la libertad de pensamiento, conciencia y religión (◊em{Artículo 14}). Para comunicarse, tiene derecho a utilizar cualquier medio disponible (◊em{Artículo 13}). Y para llevar a la participación política, tiene derecho a asociarse y celebrar reuniones pacíficas (◊em{Artículo 15}).
+Para afirmar que los adultos respetan al niño, éste tiene derecho a ser escuchado seriamente. Su opinión, especialmente sobre asuntos que lo afectan, debe ser escuchada por el Estado (◊em{Artículo ◊art{12}}). Esta opinión se forma, comunica y conduce hacia la participación política. Para formarse, el niño tiene derecho a la libertad de pensamiento, conciencia y religión (◊em{Artículo ◊art{14}}). Para comunicarse, tiene derecho a utilizar cualquier medio disponible (◊em{Artículo ◊art{13}}). Y para llevar a la participación política, tiene derecho a asociarse y celebrar reuniones pacíficas (◊em{Artículo ◊art{15}}).
 
 Sin embargo, la Convención comprende que para dirigir una vida responsable no basta con tener el derecho a ser escuchado. El niño necesita toda la ayuda que la sociedad adulta pueda proveer.
 
-El niño tiene derecho a acceder a información útil para su bienestar. El Estado debe asistir en producir y difundir información útil, como material de interés cultural y libros para niños (◊em{Artículo 17}). Además de esta información, el niño puede buscar y recibir cualquier información que desee (◊em{Artículo 13}).
+El niño tiene derecho a acceder a información útil para su bienestar. El Estado debe asistir en producir y difundir información útil, como material de interés cultural y libros para niños (◊em{Artículo ◊art{17}}). Además de esta información, el niño puede buscar y recibir cualquier información que desee (◊em{Artículo ◊art{13}}).
 
-El niño tiene derecho a una educación (◊em{Artículo 28}). El Estado debe ofrecer educación primaria gratuita y obligatoria, y apoyo financiero para la educación secundaria. 
+El niño tiene derecho a una educación (◊em{Artículo ◊art{28}}). El Estado debe ofrecer educación primaria gratuita y obligatoria, y apoyo financiero para la educación secundaria. 
 
-El niño tiene derecho a jugar y tener una vida cultural (◊em{Artículo 31}). El Estado debe crear oportunidades para que el niño descanse, juegue y participe de actividades culturales y artísticas. En caso que estas actividades reflejen un grupo minoritario, el Estado debe protegerlo (◊em{Artículo 30}).
+El niño tiene derecho a jugar y tener una vida cultural (◊em{Artículo ◊art{31}}). El Estado debe crear oportunidades para que el niño descanse, juegue y participe de actividades culturales y artísticas. En caso que estas actividades reflejen un grupo minoritario, el Estado debe protegerlo (◊em{Artículo ◊art{30}}).
 
-Finalmente, para participar en una sociedad libre el niño debe ser consciente de sus derechos y cómo ejercerlos. El Estado tiene el deber de informar a todos los niños y adultos de las disposiciones en la Convención (◊em{Artículo 42}) y los padres deben guiar al niño a ejercer sus propios derechos (◊em{Artículo 5}).
+Finalmente, para participar en una sociedad libre el niño debe ser consciente de sus derechos y cómo ejercerlos. El Estado tiene el deber de informar a todos los niños y adultos de las disposiciones en la Convención (◊em{Artículo ◊art{42}}) y los padres deben guiar al niño a ejercer sus propios derechos (◊em{Artículo ◊art{5}}).
 
 
 }

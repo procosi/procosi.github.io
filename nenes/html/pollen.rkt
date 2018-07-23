@@ -3,6 +3,7 @@
 (require pollen/decode)
 (require pollen/tag)
 (require txexpr)
+(require racket/string)
 
 (provide (all-defined-out))
 
@@ -17,6 +18,12 @@
 
 (define (link url . words)
   `(a [[href ,url]] ,@words))
+
+(define (art . numero)
+  (let ([url
+         (string-append
+          "https://procosi.github.io/nenes/convencion/?a=" (list-ref numero 0))])
+    `(a [[href ,url]] ,@numero)))
 
 (define (codeblock . elements)
   `(pre [[class "code"]] ,@elements))

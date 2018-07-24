@@ -174,7 +174,7 @@ Como se menciona en la ◊link["#2"]{Lección 2}, el diálogo acerca de los dere
 ◊li{Ser secuestrado, vendido o tratado (◊em{Artículo ◊art{35}}).}
 ◊li{Ser víctima de formas de explotación no mencionadas en la Convención (◊em{Artículo ◊art{36}}).}
 ◊li{Ser reclutado para conflictos armados en caso de ser menor a 15 años (◊em{Artículo ◊art{38}}).}
-◊li{Ser vícitma de tortura, tratos inhumanos, sentencias de pena capital o prisión perpetua (◊em{Artículo ◊art{37}}).}
+◊li{Ser víctima de tortura, tratos inhumanos, sentencias de pena capital o prisión perpetua (◊em{Artículo ◊art{37}}).}
 ◊li{Ser privado de su libertad ilegal o arbitrariamente (◊em{Artículos ◊art{37} y ◊art{40}}).}
 ◊li{Ser tratado de una forma no digna en caso de ser sentenciado por un delito (◊em{Artículo ◊art{40}}).}
 }

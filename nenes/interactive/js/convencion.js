@@ -1,6 +1,6 @@
 const drawContent = function insertContent(contenido, nodo, nodoContenedor) {
   const narrative = document.getElementById('content');
-  eContenido = contenido.replace(/\[\[/g, '<span id=\"').replace(/\]\[/g, '\">').replace(/\]\]/g, '</span>');
+  eContenido = contenido.replace(/\[\[/g, '<span class="tags" id=\"').replace(/\]\[/g, '\">').replace(/\]\]/g, '</span>');
   nodo.innerHTML = eContenido;
   if (nodoContenedor) {
     nodoContenedor.appendChild(nodo);
@@ -13,11 +13,24 @@ const drawContent = function insertContent(contenido, nodo, nodoContenedor) {
 const drawNarrative = function insertNarrative(guia) {
   guia.forEach((e) => {
     eNode = document.createElement(e.t);
+    if (e.class) {
+      eNode.classList.add(e.class)
+    };
+    if (e.id) {
+      eNode.id = e.id
+    };
     if (e.t == 'ul'){
       e.c.forEach((li) => {
 	eList = document.createElement('li');
 	drawContent(li, eList, eNode);
       });
+    } else if(e.class == 'reference') {
+      refexplanation = document.createElement('span');
+      refexplanation.classList.add('explanation')
+      drawContent(e.c[0], refexplanation, eNode);
+      ref = document.createElement('span');
+      ref.classList.add('ref')
+      drawContent(e.c[1], ref, eNode);
     } else {
       drawContent(e.c, eNode);
     }
@@ -245,7 +258,7 @@ const summaryDraw = function insertSummary(id, tags, mobile, asoc) {
   lastTarget = id;
 };
 const tagListener = function tagMouseListener(tags, mobile) {
-  tagTarget = document.querySelectorAll('#content span');
+  tagTarget = document.querySelectorAll('.tags');
   tagTarget.forEach((target) => {
     (function () {
       const id = target.id;
@@ -1318,7 +1331,7 @@ const svg = d3.selectAll('#circle svg'),
       screen = window.screen.width,
       instrucciones = 'Cada uno de estos puntos es un artículo de la Convención. Puedes explorarlos haciendo click en cada uno o a través de los enlaces en el texto, que represetan colecciones de artículos.';
 
-fetch('./data/1.json').then(function(response) {
+fetch('./data/narrativa.json').then(function(response) {
   response.json().then(function(json) {
     if (screen < 460) {
       whenMobile(json);

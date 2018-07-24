@@ -286,6 +286,7 @@ foreignObject div{
 #content p{
     padding: 12px 0;
     text-align: left;
+    font-size: 1.0rem;
 }
 #content h3{
     padding: 70px 0 30px 0;
@@ -300,13 +301,13 @@ foreignObject div{
 #content p:last-child{
     padding-bottom: 50px;
 }
-#content span{
-    color: #abe8d9;
+.tags{
+    color: #76d8c0;
     cursor:pointer;
     position: relative;
     transition: text-shadow 0.5s ease-in-out;
 }
-#content span:hover{
+.tags:hover{
     color: #57beff;
 }
 ul{
@@ -324,6 +325,7 @@ li{
     padding-top: 7px;
     border-bottom: 1px dashed #ffe0cf;
     padding-bottom: 7px;
+    color: #9a8585;
 }
 li:last-child{
     border-bottom: none;
@@ -365,4 +367,50 @@ li:last-child{
 }
 #content{
     padding: 0px 17% 0px 17%;
+}
+
+
+#narrative h2{
+    font-weight: normal;
+    font-size: 1.8rem;
+    color: #d89797;
+}
+
+#narrative h3{
+    font-weight: normal;
+    font-size: 1.5rem;
+    padding: 0;
+    text-align: left;
+    color: #d89797;
+}
+
+.abstract{
+    font-size: 0.9rem !important;
+    color: #dab0b0;
+    padding: 20px !important;
+    background: white;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.reference{
+    padding: 25px;
+    background: white;
+    border-radius: 5px;
+    font-size:  0.9rem;
+    margin-bottom: 20px;
+}
+
+.explanation{
+    color: #ad9d9d;
+}
+
+.ref{
+    color: #887c7c;
+    font-size: 0.7rem;
+}
+
+a{
+    color: #e07171;
+    text-decoration: none;
 }

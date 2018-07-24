@@ -115,15 +115,9 @@ Adopta, al igual que la Declaración de los Derechos del Niño 30 años antes, u
 
 Las siguientes lecciones trazan un recorrido por la Convención sobre los Derechos de los Niños:
 
-Conceptos básicos: adhesión, estructura y Principios Generales.
-
-Derechos de los Niños:
-
-◊ol{
-◊li{Derecho a una Familia}
-◊li{Derecho a una Vida Plena}
-◊li{Derecho a Protección de los Peligros de la Sociedad Adulta}
-◊li{Derecho a Participar en una Sociedad Libre}
+◊ul{
+◊li{Conceptos básicos: adhesión, estructura y Principios Generales.}
+◊li{Derechos de los niños: derecho a una familia, una vida plena, protección de los peligros de la sociedad adulta, y a participar en una sociedad libre.}
 }
 
 ◊h3[#:id "6"]{Conceptos básicos}◊marginnote{Adhesión, estructura y Principios Generales de la Convención.}
@@ -136,7 +130,7 @@ La Convención está organizada en 3 partes que contienen 54 artículos. Los der
 ◊li{No ser discriminado por ninguna condición suya, de sus padres o representantes legales (◊em{Artículo ◊art{2}}).}
 ◊li{La consideración primordial de su interés superior en decisiones que lo afecten (◊em{Artículo ◊art{3}}).}
 ◊li{Su supervivencia y desarrollo (◊em{Artículo ◊art{6}})}
-◊li{Ser escuchado en procedimientos judiciales o administrativos que lo afecten (◊em{Artículo ◊art{12}})}
+◊li{Ser escuchado y que se respete su punto de vista (◊em{Artículo ◊art{12}})}
 }
 
 ◊h3[#:id "7"]{Derechos de los Niños}

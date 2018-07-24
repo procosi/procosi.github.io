@@ -1,0 +1,1114 @@
+{
+  "guia":[
+    
+    {
+      "t": "h2",
+      "c": "La Niñez y sus Derechos"
+    },
+    
+    {
+      "t": "h3",
+      "c": "La Idea de un Derecho",
+      "id": "leccion1"
+    },
+
+    {
+      "t": "p",
+      "c": "Concepto de derechos. Una noción de derechos que reconoce la dignidad de todas las personas. El rol de las Naciones Unidas en extender esta noción a todos los Estados.",
+      "class": "abstract"
+    },
+
+    {
+      "t": "p",
+      "c": "Todas las personas merecemos vivir sin temor, miseria o ignorancia. Asumimos que existen condiciones que conducen más probablemente a esta vida y las llamamos derechos. Cada sociedad tiene una noción particular que depende de su historia sobre la forma de estos derechos y quiénes los merecen. En sociedades occidentales, el crecimiento de la población que participa de decisiones políticas desde el desarrollo de la imprenta condujo a la idea que todas las personas, sin ninguna distinción, merecen derechos razonables. Las Naciones Unidas creen que la dignidad humana es más importante que las diferencias históricas que llevan a una sociedad a adoptar una noción particular de derechos. Por eso, rescatan esta idea y la expresan en normas internacionales que ofrecen a todos los Estados, que a su vez se comprometen a asegurar estos derechos a toda su población."
+    },
+
+    {
+      "t": "h3",
+      "c": "Visiones de niñez",
+      "id": "leccion2"
+    },
+
+    {
+      "t": "p",
+      "c": "Visiones que forman los adultos sobre la niñez. Visiones donde el adulto controla la dirección del desarrollo del niño. La necesidad de incluir a niños en el desarrollo de nuevas visiones de la niñez.",
+      "class": "abstract"
+    },
+
+    {
+      "t": "p",
+      "c": "A través de la historia, son adultos, no niños, quienes desarrollan visiones acerca de la niñez. Inicialmente, el niño es incapaz de sobrevivir sin la ayuda de un adulto. La forma cómo los adultos intrepretan esta responsabilidad es el origen de sus diferentes visiones de niñez."
+    },
+
+    {
+      "t": "p",
+      "c": "El adulto puede interpretar que parte de su responsabilidad es controlar la dirección del desarrollo del niño. Sobre esta interpretación se construyen dos visiones de la niñez. En una visión, el niño es un pequeño demonio que requiere disciplina y protección de sí mismo. En otra, el niño es un pequeño ángel inocente y puro que requiere protección de una sociedad adulta decadente. Durante el siglo 20, la segunda visión opaca a la primera por una serie de fenómenos, entre los cuales destacan:"
+    },
+
+    {
+      "t": "ul",
+      "c": [
+	"la nostalgia por la niñez entre la creciente clase media",
+	"la menor participación laboral de niños",
+	"y la influencia de un modelo psicológico donde el lenguaje, juego e interacciones sociales son parte importante del desarrollo del niño"
+      ]
+    },
+
+        {
+      "t": "p",
+      "c": "Es esta visión que ha permitido crear un diálogo acerca de los derechos de los niños. Sin embargo, en este diálogo se hace evidente que el entendimiento de los adultos es incompleto sin la participación directa de los niños. En busca de esta participación, los adultos son llamados a reinterpretar su responsabilidad e incorporar más contribuciones de los niños sobre la dirección de su propio desarrollo. Entre los obstáculos actuales que más dificultan esta tarea se encuentran:"
+    },
+
+    {
+      "t": "ul",
+      "c":[
+	"la sobre dependencia en explicaciones biológicas de la experiencia del niño, que puede llevar a creer en una noción objetiva y universal de sus necesidades",
+	"y el abuso de frases como 'los niños son el futuro de la sociedad', que pueden llevar a creer que una versión adulta del niño es más importante que su realidad actual."
+      ]
+    },
+
+    {
+      "t": "p",
+      "c": "Lecturas opcionales:"
+    },
+
+    {
+      "t": "span",
+      "c": [
+	"Una genealogía de visiones sobre de la niñez",
+	"James, Allison, Chris Jenks, and Alan Prout. Theorizing childhood. Teachers College Press, 1998."
+      ],
+      "class": "reference"
+    },
+
+    {
+      "t": "span",
+      "c": [
+	"Revisión de literatura académica que argumenta cómo la niñez es una construcción social",
+	"Williams, Timothy P., and Justin Rogers. Rejecting ‘the child’, embracing ‘childhood’: Conceptual and methodological considerations for social work research with young people. International Social Work 59.6 (2016): 734-744."
+      ],
+      "class": "reference"
+    },
+
+    {
+      "t": "h3",
+      "c": "El efecto desproporcionado de las condiciones de la niñez",
+      "id": "leccion3"
+    },
+
+    {
+      "t": "p",
+      "c": "Razones para otorgar derechos para niños. El efecto de las condiciones de vida de niños sobre el desarrollo económico de la sociedad.",
+      "class": "abstract"
+    },
+
+    {
+      "t": "p",
+      "c": "En las anteriores lecciones se mencionaron dos razones para otorgar derechos a niños:"
+    },
+
+    {
+      "t": "ul",
+      "c": [
+	"Todos se merecen condiciones que permitan vivir sin temor, miseria o ignorancia.",
+	"Los niños no pueden inicialmente sobrevivir sin la ayuda de adultos."
+      ]
+    },
+
+    {
+      "t": "p",
+      "c": "Ambas razones son suficientes para justificar la protección del niño en un contexto doméstico. Sin embargo, desde un nivel institucional sobresale una tercera razón:"
+    },
+
+    {
+      "t": "ul",
+      "c": [
+	"Las condiciones de vida de los niños tienen un efecto desproporcionado sobre el resto de sus vidas y su contribución a la sociedad."
+      ]
+    },
+
+    {
+      "t": "p",
+      "c": "Las malas condiciones de la niñez se reflejan eventualmente en menor productividad, mayor crimen y mayores costos de salud. En un estudio de 2008 en Estados Unidos, se estima que el costo adicional de la pobreza infantil sobre estas tres dimensiones alcanza a 500 Mil Millones de Dólares anuales, o 4% del Producto Interno Bruto. Niños en malas condiciones están expuestos a un riesgo elevado de estimulación cognitiva inadecuada, atrofiamiento, deficiencia de yodo y hierro, restricción de crecimiento intrauterino, malaria, exposición al plomo, síntomas maternos depresivos y exposición a la violencia, entre otros. Estos factores de riesgo se manifiestan en bajo desempeño escolar, baja capacidad de ingreso y eventualmente la transmisión intergeneracional de pobreza. Desde esta perspectiva, el cumplimiento de derechos a niños se convierte en una de las mejores inversiones que un Estado puede realizar a largo plazo."
+    },
+
+    {
+      "t": "p",
+      "c": "Lecturas opcionales:"
+    },
+
+    {
+      "t": "span",
+      "c": [
+	"Meta análisis acerca de factores de riesgo en la niñez temprana de 2011",
+	"Walker, Susan P., et al. Inequality in early childhood: risk and protective factors for early child development. The Lancet 378.9799 (2011): 1325-1338."
+      ],
+      "class": "reference"
+    },
+
+    {
+      "t": "span",
+      "c": [
+	"Estudio de los costos económicos de la pobreza infantil en Estados Unidos de 2008",
+	"Holzer, Harry J., et al. The economic costs of childhood poverty in the United States. Journal of Children and Poverty 14.1 (2008): 41-61."
+      ],
+      "class": "reference"
+    },
+
+    {
+      "t": "h3",
+      "c": "Derechos de los niños en las Naciones Unidas",
+      "id": "leccion4"
+    },
+    
+    {
+      "t": "p",
+      "c": "Las Naciones Unidas y los niños. La Declaración de los Derechos del Niño. Normas que repiten y complementan la Declaración.",
+      "class": "abstract"
+    },
+
+    {
+      "t": "p",
+      "c": "Como se menciona en la <a href='leccion1'>Lección 1</a>, las Naciones Unidas rescatan la noción que todas las personas, sin distinción, merecen condiciones razonables que les permitan vivir sin temor, miseria o ignorancia. Esta noción es expresada en el Artículo 2 de la “Declaración Universal de los Derechos Humanos” de 1948. En esta Declaración, la única mención específica acerca de niños es el Artículo 25, que hace referencia a su protección sin importar si nacieron dentro o fuera del matrimonio. Desde entonces, las Naciones Unidas han creado normas que buscan ofrecer al niño protección especial, siguiendo la visión de niño como ángel inocente mencionada en la <a href='leccion2'>Lección 2</a>.}. "
+    },
+
+    {
+      "t": "p",
+      "c": "Hasta 1989, el año en que se adopta la “Convención sobre los Derechos de los Niños”, la más influyente de estas normas era la “Declaración de los Derechos del Niño”, adoptada por las Naciones Unidas en 1959. La Declaración contiene 10 principios que norman que:"
+    },
+
+    {
+      "t": "ul",
+      "c": [
+	"Todos los niños, sin distinción, merecen",
+	"oportunidades de desarrollo de acuerdo a su interés superior,",
+	"un nombre y nacionalidad,",
+	"seguridad social, que incluye vivienda, atención en salud, alimentación y recreo,",
+	"cuidado especial en caso de impedimento,",
+	"un ambiente de afecto y seguridad moral, en preferencia sus padres,",
+	"educación elemental gratuita y obligatoria,",
+	"prioridad en caso de socorro,",
+	"protección de explotación y empleos peligrosos, y",
+	"una formación que comunique tolerancia, paz y fraternidad universal."
+      ]
+    },
+    
+    {
+      "t": "p",
+      "c": "En los próximos 30 años las Naciones Unidas adoptan normas que repiten y ocasionalmente complementan los principios de la Declaración."
+    },
+    
+    {
+      "t": "p",
+      "c": "En 1966, el “Pacto Internacional de Derechos Civiles y Políticos”, y el “Pacto Internacional de Derechos Económicos, Sociales y Culturales” repiten:"
+    },
+    
+    {
+      "t": "ul",
+      "c": [
+	"la protección a la familia del Principio 6,",
+	"la protección a niños sin distinción del Principio 1,",
+	"el derecho del niño a un nombre y nacionalidad del Principio 3, y",
+	"la protección al niño en situaciones de explotación y empleos peligrosos, del Principio 9."
+      ]
+    },
+
+    {
+      "t": "p",
+      "c": "Una contribución del primer pacto es la mención que ambos padres tienen los mismos derechos y responsabilidades."
+    },
+    
+    {
+      "t": "p",
+      "c": "En 1974, la “Declaración sobre la protección de la mujer y el niño en estados de emergencia o de conflicto armado” extiende los Principios 4 y 8 al tratamiento de conflictos armados. Es decir que en estos casos los niños no deben ser privados de seguridad social, y los ataques no pueden afectar directamente a la población civil."
+    },
+    
+    {
+      "t": "p",
+      "c": "En 1985, las “Reglas mínimas de las Naciones Unidas para la administración de la justicia de menores” extienden la Declaración al caso de menores delincuentes. En particular, norman que el sistema de justicia debe priorizar el bienestar del delincuente y que la pena debe ser proporcionada al delito."
+    },
+    
+    {
+      "t": "p",
+      "c": "Finalmente en 1986, la “Declaración sobre los principios sociales y jurídicos relativos a la protección y el bienestar de los niños, con particular referencia a la adopción y la colocación en hogares de guarda, en los planos nacional e internacional” complementa el Principio 6 de la Declaración con el caso de adopciones. Esta declaración determina que una adopción debe ser gestionada de manera legal por organizaciones profesionales."
+    },
+
+    {
+      "t": "h2",
+      "c": "La Convención sobre los Derechos de los Niños"
+    },
+    
+    {
+      "t": "h3",
+      "c": "Introducción a la Convención",
+      "id": "leccion5"
+    },
+    
+    {
+      "t": "p",
+      "c": "La Convención sobre los Derechos de los Niños. Diferencias con otras normas internacionales sobre niños.",
+      "class": "abstract"
+    },
+    
+    {
+      "t": "p",
+      "c": "La Convención sobre los Derechos de los Niños es adoptada por las Naciones Unidas en 1989 para proveer a todos los niños de condiciones que los ayuden a alcanzar una vida sin temor, miseria o ignorancia. "
+    },
+
+    {
+      "t": "p",
+      "c": "Adopta, al igual que la Declaración de los Derechos del Niño 30 años antes, una visión del niño como un ángel inocente que requiere protección especial de la sociedad adulta. A diferencia de la Declaración, define una lista mucho más exhaustiva de condiciones para brindar esta protección. Sin embargo, la extensión de esta lista es la diferencia menos significativa. La Convención define una dirección diferente de las normas mencionadas en la <a href='leccion4'>Lección 4</a> de dos maneras:"
+    },
+    
+    {
+      "t": "ul",
+      "c": [
+	"Reconoce la incompletitud del entendimiento que los adultos tienen sobre los niños y crea oportunidades para su participación directa.",
+	"Demanda el compromiso del Estado mediante un órgano de control, el Comité de los Derechos del Niño, y un mecanismo de quejas individuales."
+      ]
+    },
+    
+    {
+      "t": "p",
+      "c": "Las siguientes lecciones trazan un recorrido por la Convención sobre los Derechos de los Niños:"
+    },
+    
+    {
+      "t": "p",
+      "c": "Conceptos básicos: adhesión, estructura y Principios Generales."
+    },
+
+    {
+      "t": "p",
+      "c": "Derechos de los Niños:"
+    },
+    
+    {
+      "t": "ul",
+      "c": [
+	"Derecho a una Familia",
+	"Derecho a una Vida Plena",
+	"Derecho a Protección de los Peligros de la Sociedad Adulta",
+	"Derecho a Participar en una Sociedad Libre"
+      ]
+    },
+    
+    {
+      "t": "h3",
+      "c": "Conceptos básicos",
+      "id": "leccion6"
+    },
+    
+    {
+      "t": "p",
+      "c": "Adhesión, estructura y Principios Generales de la Convención.",
+      "class": "abstract"
+    },
+
+    {
+      "t": "p",
+      "c": "[[t1][Las Naciones Unidas invitan a todos los Estados a firmar o adherirse a la Convención sobre los Derechos del Niño]]. Una firma indica que el Estado está de acuerdo con las disposiciones en ella y una adhesión lo compromete a cumplirlas luego de 30 días (◊em{Artículo ◊art{49}}). Este compromiso implica utilizar todas las medidas y recursos posibles para hacerlas realidad (◊em{Artículo ◊art{4}}) y ser evaluado periódicamente por el Comité de los Derechos del Niño (◊em{Artículos ◊art{43}, ◊art{44} y ◊art{45}})."
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+    {
+      "t": "",
+      "c": ""
+    },
+    
+  ],
+  
+  "asociaciones":
+  {
+    "t1":{
+      "n": "Firma y adhesión de Estados",
+      "s": "Las Naciones Unidas invitan a todos los Estados a firmar o adherirse a la Convención sobre los Derechos del Niño",
+      "a": [46, 47, 48]
+    },
+    
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+     "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+     "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+     "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+     "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+     "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+     "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+
+     "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+
+    "t1":{
+      "n": "",
+      "s": "",
+      "a": []
+    },
+    
+  }
+  {
+    "t1": {
+      "n": "Primera Parte",
+      "s": "Parte 1",
+      "a": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
+    },
+ 
+   "t2": {
+      "n": "Segunda Parte",
+      "s": "Parte 2",
+      "a": [42, 43, 44, 45]
+    },
+ 
+   "t3": {
+      "n": "Tercera Parte",
+      "s": "Parte 3",
+      "a": [46, 47, 48, 49, 50, 51, 52, 53, 54]
+    },
+ 
+   "t4": {
+      "n":"Definición de niño",
+      "s": "Un niño es cualquier ser humano menor de 18 años (1).",
+      "a": [1]
+    },
+    
+    "t5": {
+      "n":"Ampliación de derechos sin discriminación",
+      "s": "El Estado asegura derechos a todos los niños en su jurisdicción (2).",
+      "a": [2]
+    },
+
+    "t6": {
+      "n":"El interés superior del niño en asuntos que lo afectan",
+      "s": "Toda decisión que afecte a un niño debe priorizar su interés superior (3).",
+      "a": [3]
+    },
+
+    "t7": {
+      "n":"Uso de recursos del Estado",
+      "s": "El Estado usará todos los recursos disponibles para efectuar estos derechos (4).",
+      "a": [4]
+    },
+
+    "t8": {
+      "n":"Rol de adultos que se responsabilizan de niños",
+      "s": "Adultos que sean responsables de niños tienen responsabilidades, derechos y deberes para orientar al niñoa ejercer sus propios derechos (5).",
+      "a": [5]
+    },
+
+    "t9": {
+      "n":"Derecho a la vida",
+      "s": "El Estado garantiza la supervivencia y desarrollo del niño (6)",
+      "a": [6]
+    },
+
+    "t10": {
+      "n":"Relación con padres e identidad del niño",
+      "s": "El niño tiene derecho a una relación con sus padres (7, 8, 9, 10), ambos de los cuales tienen la misma responsabilidad (18) El niño tiene derecho a un nombre y nacionalidad (7, 8)",
+      "a": [7, 8, 9, 10, 18]
+    },
+
+    "t11": {
+      "n":"Control del traslado ilícito de niños al extranjero",
+      "s": "El Estado evita que niños sean trasladados y retenidos en el extranjero de forma ilícita (11).",
+      "a": [11]
+    },
+
+    "t12": {
+      "n":"Libertad de expresión, pensamiento, conciencia, religión y asociación",
+      "s": "El Estado garantiza que el niño pueda expresar su opinión (12), recibir y difundir información (13), pensar, creer (14) y asociarse libremente (15).",
+      "a": [12, 13, 14, 15]
+    },
+
+    "t13": {
+      "n":"Relación del Estado con medios de comunicación",
+      "s": "El Estado alienta a medios de comunicación a producir y difundir información útil para el bienestar del niño (17).",
+      "a": [17]
+    },
+
+    "t14": {
+      "n":"Protección del niño de agresiones físicas, mentales o reputacionales",
+      "s": "El Estado protege al niño contra abusos físicos y mentales, tratos negligentes y explotativos (19), injerencias a su privacidad o ataques ilegales a su reputación (16).",
+      "a": [16, 19]
+    },
+
+    "t15": {
+      "n":"Protección de niños sin familia",
+      "s": "El Estado protege a niños sin familia (20), regula adopciones (21) y asiste a niños considerados refugiados (22).",
+      "a": [20, 21, 22]
+    },
+
+    "t16": {
+      "n":"Salud del niño",
+      "s": "El Estado asegura que el niño reciba el mejor servicio de salud posible (24), especialmente si está impedido física o mentalmente (23), y que reciba un examen periódico si se encuentra internado (25).",
+      "a": [23, 24, 25]
+    },
+
+    "t17": {
+      "n":"Economía del niño",
+      "s": "Los adultos son responsables de proveer un buen nivel de vida al niño, con asistencia del Estado en nutrición, vestuario, vivienda (27) y prestaciones sociales correspondientes (26).",
+      "a": [26, 27]
+    },
+
+    "t18": {
+      "n":"Educación del niño",
+      "s": "El Estado garantiza una educación primaria a los niños donde la disciplina respete su dignidad (28), se desarrollen sus aptitudes, respeto y capacidad para vivir en una sociedad libre (29).",
+      "a": [28, 29]
+    },
+
+    "t19": {
+      "n":"Cultura del niño",
+      "s": "El Estado promueve oportunidades para que niños puedan recrearse y participar de la vida cultural (31), incluso si su cultura representa una minoría (30).",
+      "a": [30, 31]
+    },
+
+    "t20": {
+      "n":"Protección de situaciones de explotación",
+      "s": "El Estado protege al niño de explotación económica (32), relacionada a estupefacientes (33), sexual (34), de trata (35) y otras (36).",
+      "a": [32, 33, 34, 35, 36]
+    },
+
+    "t21": {
+      "n":"Protección de la tortura y el uso de niños en conflictos armados",
+      "s": "El Estado evita imponer torturas, tratos inhumanos, pena capital o prisión perpetua a niños (37), además de evitar reclutar a menores de 15 años en conflictos armados (38). El Estado se responsabiliza por reintegrar niños víctimas de abusos a la sociedad (39).",
+      "a": [37, 38, 39]
+    },
+
+    "t22": {
+      "n":"Tratamiento penal de niños",
+      "s": "El Estado trata dígnamente a niños que encuentra culpables de infringir leyes penales 40()",
+      "a": [40]
+    },
+
+    "t23": {
+      "n":"La importancia del espíritu de la Convención ",
+      "s": "El Estado puede emplear disposiciones no descritas en la Convención que se encuentren en su derecho propio o el internacional y que promuevan mejor los derechos de niños (41).",
+      "a": [41]
+    },
+
+    "t24": {
+      "n": "Compromiso del Estado para hacer conocer la Convención",
+      "s": "El Estado informa a niños y adultos de los principios y disposiciones de la Convención (42)",
+      "a": [42]
+    },
+
+    "t25": {
+      "n": "Rol, composición y mecanismos de coordinación del Comité",
+      "s": "Rol, composición y mecanismos de coordinación del Comité: El Comité evalúa como el Estado cumple la Convención. Se compone de 18 expertos de los Estados Parte, votados cada 2 años por mayoría absoluta. Se reúne cada año. (43)",
+      "a": [43]
+    },
+
+    "t26": {
+      "n": "Presentación de informes",
+      "s": "El Estado presenta un informe al Comité cada 5 años indicando medidas, progreso y dificultades que encuentra al cumplir la Convención. El Comité presenta un informe a la Asamblea General de las Naciones Unidas cada 2 años. (44)",
+      "a": [44]
+    },
+
+    "t27": {
+      "n": "Colaboración de otras organizaciones",
+      "s": "Por iniciativa propia o invitación, órganos de las Naciones Unidas, en especial el Fondo de las Naciones Unidas para la Infancia, y otras organizaciones pueden asesorar la aplicación de la Convención. (45)",
+      "a": [45]
+    },
+
+    "t28":{
+      "n":"Invitación a los Estados",
+      "s":"Todos los Estados están invitados a firmar (46), adherirse (48) o ratificar (47) la Convención.",
+      "a":[46, 47, 48]
+    },
+
+    "t29":{
+      "n":"Tiempo que tiene el Estado para cumplir la norma",
+      "s":"El Estado debe cumplir la norma a partir de 30 días despúes de su adhesión (49).",
+      "a":[49]
+    },
+
+    "t30":{
+      "n":"Cómo el Estado puede proponer cambios o denuncias a la Convención, y evitar cumplir algunos artículos",
+      "s":"El Estado expresa enmiendas (50), reservas (51) y denuncias (52) a la Convención mediante el Secretario General de las Naciones Unidas.",
+      "a":[50, 51, 52]
+    },
+
+    "t31":{
+      "n":"Entrega de la Convención",
+      "s":"El Secretario General de las Naciones Unidas es el depositario de la Convención (53), incluyendo el documento original (54).",
+      "a":[53, 54]
+    },
+
+    "t32":{
+      "n":"Principio General: No discriminación",
+      "s":"El Estado asegura la aplicación de la Convención a cada niño sin distinción de cualquier condición del niño, de sus padres o de sus representantes legales (2).",
+      "a":[2]
+    },
+
+    "t33":{
+      "n":"Principio General: Interés superior del niño",
+      "s":"Toda decisión en una institución pública o privada que afecte al niño debe priorizar su interés superior (3).",
+      "a":[3]
+    },
+
+    "t34":{
+      "n":"Principio General: Derecho a la supervivencia y desarrollo",
+      "s":"El Estado reconoce el derecho del niño a la vida y garantiza su supervivencia y desarrollo (6).",
+      "a":[6]
+    },
+
+    "t35":{
+      "n":"Principio General: Derecho a ser escuchado",
+      "s":"El Estado garantiza que el niño pueda formar y expresar su opinión sobre asuntos que lo afectan (12).",
+      "a":[12]
+    },
+
+    "t36":{
+      "n":"El niño inmaduro",
+      "s":"Un sujeto indefenso que requiere protección especial. Por ejemplo, el niño tiene derecho a obtener (7) y preservar (8, 9) una relación con sus padres, incluso cuando sea separado de ellos (9) y a reunirse con ellos cuando se encuentren fuera del Estado (10). En caso de no contar con sus padres, el niño requiere la protección del Estado (20).",
+      "a":[7, 8, 9, 10, 20]
+    },
+
+    "t37":{
+      "n":"El niño maduro",
+      "s":"Un sujeto capaz de formar y expresar su opinión. Por ejemplo, el niño debe ser escuchado en asuntos que lo afectan (12), puede buscar, recibir y difundir cualquier información (13), tiene libertad de pensamiento, conciencia y religión (14), y puede asociarse y celebrar reuniones pacíficas (15).",
+      "a":[12, 13, 14, 15]
+    },
+
+    "t38":{
+      "n":"Una trayectoria de maduración",
+      "s":"Un sujeto que forma progresivamente mejor su propia opinión respecto a sus derechos con la ayuda del Estado y los adultos responsables de él. Por ejemplo, el Estado debe ayudar al niño a formar su opinión sobre asuntos que lo afectan (12) a través de medios de comunicación (17) y el sistema educativo (28), junto a los adultos que son responsables por él (5).",
+      "a":[12, 17, 28, 5]
+    }
+    
+  }
+}

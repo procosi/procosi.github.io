@@ -116,7 +116,7 @@ circle {
 #circletitle{
     font-family: roboto;
     font-size: 20px;
-    fill: #a1f4ed;
+    fill: #71eccf;
 }
 
 /* Tags */
@@ -347,7 +347,7 @@ li:last-child{
 }
 .title{
     position: absolute;
-    top:35%;
+    top: 25%;
     left: 40%;
     transform: translate(-30%, -50%);
     line-height: 1.2;
@@ -355,13 +355,13 @@ li:last-child{
     font-family: 'roboto';
     font-size: 1rem;
     font-weight: normal;
-    color: #e67373;
+    color: #4f5a76;
 }
 .title p{
     margin: 10px;
 }
 #title{
-    color: #e67373;
+    color: #4f5a76;
     font-size: 2.2rem;
     text-shadow: -1px -1px 0 #ffeaec, 1px -1px 0 #ffeaec, -1px 1px 0 #ffeaec, 1px 1px 0 #ffeaec;
 }
@@ -373,7 +373,7 @@ li:last-child{
 #narrative h2{
     font-weight: normal;
     font-size: 1.8rem;
-    color: #d89797;
+    color: #4f5a76;
 }
 
 #narrative h3{
@@ -381,7 +381,7 @@ li:last-child{
     font-size: 1.5rem;
     padding: 0;
     text-align: left;
-    color: #d89797;
+    color: #4f5a76;
 }
 
 .abstract{

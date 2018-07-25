@@ -58,11 +58,13 @@
 
 body{
     font-family: 'roboto';
+    background: #fffbfb;
 }
 
 /* Circle */
 #circle{
     width: 100%;
+    display:none;
 }
 #circle svg{
     width: 100%;
@@ -189,6 +191,7 @@ foreignObject div{
 
 /* Narrative */
 #narrative{
+    display:none;
     font-family: "roboto slab";
     color: #000;
     padding-top: 5%;
@@ -213,4 +216,10 @@ foreignObject div{
     color: #000;
     cursor:pointer;
     font-weight: bold;
+}
+
+.warning{
+    padding: 20px;
+    font-size: 2rem;
+    color: #8396af;
 }

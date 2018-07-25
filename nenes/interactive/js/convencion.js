@@ -273,11 +273,14 @@ const tagListener = function tagMouseListener(tags, mobile) {
 const whenMobile = function tasksOnMobile(data) {
   // const tags = data.tags;
   // insertContent(data);
-  circleWidth = (screen / 2) - ((screen / 450) * 40);
-  drawCircle(54, circleWidth, 7.5, 50);
-  circleText(instrucciones, circleWidth, 25);
-  document.querySelector('#circle svg').style.height = `${screen * 0.95}px`;
-  tagListener(data.asociaciones, 1);
+  const cuerpo = document.getElementById('composition');
+  cuerpo.classList.add("warning");
+  cuerpo.textContent = 'Este documento no está optimizado para pantallas móviles. Por favor, ábrelo en una computadora.'
+  // circleWidth = (screen / 2) - ((screen / 450) * 40);
+  // drawCircle(54, circleWidth, 7.5, 50);
+  // circleText(instrucciones, circleWidth, 25);
+  // document.querySelector('#circle svg').style.height = `${screen * 0.95}px`;
+  // tagListener(data.asociaciones, 1);
 };
 
 /*
@@ -1337,8 +1340,10 @@ fetch('./data/narrativa.json').then(function(response) {
       whenMobile(json);
     } else {
       whenDesktop(json);
+      const index = tagIndex(json.asociaciones);
+      dotListener(index, json.asociaciones);
     }
-    const index = tagIndex(json.asociaciones);
-    dotListener(index, json.asociaciones);
+    // const index = tagIndex(json.asociaciones);
+    // dotListener(index, json.asociaciones);
   })
 });

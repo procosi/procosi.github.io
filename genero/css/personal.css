@@ -1,0 +1,86 @@
+.card{
+    width: 48%;
+    margin: 0 40px 20px 20px;
+    border-radius: 5px;
+    padding: 5px 25px;
+    background-color: #fffbf2;
+}
+
+.cardtitle{
+    text-align: center;
+    font-size: 1.45rem;
+    padding-bottom: 10px;
+}
+
+.cardtitle .sidenote{ 
+    margin-right: -72%;
+    text-align: left;
+}
+
+blockquote p{
+    font-style: italic;
+}
+
+.citetitle{
+    font-style: italic;
+}
+
+.org{
+    font-style: italic;
+}
+
+.citation{
+    font-style: italic;
+}
+
+.concept{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.frase{
+    text-align: right;
+    color: #7b7b7b;
+}
+
+.inotherwords{
+    color: #5c5755;
+    font-size: 0.8em;
+    border-radius: 5px;
+    padding: 3px 6px;
+}
+
+h2{
+    width: 55%;
+}
+
+.acronym{
+    color: #998478;
+    font-size: 0.85em;
+    background-color: #feefdb;
+    border-radius: 5px;
+    padding: 1px 6px;
+}
+
+.sidenote, .marginnote{
+    margin-bottom: 20px
+}
+
+@media screen and (max-device-width: 760px) {
+    .card{
+	width: 80%;
+	margin: 0 0 20px 0;
+	border-radius: 5px;
+	padding: 5px 25px;
+	background-color: #fffbf2;
+    }
+
+    .margin-toggle{
+	color: #ef2912;
+    }
+
+    h2, h3, h4{
+	width: 100%;
+    }
+}

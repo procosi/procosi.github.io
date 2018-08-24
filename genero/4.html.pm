@@ -1,7 +1,12 @@
 #lang pollen
 
+◊heading{
+
+◊bannersrc{banner/4.png}
 ◊title{Unidad 4}
 ◊subtitle{La dimensión de género en el desarrollo económico local}
+
+}
 
 ◊section{
 
@@ -21,19 +26,21 @@ En países como Chile, Grecia y Tailandia, su contribución en materia de empleo
 
 Por diversos motivos, las microempresas y las pequeñas y medianas empresas deberían contar con una fuerza de trabajo con representación equitativa de ambos sexos. En primer lugar, el nivel de instrucción de las mujeres ha aumentado significativamente en los últimos decenios, y cada vez más mujeres se gradúan de carreras técnicas y científicas. Cuando se discrimina a la mujer en el proceso de contratación, las empresas desaprovechan esa reserva de mujeres calificadas cuyo talento se infrautiliza. En segundo lugar, las diferencias entre los empleados de sexo masculino y de sexo femenino pueden reportar importantes ganancias a las empresas. Dado que éstas funcionan en un mercado heterogéneo y a menudo imprevisible, una gama diversa de conocimientos especializados dentro de una misma empresa la dota de un mayor nivel de calificación y una mayor capacidad de reacción ante los cambios. El equilibrio de género en los equipos de gestión puede mejorar la capacidad de innovación e incrementar la rentabilidad de los ingresos y activos.
 
-◊image["img/28.png"]{''}
-
 Aunque evidentemente no son exhaustivas, las razones citadas demuestran que existe un argumento económico en favor de la igualdad de género. Deberían crearse y aplicarse efectivamente marcos adecuados de política para la igualdad de género en los ámbitos nacional y local a fin de conseguir un nivel de acceso y oportunidades equitativas, que permitiera el avance profesional tanto a los hombres como a las mujeres en el mercado de trabajo.
+
+}
+
+◊section{
 
 ◊h2[#:id "4.2"]{El papel potencial de los hombres y las mujeres en la economía local}
 
 Tanto los hombres como las mujeres contribuyen a la economía local desde sus roles específicos y tienen conocimientos y calificaciones singulares que se corresponden con dichos roles. Esos son los componentes básicos para desarrollar el potencial de una localidad. Hay determinadas cuestiones de género relacionadas con cada uno de esos papeles, y medidas que pueden servir para abordarlos.
 
-◊h3{Como ciudadanos / as}
+◊h3{Como ciudadan◊gender{os/as}}
 
 En una democracia, los ciudadanos influyen en el programa de desarrollo a través del voto electoral y participando en los debates públicos sobre las decisiones del gobierno que han elegido. Ahora bien, la capacidad de defender efectivamente los derechos individuales y ejercer presión sobre el gobierno local para que atienda los intereses de las personas muchas veces supone la acción colectiva. En zonas donde el poder se concentra en unos pocos, la creación de grupos de intereses comunes formados por mujeres, agricultores, empresarios, residentes del barrio, etc. y su vinculación con grupos análogos de otros lugares ha servido para conseguir que los beneficios del desarrollo sean sostenibles y se distribuyan de manera más equitativa. Por lo tanto, la creación de pequeñas asociaciones en el marco del proceso de desarrollo económico local puede servir para hacer participar a las mujeres en los órganos locales de toma de decisiones. Se podrían dictar cursos de formación en género y liderazgo para aumentar las calificaciones en materia de oratoria, negociación, trabajo en redes, etc. Las campañas de sensibilización permiten crear conciencia sobre algunas prácticas de organizaciones e instituciones que pueden atentar contra la igualdad de género. En los países donde las mujeres tienen dificultades para organizarse, puede recurrirse a obras de teatro y programas de radio para modificar la percepción pública del colectivismo, y también para ofrecer contenidos de formación a quienes viven en zonas remotas.
 
-◊h3{Como representantes electos / as}
+◊h3{Como representantes elect◊gender{os/as}}
 
 Por lo general, es más fácil que las mujeres participen en las estructuras de gobierno locales que en las nacionales, dado que los criterios de admisibilidad son menos rigurosos y las mujeres conocen bien su comunidad y las oportunidades y los problemas que se presentan en ella.
 
@@ -41,9 +48,7 @@ Si los diferentes grupos sociales de una región tienen una representación prop
 
 Ahora bien, cabe mencionar que una representación equilibrada de hombres y mujeres en los órganos electivos no garantiza por sí sola la promoción de la igualdad de género, dado que algunas mujeres pueden sentirse incapaces de plantar cara a las estructuras patriarcales, o no necesariamente representar los intereses de la mujer. Aumentar la capacidad de las autoridades locales, mujeres y hombres, respecto de la sensibilización sobre la problemática de género puede mejorar la representación de las mujeres.
 
-◊image["img/29.png"]{''}
-
-◊h3{Como empleados / as}
+◊h3{Como emplead◊gender{os/as}}
 
 La disponibilidad de oportunidades de trabajo decente y el hecho de que haya personas calificadas para aprovecharlas son un importante indicador de la prosperidad de la economía local.
 
@@ -66,7 +71,7 @@ Las mujeres dirigen el 30 por ciento de las ◊acronym{PYME} de Vietnam y son pr
 
 }
 
-◊h3{Como empresarios/as o trabajadores / as por cuenta propia}
+◊h3{Como empresari◊gender{os/as} o trabajador◊gender{es/as} por cuenta propia}
 
 Las microempresas y pequeñas y medianas empresas confieren el necesario dinamismo a la economía local, ya que crean puestos de trabajo, además de bienes y servicios que impulsan la economía. Como es sabido, en la mayoría de los países en desarrollo las microempresas y las pequeñas y medianas empresas dan trabajo a un porcentaje significativo de la población activa, pero mayormente los puestos que crean son de mala calidad, están mal remunerados y ofrecen condiciones inseguras de trabajo y cobertura mínima de seguridad social. Cabe señalar que, en ese sentido, existen diferencias significativas entre las microempresas más precarias y las pequeñas empresas más dinámicas orientadas al crecimiento.
 
@@ -74,11 +79,9 @@ Cada vez más mujeres se dan cuenta de que crear su propia empresa o trabajar po
 
 Sin embargo, pese a los obstáculos que impiden a las mujeres controlar los recursos, una proporción significativa de las empresas dirigidas por mujeres ha pasado de la producción en el hogar (mujeres que trabajan en su domicilio) y las pequeñas actividades comerciales de subsistencia a la actividad empresarial más competitiva de producción de bienes y servicios para los mercados local, regional, nacional e internacional. Para que sus empresas crezcan y la oferta de bienes y servicios se diversifique, las mujeres necesitan apoyo estratégico y acceso no solo a la financiación, sino también a servicios profesionales de desarrollo empresarial acordes a sus necesidades. Además, deberían resolverse los problemas de género en la comunidad y el hogar, tales como la división desigual de las responsabilidades del cuidado y las tareas del hogar. La participación en asociaciones de empleadores y en organizaciones empresariales representativas puede dar a las empresarias el apoyo necesario para acceder a los servicios de desarrollo empresarial, a oportunidades de financiación, al desarrollo de los recursos humanos y a las estructuras de toma de decisiones, y ayudarlas así a mejorar su competitividad. 
 
-◊image["img/30.png"]{''}
-
 Cada vez se reconoce más que la capacidad empresarial es un medio importante y una estrategia valiosa para crear puestos de trabajo y dar independencia económica a los jóvenes de ambos sexos. Son cada vez más los jóvenes de todo el mundo que están creando su empresa, revitalizando así la economía local y ofreciendo bienes y servicios valiosos a las comunidades locales. Los empresarios jóvenes pueden responder especialmente bien a las nuevas oportunidades y tendencias, así como contribuir a la innovación del mercado. El apoyo a la capacidad empresarial de los jóvenes a nivel local se presenta como una estrategia fundamental para promover el crecimiento económico, mejorar el índice de éxito de las microempresas y las pequeñas y medianas empresas e impedir que las empresas dirigidas por los jóvenes queden relegadas a la economía informal. El uso de programas de radio y otros medios de comunicación masivos mejoran la información del mercado y refuerzan la capacidad empresarial. Esos medios pueden usarse para ayudar a los jóvenes empleando un formato que les sea atractivo y que permita llegar a quienes viven en zonas remotas.
 
-◊h3{Como productores/as no remunerados / as servicios y prestadores / as de servicios}
+◊h3{Como productor◊gender{es/as} no remunerad◊gender{os/as} servicios y prestador◊gender{es/as} de servicios}
 
 Por lo general, la aportación que hacen los hombres y las mujeres a la economía local en forma de trabajo no remunerado no está contemplada en las estadísticas nacionales ni locales del crecimiento económico. En el caso de las amas de casa, la actividad productiva se desarrolla en el hogar y no está destinada al mercado, sino al consumo familiar. Además, durante todo su ciclo de vida, las mujeres dedican un tiempo considerable, por lo general más que los hombres, a las tareas reproductivas ◊otherwords{mantenimiento del hogar, procreación, crianza, cuidado de jóvenes, enfermos y ancianos} y a su papel en la sociedad ◊otherwords{educación y voluntariado}. Poco a poco, estas tareas se están distribuyendo más equitativamente entre hombres y mujeres, aunque muchas sociedades siguen considerándolas obligaciones propias de mujeres y niñas.
 
@@ -88,9 +91,46 @@ A medida que se suman más mujeres a la fuerza de trabajo, crece con más rapide
 
 Las empresas de la economía social ◊otherwords{es decir, aquellas que tienen la característica particular de producir bienes, servicios y conocimiento apuntando a metas económicas y sociales y promoviendo la solidaridad al mismo tiempo} pueden hacer una contribución importante para concretar objetivos comunitarios como la prestación de seguridad social y servicios de atención. El fortalecimiento de las empresas de interés social y la prestación de sus servicios a la comunidad pueden ser elementos importantes de las estrategias de desarrollo económico local y ayudar a promover la igualdad de género.
 
-Cuadro 1. Los diversos papeles que desempeñan los hombres y las mujeres en el desarrollo económico local
+◊table{◊marginnote{Los diversos papeles que desempeñan los hombres y las mujeres en el desarrollo económico local}
 
-◊image["tmp/p5.png"]{''}
+◊row{
+Papel
+Problema de Género
+Posible Solución
+}
+
+◊row{
+Ciudadano
+Escasa voz o capacidad de ejercer presión para que se dé cabida a los intereses individuales
+Organización de grupos de intereses comunes
+}
+
+◊row{
+Representante electo
+Capacidad limitada de presentarse a elecciones
+◊ul{◊li{Cupo de mujeres}◊li{Selección y formación de candidatas}◊li{Sensibilidación de los representantes del gobierno sobre cuestiones de género}}
+}
+
+◊row{
+Empleado
+◊ul{◊li{Capacidad limitada de negociar intereses contrapuestos}◊li{Empleabilidad en desiguales condiciones}◊li{Discriminación en el proceso de contratación}◊li{Déficits de trabajo decente}◊li{Desequilibrio entre el trabajo y la familia}}
+◊ul{◊li{Desarrollo de calificaciones para el mercado laboral en las mujeres, los jóvenes y los grupos vulnerables}◊li{Preferencia por las mujeres si tienen las mismas calificaciones que los hombres y carecen de representación suficiente}◊li{Mejora de la calidad del empleo para todos}◊li{Servicio de cuidado, horarios de trabajo flexibles para hombres y mujeres}}
+}
+
+◊row{
+Empresario
+◊ul{◊li{Desigual control de los recursos}◊li{Desigual acceso a la financiación y a servicios de desarrollo empresarial}◊li{Restricciones en cuanto al tiempo y la movilidad}}
+◊ul{◊li{Análisis de la cadena de valor}◊li{Afiliación a asociaciones de empresas}◊li{Sensibilización de las comunidades sobre cuestiones de género}◊li{Programas de apoyo a las mujeres y los jóvenes empresarios}}
+}
+
+◊row{
+Trabajador no remunerado
+◊ul{◊li{Distribución desigual de la tareas reproductivas}◊li{Invisibilidad del trabajo no remunerado}}
+◊ul{◊li{Licencia por responsabilidades parentales}◊li{Estimaciones de valor del trabajo doméstico}}
+}
+
+}
+
 
 ◊card{
 ◊cardtitle{Ciudadano}
@@ -188,15 +228,21 @@ Cuadro 1. Los diversos papeles que desempeñan los hombres y las mujeres en el d
 }
 }
 
+}
+
+◊section{
+
 ◊h2[#:id "4.3"]{Representación y voz}
 
 La buena gestión pública en el plano local supone la existencia de canales eficaces de comunicación para que los distintos grupos de interés puedan pedir al gobierno local o la autoridad encargada del desarrollo que atienda sus necesidades y prioridades. Una condición necesaria para esa representación y voz es la organización, en virtud de la cual las personas se unen y detectan problemas y soluciones comunes que les permitan presentar solicitudes a sus representantes para que estos las remitan a las autoridades locales. Cuando las relaciones de género son desiguales, es fundamental profundizar la labor a fin de crear las mismas oportunidades de participación para hombres y mujeres. En ciertas circunstancias, tal vez convenga organizar grupos de hombres y mujeres por separado para dar lugar a la libre expresión y a la negociación de prioridades dentro del grupo. Para empezar, esas prioridades suelen relacionarse con las necesidades prácticas o inmediatas, como el agua, la vivienda y el alimento. A medida que aumenta la confianza de las mujeres en sí mismas, los grupos de mujeres tienden a concentrarse cada vez más en problemas fundamentales o intereses estratégicos respecto de su condición y su capacidad de controlar los recursos.
 
-◊image["img/31.png"]{''}
-
 Así, las mujeres dejan de ser receptoras pasivas de los programas de desarrollo y se convierten en asociadas en la configuración de las relaciones sociales y la economía local. Una de las diferencias entre el planteamiento anterior de ◊em{la mujer en el desarrollo}◊sidenote{Como vimos, la ◊em{Mujer En el Desarrollo} ◊acronym{MED} es un enfoque utilizado en la planificación, ejecución y evaluación de programas centrados exclusivamente en la mujer que no cuestiona la relación de desigualdad de género y, por lo tanto, no aborda las causas, sino solamente los síntomas.} y el de ◊em{género y  desarrollo}◊sidenote{El enfoque de género y desarrollo reconoce que las estructuras sociales existentes tienen un efecto negativo en los grupos desfavorecidos. Así, apunta a generar un desarrollo equitativo y sostenible en el que tomen las decisiones tanto los hombres como las mujeres, facultando a esos grupos para garantizar que se beneficien del proceso de desarrollo por igual} es la habilitación de las mujeres, los hombres pobres y otros grupos desfavorecidos para que puedan ser asociados en el proceso de desarrollo y tomar decisiones al respecto.
 
 La descentralización puede dar lugar a la participación democrática de hombres y mujeres a través de procesos oficiales y oficiosos. Las instituciones tales como las asambleas municipales y los comités populares permiten conocer deliberadamente la perspectiva y los conocimientos locales e integrarlos en los planes de desarrollo. El desarrollo participativo se funda en el diálogo entre los representantes de los distintos grupos de interés, de modo que el programa de desarrollo se cree en conjunto y no venga impuesto por una elite local poderosa ni desde el exterior. Como corolario de esa participación, aumentan la transparencia y la rendición de cuentas de los gobiernos locales.
+
+}
+
+◊section{
 
 ◊h2[#:id "4.4"]{Obstáculos a la participación en el desarrollo económico local}
 
@@ -220,6 +266,10 @@ Entre los obstáculos más comunes a la participación cabe citar los siguientes
 
 Esos obstáculos no están aislados, sino que suelen guardar una relación de causa y efecto que los vuelve más difíciles de superar. Es preciso hacer un análisis de género en las primeras etapas de cada intervención para definir los papeles de los géneros vigentes, y los problemas y obstáculos que plantean respecto de la participación igualitaria de hombres y mujeres. En consonancia, habría que incorporar las cuestiones de género en cada fase de la intervención, es decir, las intervenciones deberían tener en cuenta las distintas necesidades y carencias de los hombres y las mujeres, y perseguir la solución de las desigualdades de género.
 
+}
+
+◊section{
+
 ◊h2[#:id "4.5"]{La feminización de la pobreza}
 
 Como estamos viendo existen muchas razones para afirmar que las mujeres no son iguales a los hombres en condiciones de pobreza, y que modificar esta situación requiere prestar especial atención a esta desigualdad.
@@ -228,11 +278,13 @@ La primera diferencia es que hay más mujeres pobres que hombres pobres. El conc
 
 La pobreza de las mujeres se manifiesta en la falta o en el acceso limitado a los recursos económicos, los servicios básicos, la salud y la vivienda. Y se concreta en el hambre y la mal nutrición, la mortalidad causada por enfermedades curables, la inseguridad y la discriminación o exclusión sociales, y la falta de participación en la toma de decisiones en la vida social, cultural y política.
 
-◊image["img/32.png"]{''}
-
 A partir de los años 50 y 60, las mujeres que optaron por salir de los hogares para obtener un trabajo asalariado, lo hicieron en condiciones de desigualdad. A la larga esta incursión en el mercado laboral reforzó el lugar de pobreza de las mujeres, que sin abandonar la tarea doméstica, desarrollaron trabajos pagos paralelos, y al mismo tiempo se hicieron cargo de los hijos, las personas mayores y los enfermos. Sólo en algunos casos los Estados de los países latinoamericanos instrumentaron medidas para facilitar el cumplimiento de la doble jornada y extendió la educación inicial de los niños en zonas pobres.
 
 La feminización de la pobreza y la igualdad entre hombres y mujeres fueron analizadas especialmente en la ◊org{IV Conferencia Mundial sobre la Mujer} de 1995 en Beijing, como un tema de derechos humanos y como un requisito indispensable para alcanzar el desarrollo y la paz.◊sidenote{Irma Arriagada,  ◊citetitle{Dimensiones de la pobreza y políticas de género.}}
+
+}
+
+◊section{
 
 ◊h2[#:id "4.6"]{La incorporación de la perspectiva de género en las estrategias de desarrollo económico local}
 
@@ -328,8 +380,6 @@ En esta sección se han tratado la puesta en marcha del proceso de desarrollo ec
 Sobre la base del análisis realizado en las primeras etapas del proceso de desarrollo económico local, la labor del foro local en esta etapa consiste en formular planes de desarrollo realistas para la localidad según las prioridades de los interesados y fijar los objetivos que habrán de alcanzarse en un período determinado, programando actividades para el corto, mediano y largo plazo. En esta etapa hay que definir el mejor modo de lograr la igualdad de género y sortear las limitaciones con las que se enfrentan las mujeres y otros grupos desfavorecidos en los distintos papeles que se detallan en el Cuadro 1.
 
 Al diseñar cada una de las actividades que se emprenderán en el marco de la estrategia, es importante evaluar si éstas ayudan a mejorar la situación de las mujeres por lo que respecta a su acceso a mejores empleos, a servicios que respalden la creación y el crecimiento de su empresa y a órganos y estructuras de toma de decisiones. Cada actividad debe tener indicadores definidos del desempeño para poder hacer un seguimiento de los resultados y detectar las deficiencias. Las actividades han de realizarse en función de los recursos humanos y financieros disponibles para alcanzar esos resultados. Al asignar los recursos, se utilizará la información recabada en el análisis de género, velando por que en el proceso de elaboración del presupuesto se tenga en cuenta la dimensión de género y se tomen en consideración las necesidades disímiles y específicas de los hombres y de las mujeres. Para ello, es preciso conocer las instituciones responsables del presupuesto local, el contexto normativo en el que éste se enmarca y los mecanismos para su elaboración y aprobación. El primer paso en ese sentido consiste en realizar un análisis comparativo de los efectos que tienen las asignaciones presupuestarias actuales en las mujeres y las niñas, por un lado, y en los hombres y los niños, por el otro. El siguiente paso consiste en asignar recursos sobre la base de ese análisis, para financiar intervenciones con las cuales hacer frente a las desigualdades entre ambos grupos.
-
-◊image["img/33.png"]{''}
 
 En la mayoría de los contextos locales habrá que tomar las siguientes medidas a fin de corregir los desequilibrios de género:
 
@@ -433,19 +483,54 @@ Por su parte, la evaluación es un análisis periódico, en el que se estudia no
 
 Respecto a los resultados relacionados con el género, en la siguiente lista de comprobación se incluyen ejemplos de preguntas para evaluar en qué medida se tiene en cuenta tanto a los hombres como a las mujeres en la estrategia de desarrollo económico local.
 
+}
+
+◊section{
+
 ◊h2[#:id "4.7"]{Tipos de impacto por lo que respecta al género}
 
 Un aspecto decisivo de las estrategias de desarrollo económico local es su sostenibilidad, la cual se define como la capacidad de las partes interesadas de alcanzar resultados y continuar el proceso de desarrollo incluso una vez concluidos la estrategia o el proyecto iniciales. La sostenibilidad constituye, pues, uno de los parámetros principales de la estrategia de desarrollo económico local, por lo que cabría adoptar medidas desde el primer momento para garantizarla. Las partes interesadas deberían ser conscientes de que si bien es probable que las decisiones que los interesados locales adopten por consenso y de común acuerdo demoren más, en especial cuando se necesitan esfuerzos suplementarios para garantizar la plena participación de las mujeres, también es probable que tengan efectos más duraderos.
 
 Entre los beneficios derivados de las intervenciones satisfactorias de desarrollo económico local cabe mencionar la inversión en educación y la reducción del trabajo infantil gracias al aumento de los ingresos; mayores oportunidades de empleo, que disminuyen las tasas de migración y la vulnerabilidad; mayor protección social; y más transparencia y rendición de cuentas por parte de los gobiernos locales debido a una mayor conciencia política de las organizaciones de hombres y de mujeres.
 
-◊image["tmp/p6.png"]{''}
+◊flattable{
+
+◊row{
+Negativo desde el punto de vista de género
+Se utilizan normas, papeles y estereotipos de género que refuerzan la desigualdades entre los sexos
+}
+
+◊row{
+Neutral desde el punto de vista de género
+Sin incidencia sobre las normas, los papeles ni sobre las relaciones de género
+}
+
+◊row{
+Tiene en cuenta las cuestiones de género
+Se cambian las normas, los papeles y el acceso de cada género a los recursos en la medida necesaria para alcanzar los objetivos del proyecto
+}
+
+◊row{
+Positivo desde el punto de vista de género
+El cambio de la normas, los paple y el acceso de cada género a los recursos como componente clave de los resultados del proyecto
+}
+
+◊row{
+Con poder de transformación desde el punto de vista de género
+Se transforman las relaciones desiguales de género, promoviendo la repartición equitativa del poder, el control de los recursos y la toma de decisiones, así como el apoyo a la emancipación de la mujer
+}
+
+}
 
 Desde el inicio hasta la evaluación del impacto, el proceso de desarrollo económico local debe integrar los objetivos locales relacionados con la igualdad de género. Es necesario que los primeros contactos con la población local, la recolección de datos que fundamenten la estrategia de desarrollo, las estructuras que se creen para planificar y aplicar la estrategia y la supervisión y evaluación de los logros promuevan la participación de los hombres y las mujeres, además de abordar sus necesidades y prioridades específicas. Solo así el proceso será verdaderamente participativo y sus resultados, sostenibles.
 
 Se han explicado las razones por las que es necesario incorporar la perspectiva de género, la aportación que pueden hacer los hombres y las mujeres al desarrollo económico local, los obstáculos que dificultan la participación de los grupos discriminados, y distintas formas de incorporar la perspectiva de género en las diferentes etapas del proceso de desarrollo económico local.
 
 Los profesionales saben que transformar las relaciones de género supone esfuerzos persistentes y coordinados a largo plazo. Tal vez el marco habitual de los proyectos de cooperación técnica no baste para concretar un cambio social tan profundo, ya que éste requiere el compromiso a largo plazo de los facilitadores del desarrollo económico local y las partes interesadas. Solo así se logrará la igualdad de género para las mujeres en lo que respecta a la movilidad, el alfabetismo, el acceso a los recursos y el control sobre ellos, la productividad, el acceso a los mercados, la condición social y las facultades para tomar decisiones.
+
+}
+
+◊section{
 
 ◊h2[#:id "4.8"]{Los estudios de uso del tiempo◊sidenote{Adaptado de curso de la ◊org{CEPAL} ◊citetitle{Encuestas de Uso del Tiempo}, 2011.}}
 
@@ -469,7 +554,7 @@ La ◊em{división sexual del trabajo} tiene como característica la designació
 
 La división sexual del trabajo consiste en la asignación casi exclusiva de las tareas domésticas de carácter reproductivo y de cuidado de las mujeres. Además de otorgarles una sobrecarga de trabajo, esto les resta tiempo para capacitación y recreación y constriñe sus opciones de incorporarse al mercado laboral, acceder a puestos de trabajo más diversificados y obtener ingresos suficientes, asimismo, limita también sus posibilidades de participar en la actividad social y política.
 
-Cuando el nuevo orden institucional instauró la separación espacio / tiempo entre trabajo productivo y reproductivo, reforzó también un principio de separación de trabajo de hombres y trabajo de mujeres y dio a esa separación una connotación jerárquica.
+Cuando el nuevo orden institucional instauró la separación espacio/tiempo entre trabajo productivo y reproductivo, reforzó también un principio de separación de trabajo de hombres y trabajo de mujeres y dio a esa separación una connotación jerárquica.
 
 Por otro lado, para el orden capitalista el tiempo que tiene valor es aquel empleado para la producción.
 
@@ -495,6 +580,10 @@ De manera global, los avances experimentados en los últimos años en el desarro
 
 Además las transformaciones sociales, especialmente aquellas experimentadas en el mundo del trabajo, tanto en lo que se refiere al incremento de la participación femenina en el empleo, como a la observación social y económica de actividades no mercantiles, que se acompañan de profundos cambios en los viejos modelos de familia y de las relaciones familiares, demandan nuevos conocimientos y obligan a realizar investigaciones de esta índole.
 
+}
+
+◊section{
+
 ◊h2[#:id "4.9"]{Bibliografía}
 
 Araya, María José, ◊citetitle{Un acercamiento a las Encuestas sobre el Uso del Tiempo con orientación de género}, Unidad Mujer y Desarrollo, CEPAL, Santiago de Chile, 2003.
@@ -502,5 +591,69 @@ Araya, María José, ◊citetitle{Un acercamiento a las Encuestas sobre el Uso d
 Aguirre, Rosario; Garcia, Cristina y Carrasco, Cristina, ◊citetitle{Los tiempos, el tiempo, una vara de desigualdad}, Unidad Mujer y Desarrollo, Serie Mujer y Desarrollo, CEPAL, Santiago de Chile, 2005.
 
 Milosavlievic, Vivian y Tacla, Odette, ◊citetitle{Incorporando un módulo de uso del tiempo a las encuestas de hogares: restricciones y potencialidades}, Unidad Mujer y Desarrollo, CEPAL, Santiago de Chile, 2007.
+
+}
+
+
+◊section{
+
+◊h2[#:id "4.10"]{Lecturas}
+
+◊h3{Lecturas Obligatorias}
+
+◊lectura[
+"24025004"
+"arriagada2003.pdf"
+"Irma Arriagada"
+"Dimensiones de la pobreza y políticas de género"
+"PDF"
+"148 KB"]
+
+◊h3{Lecturas Complementarias}
+
+◊lectura[
+"24025053"
+"birginpautassi2003.pdf"
+"Haydée Birgin & Laura Pautassi"
+"Crónica de una transformación: de beneficiarias a trabajadoras remuneradas. El caso de la cooperativa Sojalín de El Chaco"
+"PDF"
+"340 KB"
+]
+
+◊lectura[
+"24025047"
+"agriprofocus2012.pdf"
+"Agri-ProFocus"
+"Género en cadenas de valor"
+"PDF"
+"4.1 MB"
+]
+
+◊lectura[
+"24025105"
+"abrano2003.pdf"
+"Laís Abrano"
+"Notas sobre la incorporación de la dimensión de género a las políticas de empleo y erradicación de la pobreza en América Latina"
+"PDF"
+"212 KB"
+]
+
+◊lectura[
+"24025059"
+"kabeer1998.pdf"
+"Naila Kabeer"
+"Realidades trastocadas"
+"PDF"
+"272 KB"
+]
+
+◊lectura[
+"24025108"
+"cepal2010.pdf"
+"CEPAL"
+"Tiempo total de trabajo (remunerado y no remunerado)"
+"PDF"
+"100 KB"
+]
 
 }

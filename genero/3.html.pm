@@ -1,7 +1,12 @@
 #lang pollen
 
+◊heading{
+
+◊bannersrc{banner/3.png}
 ◊title{Unidad 3}
 ◊subtitle{Las ciudades desde la perspectiva de género}
+
+}
 
 ◊section{
 
@@ -19,15 +24,13 @@ Los fenómenos sociales no ocurren fuera del espacio ni fuera del tiempo. El esp
 
 ◊frase{Es en esta dimensión interconectada donde se localizan y actúan las dimensiones de género, posicionando y organizando los roles de las mujeres. Para las mujeres, esta interacción es de crucial importancia, porque el espacio aparece como mediador entre el tiempo social, el doméstico y el individual de las mujeres, multiplicando o minimizando las contradicciones entre ellos.}
 
-◊image["img/20.png"]{''}
+El espacio, entonces, no es fijo y estable. Se construye y, por lo tanto, es dinámico y cambiante.◊sidenote{Massey señala que la construcción del espacio permite que algo visto como abstracto se convierta en lugar gracias a la experiencia y las acciones de los individuos que, viviéndolo cotidianamente, lo humanizan y llenan de contenidos y significados. Doreen Massey, ◊citetitle{A Global sense of Place}, en ◊citetitle{Space, Place and Gender}, Minneapolis: University of Minnesota Press, 1994.} Va generando su propia historia, produciendo y modificando sentidos y valoraciones de acuerdo con la acción e interacción de ◊gender{los/las} actores sociales, de acuerdo con sus múltiples relaciones y exclusiones en razón de la clase, raza, edad, sexo, género, orientación sexual, residencia geográfica, en las cuales el género tiene una expresión fundamental.◊sidenote{Históricamente, la generación del espacio público estuvo marcada por múltiples desigualdades, entre ellas y prioritariamente la diferenciación de género. Fraser alude a que la nueva esfera pública republicana se construyó en oposición a la cultura de salón, más accesible a las mujeres. En Nancy Fraser, ◊citetitle{Repensando la esfera pública: una contribución a la crítica de la democracia actualmente existente}, Ecuador Debate 46 (1997).} Pero el espacio es también un lugar privilegiado para generar propuestas alternativas, pues en él se tejen y expresan prácticas de resistencia, lo que hace que sea un aspecto esencial para las políticas de inclusión, ◊citation{donde los grupos marginados pueden confrontar ideologías dominantes}.◊sidenote{Anna Ortiz Guitart, en “Reflexiones en torno a la construcción cotidiana y colectiva del sentido del lugar en Barcelona”, Polis 1 (2004).}
 
-El espacio, entonces, no es fijo y estable. Se construye y, por lo tanto, es dinámico y cambiante.◊sidenote{Massey señala que la construcción del espacio permite que algo visto como abstracto se convierta en lugar gracias a la experiencia y las acciones de los individuos que, viviéndolo cotidianamente, lo humanizan y llenan de contenidos y significados. Doreen Massey, ◊citetitle{A Global sense of Place}, en ◊citetitle{Space, Place and Gender}, Minneapolis: University of Minnesota Press, 1994.} Va generando su propia historia, produciendo y modificando sentidos y valoraciones de acuerdo con la acción e interacción de los/las actores sociales, de acuerdo con sus múltiples relaciones y exclusiones en razón de la clase, raza, edad, sexo, género, orientación sexual, residencia geográfica, en las cuales el género tiene una expresión fundamental.◊sidenote{Históricamente, la generación del espacio público estuvo marcada por múltiples desigualdades, entre ellas y prioritariamente la diferenciación de género. Fraser alude a que la nueva esfera pública republicana se construyó en oposición a la cultura de salón, más accesible a las mujeres. En Nancy Fraser, ◊citetitle{Repensando la esfera pública: una contribución a la crítica de la democracia actualmente existente}, Ecuador Debate 46 (1997).} Pero el espacio es también un lugar privilegiado para generar propuestas alternativas, pues en él se tejen y expresan prácticas de resistencia, lo que hace que sea un aspecto esencial para las políticas de inclusión, ◊citation{donde los grupos marginados pueden confrontar ideologías dominantes}.◊sidenote{Anna Ortiz Guitart, en “Reflexiones en torno a la construcción cotidiana y colectiva del sentido del lugar en Barcelona”, Polis 1 (2004).}
-
-Tiene el potencial de ser lugar de encuentro y solidaridad con el Otro / Otra, entrelazando y tejiendo relaciones entre personas sin vínculos previos, convirtiéndose en lugar de interacción social y de construcción de identidad colectiva. En este proceso, la construcción social y la subjetiva se desarrollan simultáneamente.
+Tiene el potencial de ser lugar de encuentro y solidaridad con el ◊gender{Otro/Otra}, entrelazando y tejiendo relaciones entre personas sin vínculos previos, convirtiéndose en lugar de interacción social y de construcción de identidad colectiva. En este proceso, la construcción social y la subjetiva se desarrollan simultáneamente.
 
 Es en el espacio público donde grupos subalternos pueden desarrollarse como sujetos sociales democráticos. Desde esta perspectiva, democracia y espacio público están orgánicamente ligados a la acción de la ciudadanía. Allí se construyen y legitiman los derechos como expresión de igualdad de personas diversas, alargando el espacio del ejercicio ciudadano. Su cualidad se decide por la praxis ciudadana, donde los conflictos y luchas por derechos, basados en principios y valores éticos, tienen indiscutible centralidad en la construcción de una práctica democrática. El privilegiar y valorizar el espacio público como componente clave de la organización urbana y de la construcción ciudadana significa hacerse eco de algunos de los derechos fundamentales de la ciudadanía: a la asociación, a la identidad, a la polis, a la consolidación de nuevos derechos.
 
-Por lo mismo, ◊em{espacio público} es también un concepto y terreno de disputa frente a perspectivas encontradas en relación con las orientaciones de las políticas espaciales, donde, por ejemplo, el privilegiar la perspectiva privada mercantil requiere un espacio público marginal, que no incomode o interfiera con la lógica privatizadora y excluyente del mercado y donde las políticas públicas son minimizadas. Desde la perspectiva de los / las actores sociales y las lógicas de apropiación del espacio público, la disputa es por su uso y apropiación real y simbólica. Puede ser una apropiación democrática o excluyente. Esta apropiación excluyente es posible porque se sustenta en la legitimidad ◊otherwords{en sus dos variantes: legitimidad y poder} arraigada en la defensa de la propiedad privada ◊otherwords{calles o parques cerrados, uso institucional de instalaciones militares, por ejemplo} y la apropiación excluyente, ilegítima y en disputa: bandas o grupos de jóvenes en los barrios que impiden acceso de mujeres, niñez, tercera edad… Es una disputa no sólo territorial / geográfica, sino también social y cultural, por recuperar el espacio, evitando la degradación del tejido social.◊sidenote{La privacidad no es neutral en relación con el género ◊otherwords{incluso en la forma de inserción}: en lo masculino, privacidad coincide con individualidad; en lo femenino, coincide con domesticidad: negación de lo propio, no sujeto. Elizabeth Jelin, ◊citetitle{Las familias latinoamericanas en el marco de las transformaciones globales: hacia una nueva agenda de políticas públicas}. Reunión de Expertos Políticas hacia las familias, protección e inclusión sociales; Santiago, Cepal, 28 y 29 de junio de 2005.}
+Por lo mismo, ◊em{espacio público} es también un concepto y terreno de disputa frente a perspectivas encontradas en relación con las orientaciones de las políticas espaciales, donde, por ejemplo, el privilegiar la perspectiva privada mercantil requiere un espacio público marginal, que no incomode o interfiera con la lógica privatizadora y excluyente del mercado y donde las políticas públicas son minimizadas. Desde la perspectiva de ◊gender{los/las} actores sociales y las lógicas de apropiación del espacio público, la disputa es por su uso y apropiación real y simbólica. Puede ser una apropiación democrática o excluyente. Esta apropiación excluyente es posible porque se sustenta en la legitimidad ◊otherwords{en sus dos variantes: legitimidad y poder} arraigada en la defensa de la propiedad privada ◊otherwords{calles o parques cerrados, uso institucional de instalaciones militares, por ejemplo} y la apropiación excluyente, ilegítima y en disputa: bandas o grupos de jóvenes en los barrios que impiden acceso de mujeres, niñez, tercera edad… Es una disputa no sólo territorial / geográfica, sino también social y cultural, por recuperar el espacio, evitando la degradación del tejido social.◊sidenote{La privacidad no es neutral en relación con el género ◊otherwords{incluso en la forma de inserción}: en lo masculino, privacidad coincide con individualidad; en lo femenino, coincide con domesticidad: negación de lo propio, no sujeto. Elizabeth Jelin, ◊citetitle{Las familias latinoamericanas en el marco de las transformaciones globales: hacia una nueva agenda de políticas públicas}. Reunión de Expertos Políticas hacia las familias, protección e inclusión sociales; Santiago, Cepal, 28 y 29 de junio de 2005.}
 
 Sin embargo, la legitimidad de apropiación de espacios públicos no tiene necesariamente que ver con la seguridad que ellos puedan ofrecer. Grupos excluyentes pueden no causar temor en determinados lugares, porque son conocidos, porque pueden cumplir funciones de defensa y solidaridad con los lugares específicos donde actúan. ◊otherwords{◊citation{Son narcos, pero son mis narcos, de mi barrio...}}. Igualmente, en mucho de esta apropiación excluyente se expresa también la existencia de otro tipo de exclusión: lugares a los que no se puede acceder por falta de recursos económicos (clubes, pubs). En ese sentido, la apropiación excluyente y en disputa expresa también frustración frente al espacio público.
 
@@ -39,13 +42,11 @@ Esta disputa de intereses y presencias revela una característica sustancial del
 
 Esta heterogeneidad es ambivalente. Por un lado, puede ser vista como fragmentación y aislamiento, expresión de una característica de la actual forma de urbanización y del posicionamiento de los actores sociales. Por otro, es una de las riquezas del espacio público, porque alude a la diversidad de perspectivas, formas de vida, formas de apropiación del espacio e intereses diferenciados de las ciudadanías, con una pluralidad de visiones y, eventualmente, sentidos de negociación y reciprocidad.
 
-◊image["img/21.png"]{''}
-
-Sin embargo, reciprocidad implica también considerar a la Otra / Otro ◊otherwords{simbólica y efectivamente} como par. No es posible construir intereses comunes sin esta perspectiva de paridad en la pluralidad, tanto en los usos sociales del espacio público como en su producción y reproducción. Pero las limitaciones para que las mujeres sean consideradas pares son enormes. Para entenderlas, el debate sobre los contenidos, alcances, articulaciones y diferencias entre el espacio público y el espacio privado es clave si se quiere ubicar la situación y posición de la mujer, la violencia de género y la posibilidad de generar ciudades más seguras para ellas.
+Sin embargo, reciprocidad implica también considerar a la ◊gender{Otra/Otro} ◊otherwords{simbólica y efectivamente} como par. No es posible construir intereses comunes sin esta perspectiva de paridad en la pluralidad, tanto en los usos sociales del espacio público como en su producción y reproducción. Pero las limitaciones para que las mujeres sean consideradas pares son enormes. Para entenderlas, el debate sobre los contenidos, alcances, articulaciones y diferencias entre el espacio público y el espacio privado es clave si se quiere ubicar la situación y posición de la mujer, la violencia de género y la posibilidad de generar ciudades más seguras para ellas.
 
 ◊h3{La tensión entre el espacio público y el espacio privado desde la perspectiva de los derechos de las mujeres}
 
-◊citation{Lo privado es político} es uno de los aportes feministas más significativos, como propuesta teórica y política, porque recupera la visibilidad de las relaciones de poder en la vida cotidiana, y la dimensión subjetiva como prioridad política y ética. ◊concept{Lo público y lo privado} son construcciones sociales que arrastran las perspectivas y subjetividades de los / las actores. Son, por lo tanto, espacios de conflicto, porque ocultan/contienen situaciones de desigualdad, expresan un inicial reparto y posicionamiento de los roles masculinos y femeninos ◊otherwords{hombres en lo público, mujeres en lo privado}, siendo de esta forma fundamentales en la formación de las subjetividades de género.◊sidenote{La privacidad no es neutral en relación con el género ◊otherwords{incluso en la forma de inserción}: en lo masculino, privacidad coincide con individualidad; en lo femenino, coincide con domesticidad: negación de lo propio, no sujeto. Elizabeth Jelin, ◊citetitle{Las familias latinoamericanas en el marco de las transformaciones globales: hacia una nueva agenda de políticas públicas}. Reunión de Expertos Políticas hacia las familias, protección e inclusión sociales; Santiago, Cepal.}
+◊citation{Lo privado es político} es uno de los aportes feministas más significativos, como propuesta teórica y política, porque recupera la visibilidad de las relaciones de poder en la vida cotidiana, y la dimensión subjetiva como prioridad política y ética. ◊concept{Lo público y lo privado} son construcciones sociales que arrastran las perspectivas y subjetividades de ◊gender{los/las} actores. Son, por lo tanto, espacios de conflicto, porque ocultan/contienen situaciones de desigualdad, expresan un inicial reparto y posicionamiento de los roles masculinos y femeninos ◊otherwords{hombres en lo público, mujeres en lo privado}, siendo de esta forma fundamentales en la formación de las subjetividades de género.◊sidenote{La privacidad no es neutral en relación con el género ◊otherwords{incluso en la forma de inserción}: en lo masculino, privacidad coincide con individualidad; en lo femenino, coincide con domesticidad: negación de lo propio, no sujeto. Elizabeth Jelin, ◊citetitle{Las familias latinoamericanas en el marco de las transformaciones globales: hacia una nueva agenda de políticas públicas}. Reunión de Expertos Políticas hacia las familias, protección e inclusión sociales; Santiago, Cepal.}
 
 Tradicionalmente el espacio privado y el espacio público han sido vistos en forma dicotómica, sin relación de continuidad ni interrelación, congelando los contenidos de uno y otro: el espacio privado es el espacio de la afectividad y el espacio público el de la construcción ciudadana. De esta forma, la distinción entre lo público y lo privado está marcado por ◊em{la naturalidad y la invisibilidad} de las relaciones de poder que alberga el espacio privado. Esto lleva a percibir en el imaginario que el espacio privado de las mujeres es lugar de protección y afecto, ocultando su contenido de violencia, exclusión y desempoderamiento, lo que a su vez oscurece el hecho de que el espacio público es también un espacio de violencia contra las mujeres. Y, al mismo tiempo, oculta el que el espacio público puede también jugar un papel de desahogo del espacio cotidiano y otorgar un aislamiento temporal de los constreñimientos e inequidades en el mundo privado, cumpliendo así un rol privilegiado en el enriquecimiento de los vínculos privados, al facilitar el desarrollo de cualidades y habilidades que vinculen la vida privada con el mundo público. Los espacios públicos, desde esta perspectiva, en vez de ser vistos como antagónicos a la vida privada y familiar, enriquecen estos vínculos, contribuyen a la sociabilidad, a generar demandas y posibilidades de diálogo con las autoridades, alimentando el ejercicio ciudadano y aumentando la autoestima de las mujeres, dándoles posibilidades de volver a lo familiar en nuevas condiciones.
 
@@ -57,17 +58,17 @@ Existen también espacios intermedios, semipúblicos y semiprivados, en los que 
 
 Un acercamiento más fructífero es ver que entre ambos espacios existe un sentido de continuidad y una relación dinámica: Lo público se constituye a partir de nudos de encuentros y desencuentros en dos ámbitos, privado y público, más las habilidades y experiencias que se adquieren o practican en cada uno de ellos. Y éste es un proceso también dinámico y en permanente mutación. En esta complejidad e interrelación dinámica de los espacios, lo político es decidir qué es público y qué es privado.
 
-◊image["img/22.png"]{''}
+}
+
+◊section{
 
 ◊h2[#:id "3.2"]{Seguridad ciudadana y violencia de género◊sidenote{Diana Miloslavich, Lidia Sihuacollo, ◊citetitle{Ciudades sin violencia hacia las mujeres, ciudades sin violencia para todos}, Centro de la Mujer Peruana Flora Tristán, 2009.}}
 
 ◊h3{Violencia urbana y violencia de género}
 
-La ◊concept{violencia urbana} es multifacética, multidimensional y compleja. Su existencia es producto de relaciones sociales inequitativas en las ciudades, ubicadas en contextos y procesos históricos específi cos. Las ciudades se han vuelto más violentas, y la violencia se ha hecho más visible. A esta visibilidad ha contribuido la existencia de muchos más actores sociales pugnando por el acceso a la ciudad / espacio público, evidenciándose una pluralidad de causas, de experiencias y vivencias de la violencia. Su mayor visibilidad ha generado lentamente un marco institucional múltiple y un conjunto de instituciones privadas y públicas que actúan sobre ella: gobiernos nacionales, gobiernos locales, organizaciones de mujeres, organizaciones de derechos humanos, etc.
+La ◊concept{violencia urbana} es multifacética, multidimensional y compleja. Su existencia es producto de relaciones sociales inequitativas en las ciudades, ubicadas en contextos y procesos históricos específi cos. Las ciudades se han vuelto más violentas, y la violencia se ha hecho más visible. A esta visibilidad ha contribuido la existencia de muchos más actores sociales pugnando por el acceso a la ciudad/espacio público, evidenciándose una pluralidad de causas, de experiencias y vivencias de la violencia. Su mayor visibilidad ha generado lentamente un marco institucional múltiple y un conjunto de instituciones privadas y públicas que actúan sobre ella: gobiernos nacionales, gobiernos locales, organizaciones de mujeres, organizaciones de derechos humanos, etc.
 
 En la violencia urbana intervienen diferentes dimensiones y escalas, que permiten distintos niveles de análisis. En un continuum, podemos encontrar múltiples dimensiones, que se implican e influyen entre sí: entre el nivel macro y el nivel micro está un conjunto de escalas que comprenden regiones geográficas, naciones, ciudades, barrios, grupos, hogares, cada una de ellos con sus propias exclusiones y violencias simbólicas o concretas.
-
-◊image["img/23.png"]{''}
 
 A nivel de lo macroestructural ◊otherwords{tiempos y espacios extensos marcados por la creciente globalización de ámbitos políticos, económicos y culturales}, se desarrollan sistemas económicos con reglas de acumulación y de comercio que profundizan la inequidad entre países y regiones y acentúan la concentración de riqueza y exclusión de las mayorías. Lo macrorregional, caracterizado por un desigual desarrollo democrático y la consiguiente debilidad de la institucionalidad democrática, ha tenido una larga historia de violencia política, con efectos significativos en los países y en la visibilidad de la violencia de género. Ello porque la violencia política tendió a ocultar la violencia contra las mujeres en el espacio privado ◊otherwords{y también en el espacio público}.◊sidenote{Como lo expresan las violaciones a las mujeres consideradas ◊em{botín de todos los bandos} y que han llevado a que la Corte Internacional los considere ◊em{crímenes de lesa humanidad}.}
 
@@ -94,7 +95,7 @@ La peligrosidad de estos lugares se vincula a:
 ◊li{La dinámica social que transcurre y se expresa en estos espacios, tales como la apropiación por parte de grupos de varones con conductas agresivas ◊otherwords{pandillaje, barras bravas, drogadicción, etc.}}
 }
 
-La percepción de inseguridad y los lugares asociados a la misma se vincula también a la existencia o no de redes sociales de protección entre vecinos/as y / o distintos grupos sociales y su mayor o menor identificación con el lugar en el que viven.
+La percepción de inseguridad y los lugares asociados a la misma se vincula también a la existencia o no de redes sociales de protección entre vecin◊gender{os/as} y/o distintos grupos sociales y su mayor o menor identificación con el lugar en el que viven.
 
 Específicamente las mujeres reconocen como lugares peligrosos:
 
@@ -110,8 +111,6 @@ Específicamente las mujeres reconocen como lugares peligrosos:
 }
 
 Al abordar la violencia urbana desde las voces de las mujeres, ésta se manifiesta de distintas formas, pero tienen en común el hecho de que los agresores son en la mayoría de los casos varones, desdibujando así las fronteras de la violencia vivida en el espacio privado ◊otherwords{ejercida por individuos pertenecientes al círculo familiar cercano} y la violencia en el espacio público ◊otherwords{ejercida por desconocidos}.
-
-◊image["img/24.png"]{''}
 
 Los relatos de las mujeres hacen referencia a:
 
@@ -138,8 +137,6 @@ La violencia hacia las mujeres no acaba en el mismo hecho violento, sino que sig
 ◊li{Efectos sobre la salud física, psicológica y sexual.}
 ◊li{Obstáculos a la participación en la vida social ◊otherwords{esparcimiento, estudios, trabajo, activismo social o político}}
 }
-
-◊image["img/25.png"]{''}
 
 Cualquier situación de violencia sufrida por la mujer, impacta en el colectivo de mujeres como situación a la que están expuestas por pertenecer al mismo grupo. Si estas situaciones no son abordadas correctamente y no se disponen recursos sociales e institucionales para ello, se multiplicarán las acciones defensivas y de estrategias individuales que implican mayor restricción de movilidad para las mujeres en la ciudad.
 
@@ -224,9 +221,7 @@ La violencia no solo lesiona el derecho que tienen a la integridad física, psic
 
 ◊h3{Del derecho de las mujeres a la ciudad}
 
-Las políticas urbanas y habitacionales continúan en gran medida, asumiendo en la práctica, no obstante las declaraciones y compromisos de los gobiernos, (◊org{Habitat II}, 1996), un concepto limitado de vivienda, sin considerar la interdependencia de la misma con el acceso al empleo, la cultura, la recreación y la seguridad como condición para la participación ciudadana. Las consecuencias para la vida de la población se manifiestan en asilamiento, exclusión y / o altos costos económicos para trasladarse y afecta especialmente la vida cotidiana de las mujeres, quienes continúan siendo las principales responsables del trabajo socialmente necesario y no remunerado ◊otherwords{eufemísticamente llamado doméstico}, el que deben compatibilizar con el trabajo remunerado.
-
-◊image["img/26.png"]{''}
+Las políticas urbanas y habitacionales continúan en gran medida, asumiendo en la práctica, no obstante las declaraciones y compromisos de los gobiernos, (◊org{Habitat II}, 1996), un concepto limitado de vivienda, sin considerar la interdependencia de la misma con el acceso al empleo, la cultura, la recreación y la seguridad como condición para la participación ciudadana. Las consecuencias para la vida de la población se manifiestan en asilamiento, exclusión y/o altos costos económicos para trasladarse y afecta especialmente la vida cotidiana de las mujeres, quienes continúan siendo las principales responsables del trabajo socialmente necesario y no remunerado ◊otherwords{eufemísticamente llamado doméstico}, el que deben compatibilizar con el trabajo remunerado.
 
 Una ciudad accesible y segura constituye un derecho humano a ser garantizado.
 
@@ -272,8 +267,6 @@ Los agentes de intervención desempeñan un papel de:
 }
 }
 
-◊image["img/27.png"]{''}
-
 ◊h3{Qué estrategias podemos construir entre todos y todas}
 
 A partir de lo planteado anteriormente, se hace necesario incorporar la perspectiva y la experiencia de las mujeres en la planificación de políticas publicas de seguridad en la ciudad.
@@ -282,7 +275,12 @@ Proponemos contrastar y diferenciar la mirada sobre las mujeres: de objetos ◊o
 
 Las mujeres deben ser el centro de la intervención:
 
-◊image["tmp/p4.png"]{''}
+◊simpletable{
+De, A
+Objeto, Sujeto
+Beneficiarias, Expertas
+Raíz del problema, Protagonistas
+}
 
 Los medios de comunicación juegan un papel muy importante en el análisis, construcción y lectura social que se realiza de la violencia hacia las mujeres en la ciudad, así como en los estereotipos de género que siguen sustentado la misma. La opinión pública que los medios van creando ◊otherwords{favorable, hostil o indiferente} influye entre otros factores en el compromiso político con la problemática, la asignación de recursos para su solución, el apoyo para programas específicos de prevención. La apuesta por ciudades más democráticas y de mejor y mayor convivencia lleva implícita, como condición fundamental, la erradicación de la violencia contra las mujeres, su empoderamiento y la promoción de sus derechos como ciudadanas.
 
@@ -308,6 +306,10 @@ Se trata de pensar:
 ◊li{Promoviendo presupuesto público regional y local para hacer que las ciudades sean seguras para las mujeres.}
 }
 
+}
+
+◊section{
+
 ◊h2[#:id "3.3"]{Bibliografía}
 
 Falú, Ana y Olga Segovia, ◊citetitle{Ciudades para convivir: Sin violencia hacia las mujeres}, Fondo de Desarrollo de las Naciones Unidas para la Mujer, Santiago de Chile, 2007.
@@ -323,5 +325,75 @@ Género en el Perú}, Lima, 2007.
 Universidad de Lima, ◊citetitle{Barómetro Social - V Encuesta Anual Sobre Seguridad Ciudadana 2008}, Lima, 2008.
 
 Vargas, Virginia Vargas, ◊citetitle{Programa Regional Ciudades sin Violencia hacia las mujeres, Ciudades Seguras para todas y todos} Red Mujer y Habitad de América Latina y el Caribe, Fondo de Desarrollo de las Naciones Unidas para la Mujer, 2008.
+
+}
+
+◊section{
+
+◊h2[#:id "3.4"]{Lecturas}
+
+◊h3{Lecturas Obligatorias}
+
+◊lectura[
+"24024826"
+"collin1994.pdf"
+"Françoise Collin"
+"Espacio doméstico. Espacio público. Vida privada"
+"PDF"
+"2.3 MB"]
+
+◊lectura[
+"24024831"
+"castilla2010.pdf"
+"Instituto de la mujer de Castilla-La Mancha"
+"Guía para la elaboración de indicadores de género"
+"PDF"
+"332 KB"]
+
+◊lectura[
+"24024835"
+"massolo2005.pdf"
+"Alejandra Massolo"
+"Violencia de género y seguridad ciudadana"
+"PDF"
+"184 KB"]
+
+◊h3{Lecturas Complementarias}
+
+◊lectura[
+"24024914"
+"redmujer2008.pdf"
+"Red Mujer y Hábitat LAC"
+"Camindando nuestros barrios, construyendo cuidades sin violencia"
+"PDF"
+"3.3 MB"
+]
+
+◊lectura[
+"24024950"
+"foromundial2004.pdf"
+"Foro Mundial de las Mujeres"
+"Carta mundial por el derecho de las mujeres a la ciudad"
+"PDF"
+"148 KB"
+]
+
+◊lectura[
+"24024934"
+"falusegovia2007.pdf"
+"Ana Falú & Olga Segovia"
+"Ciudades para convivir: sin violencia hacia las mujeres"
+"PDF"
+"2.1 MB"
+]
+
+◊lectura[
+"24024946"
+"falu2009.pdf"
+"Ana Falú"
+"Mujeres en la ciudad. De violencias y derechos"
+"PDF"
+"1.1 MB"
+]
 
 }

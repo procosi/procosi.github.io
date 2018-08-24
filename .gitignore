@@ -3,3 +3,4 @@
 /nenes/pdf/*.log
 /nenes/pdf/*.out
 /genero/compiled/
+/genero/banner/*.svg

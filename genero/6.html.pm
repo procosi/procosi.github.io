@@ -1,7 +1,12 @@
 #lang pollen
 
+◊heading{
+
+◊bannersrc{banner/6.png}
 ◊title{Unidad 6}
 ◊subtitle{Acciones locales desde la perspectiva de género}
+
+}
 
 ◊section{
 
@@ -25,7 +30,7 @@ La interpretación y definición de los problemas, así como la determinación d
 
 Por esta razón, la comprensión y sentido de los problemas se modifican con el transcurso del tiempo, de acuerdo con los espacios donde se discuten, los agentes que participan, y las alianzas y compromisos que se establecen entre ellos.
 
-De hecho, es diferente la interpretación del movimiento feminista de la violencia doméstica asociándola a otras expresiones de violencia que sufren las mujeres producto de la dominación masculina, de la interpretación consensuada de los integrantes del Parlamento, como también, del sentido otorgado por distintos funcionarios/as de la administración pública.
+De hecho, es diferente la interpretación del movimiento feminista de la violencia doméstica asociándola a otras expresiones de violencia que sufren las mujeres producto de la dominación masculina, de la interpretación consensuada de los integrantes del Parlamento, como también, del sentido otorgado por distintos funcionari◊gender{os/as} de la administración pública.
 
 Ahora bien, no todos los sujetos que participan en este proceso cuentan con los mismos recursos, ni tienen las mismas oportunidades para acceder a los espacios donde se debaten las agendas. Tampoco los espacios están abiertos de manera similar a los diversos tipos de problemas. Si por ejemplo, la violencia doméstica ha sido un problema aceptado en las agendas públicas, parlamentarias y de gobierno, no ocurre lo mismo con los temas relacionados con los derechos sexuales y reproductivos.
 
@@ -38,7 +43,7 @@ Los principales factores que promueven el ingreso de temas a la agenda pública 
 ◊ul{
 ◊li{El ingreso como tema en los medios masivos de comunicación}
 ◊li{El nivel de articulación con temáticas más generales}
-◊li{La amplitud y rango del/los territorios donde es discutido}
+◊li{La amplitud y rango ◊gender{del/los} territorios donde es discutido}
 ◊li{El uso del lenguaje y símbolos arraigados de carga emocional profunda}
 }
 
@@ -72,9 +77,13 @@ Sin embargo, una vez institucionalizado el tema en el Estado, nuevos actores pol
 
 En el contexto de esta revisión es interesante rescatar el concepto de coyuntura extraordinaria, especialmente útil para detectar aquellos momentos excepcionales que permiten el ingreso de nuevas problemáticas en las agendas institucionales, contrarrestando la inercia que suelen presentar los aparatos burocráticos.
 
-Según John Kingdom (1992) en condiciones ordinarias, el proceso de construcción de problemas públicos, la búsqueda de su solución y las coyunturas electorales, siguen dinámicas propias que no necesariamente confluyen. Los problemas surgen de manera relativamente caótica, dependiente de sucesos y / o de movilizaciones aleatorias de los actores sociales. En cambio, las alternativas de solución a los problemas son el fruto de un juego complejo que une de manera variable a actores privados y públicos en la búsqueda de programas de acción que puedan dar respuesta efectiva. Finalmente, los sucesos políticos evolucionan según su propio calendario, en función de reglas que les son particulares. Además, pueden estar o no asociados a la construcción de problemas o a la definición de las soluciones. Sin embargo, existen circunstancias extraordinarias en que estos procesos confluyen y se potencian dando lugar a ◊citation{la apertura de una ventana política}, en palabras de Pierre Muller e Yves Surel.
+Según John Kingdom (1992) en condiciones ordinarias, el proceso de construcción de problemas públicos, la búsqueda de su solución y las coyunturas electorales, siguen dinámicas propias que no necesariamente confluyen. Los problemas surgen de manera relativamente caótica, dependiente de sucesos y/o de movilizaciones aleatorias de los actores sociales. En cambio, las alternativas de solución a los problemas son el fruto de un juego complejo que une de manera variable a actores privados y públicos en la búsqueda de programas de acción que puedan dar respuesta efectiva. Finalmente, los sucesos políticos evolucionan según su propio calendario, en función de reglas que les son particulares. Además, pueden estar o no asociados a la construcción de problemas o a la definición de las soluciones. Sin embargo, existen circunstancias extraordinarias en que estos procesos confluyen y se potencian dando lugar a ◊citation{la apertura de una ventana política}, en palabras de Pierre Muller e Yves Surel.
 
 No obstante esto, las coyunturas extraordinarias no aseguran la estabilidad de los logros alcanzados. Cuando las llamadas ◊citation{ventanas políticas} se cierran, presiones de diferente índole tratan que el funcionamiento institucional vuelva a sus cauces ordinarios. Asimismo, una nueva situación electoral y/o cambios de gobiernos representan un riesgo de retroceso en lo logrado.
+
+}
+
+◊section{
 
 ◊h2[#:id "6.2"]{Políticas públicas con enfoque de género}
 
@@ -82,7 +91,29 @@ No obstante esto, las coyunturas extraordinarias no aseguran la estabilidad de l
 
 El concepto de política tiene una multiplicidad de sentidos, uno de los cuales se refiere a las políticas públicas. Siguiendo a Pierre Muller e Ives Surel, el cuadro que presentamos a continuación sintetiza los significados más importantes de este término:
 
-◊image["tmp/p8.png"]{Acepciones del término política}
+◊flattable{
+
+◊marginnote{Acepciones del término política}
+
+◊row{
+La política
+Esfera política
+Refiere a la distinción entre el mundo de la política y la sociedad civil
+}
+
+◊row{
+La actividad política
+Lo político
+Alude a la competencia para obtener cargos políticos, al debate partidario y a las diversas formas de movilización
+}
+
+◊row{
+La acción política
+Las políticas públicas
+Procesos por los cuales son elaborados e implementados programas de acción pública, es decir dispositivos político administrativos coordinados en torno a objetivos explícitos
+}
+
+}
 
 Con todo, una definición pragmática de política pública, tal como ◊citation{programas de acción gubernamental en un sector de la sociedad} presenta varios inconvenientes.
 
@@ -180,11 +211,15 @@ La institucionalización implica una serie de aspectos:
 ◊li{La generación de mecanismos de participación ciudadana estables, conocidos y accesibles a las mujeres.}
 }
 
-Para avanzar en ambos procesos, los mecanismos deben destinar importantes esfuerzos a fin de convocar en el Estado a distintos actores para debatir el tema y comprometer su apoyo. Las/os integrantes deben moverse en escenarios institucionales variados, ponerse en contacto con diferentes funcionarios / as e instancias a los cuales hay que convencer de la utilidad y pertinencia de la implementación de políticas de género en su sector. Para esta tarea no basta con conocer la institucionalidad pública, su organización, las normas y procedimientos que la regulan, sino que se requiere también estar atentos / a a los distintos significados que las desigualdades de género tienen para los interlocutores en juego. Asimismo, es fundamental ser sensible a las oportunidades que ofrecen las distintas coyunturas políticas. Es preciso, por lo tanto, desarrollar una importante capacidad de análisis para identificar estas oportunidades y una significativa destreza argumentativa para debilitar resistencias.
+Para avanzar en ambos procesos, los mecanismos deben destinar importantes esfuerzos a fin de convocar en el Estado a distintos actores para debatir el tema y comprometer su apoyo. L◊gender{as/os} integrantes deben moverse en escenarios institucionales variados, ponerse en contacto con diferentes funcionari◊gender{os/as} e instancias a los cuales hay que convencer de la utilidad y pertinencia de la implementación de políticas de género en su sector. Para esta tarea no basta con conocer la institucionalidad pública, su organización, las normas y procedimientos que la regulan, sino que se requiere también estar atentos / a a los distintos significados que las desigualdades de género tienen para los interlocutores en juego. Asimismo, es fundamental ser sensible a las oportunidades que ofrecen las distintas coyunturas políticas. Es preciso, por lo tanto, desarrollar una importante capacidad de análisis para identificar estas oportunidades y una significativa destreza argumentativa para debilitar resistencias.
 
-Cabe señalar, al respecto, que ni el Estado ni el Ejecutivo son compactos. En el caso de los Ministerios, a su vez, se dan situaciones variadas. Algunos, por la responsabilidad social que implica su acción, y / o las características de sus autoridades y funcionarios, son más abiertos a acoger el tema. Otros, en cambio, son menos permeables y afectan sensiblemente las propuestas de políticas adelantadas por los organismos dedicados a la cuestión de género.
+Cabe señalar, al respecto, que ni el Estado ni el Ejecutivo son compactos. En el caso de los Ministerios, a su vez, se dan situaciones variadas. Algunos, por la responsabilidad social que implica su acción, y/o las características de sus autoridades y funcionarios, son más abiertos a acoger el tema. Otros, en cambio, son menos permeables y afectan sensiblemente las propuestas de políticas adelantadas por los organismos dedicados a la cuestión de género.
 
 La creación de mecanismos de género ◊otherwords{como las oficinas de la Mujer} la formulación de ◊org{Planes de Igualdad} y la construcción de sistemas de indicadores son un conjunto de estrategias usadas en función de un fin mayor: incluir la equidad de género en las políticas públicas. Los medios utilizados bien podrían ser otros. De hecho en otras regiones del mundo las estrategias han sido diferentes. La institucionalización de la perspectiva de género forma parte de procesos mayores que han legitimado e institucionalizado la desigualdad de género como una nueva problemática en la sociedad y en el Estado.
+
+}
+
+◊section{
 
 ◊h2[#:id "6.3"]{Estrategias para la equidad de género}
 
@@ -198,7 +233,7 @@ El ◊org{Consejo Económico y Social de la Organización de Naciones Unidas} af
 
 Por tanto el mainstreaming de género trata de incorporar la perspectiva de género a la totalidad de las políticas, de modo que se garantiza que estas dan la igualdad a varones y mujeres. Esto no resulta rápido ni sencillo de lograr porque, aparte de hacer necesario un cambio de mentalidades y de prioridades colectivas, requiere crear capacidades y herramientas específicas. Sin embargo, esta mayor complejidad se compensa con la efectividad de esta estrategia a mediano y largo plazo.
 
-El mainstreaming de género como una estrategia transversal tendiente a la igualdad entre varones y mujeres, supone un salto cualitativo en el enfoque de las políticas de igualdad. El mainstreaming parte de la consideración de varones y mujeres como agentes activos/as en la formulación de problemas y necesidades, y en la elaboración de respuestas a las mismas; por lo tanto la participación tanto de mujeres como de hombres es uno de los rasgos definitorios de esta perspectiva.
+El mainstreaming de género como una estrategia transversal tendiente a la igualdad entre varones y mujeres, supone un salto cualitativo en el enfoque de las políticas de igualdad. El mainstreaming parte de la consideración de varones y mujeres como agentes activ◊gender{os/as} en la formulación de problemas y necesidades, y en la elaboración de respuestas a las mismas; por lo tanto la participación tanto de mujeres como de hombres es uno de los rasgos definitorios de esta perspectiva.
 
 La aplicación del ◊em{gender mainstreaming} a las políticas públicas supone que la dimensión de género y la igualdad de oportunidades deben promoverse tanto desde la toma de decisiones como desde la gestión. Se trata por tanto de integrar el objetivo de alcanzar la igualdad efectiva de mujeres y hombres en todos los momentos del proceso de desarrollo de una política ◊otherwords{análisis,planificación, ejecución y evaluación} en todas las áreas de políticas relevantes y en todos los niveles sectoriales.◊sidenote{De la Cruz, 2009}
 
@@ -330,12 +365,75 @@ Mediante esta estrategia, que combina la atención a grupos específicos y la el
 
 La elaboración de un ◊org{Plan de Igualdad de Oportunidades} es un proceso de carácter político técnico en el que intervienen diversos actores, en distintos momentos, de acuerdo con la fase de elaboración de que se trate.
 
-En su transcurso actúan organizaciones de mujeres que expresan sus necesidades y demandas, así como feministas, autoridades del gobierno local, regional y nacional; políticas y expertas/os en los diferentes temas aludidos en el Plan. La conducción del diseño del Plan la asume el organismo de género, tarea que consiste básicamente en articular las distintas demandas y puntos de vista, y devolver esta síntesis a los participantes para llegar a acuerdos que permitan proseguir con el proceso de elaboración. En la medida en que participen más organizaciones de mujeres, diferentes asociaciones feministas, autoridades y funcionarios, parlamentarios/as y miembros de partidos políticos el nivel de legitimidad y compromiso público con el Plan será mayor.
+En su transcurso actúan organizaciones de mujeres que expresan sus necesidades y demandas, así como feministas, autoridades del gobierno local, regional y nacional; políticas y expert◊gender{as/os} en los diferentes temas aludidos en el Plan. La conducción del diseño del Plan la asume el organismo de género, tarea que consiste básicamente en articular las distintas demandas y puntos de vista, y devolver esta síntesis a los participantes para llegar a acuerdos que permitan proseguir con el proceso de elaboración. En la medida en que participen más organizaciones de mujeres, diferentes asociaciones feministas, autoridades y funcionarios, parlamentarios/as y miembros de partidos políticos el nivel de legitimidad y compromiso público con el Plan será mayor.
 
 De la misma manera, en la implementación de los planes de igualdad intervienen distintos actores formando un verdadero campo técnico y político en torno a su implementación. En este sentido tan importante como la implementación de las acciones es la cantidad de recursos humanos y materiales que se movilizan en un Estado en pro de la equidad de género.
 
-Todo Plan se sustenta, entonces, en una amplia red de interlocución con distintos actores institucionales, políticos, y sociales, donde los funcionarios del mecanismo de género juegan un rol fundamental ya que deben contar con la experticia técnica y política que permita traducir las demandas de género recogidas en propuestas técnicas factibles que puedan comprometer la voluntad política y la responsabilidad profesional de autoridades y funcionarias/os. La elaboración de estos planes ha variado según las circunstancias históricas y el grado de legitimación e institucionalización alcanzado por la equidad de género.
+Todo Plan se sustenta, entonces, en una amplia red de interlocución con distintos actores institucionales, políticos, y sociales, donde los funcionarios del mecanismo de género juegan un rol fundamental ya que deben contar con la experticia técnica y política que permita traducir las demandas de género recogidas en propuestas técnicas factibles que puedan comprometer la voluntad política y la responsabilidad profesional de autoridades y funcionari◊gender{as/os}. La elaboración de estos planes ha variado según las circunstancias históricas y el grado de legitimación e institucionalización alcanzado por la equidad de género.
 
 Sería útil acompañar este análisis con la reflexión sobre los procesos que en sus países y regiones han hecho posible la creación de institucionalidades de género y la elaboración de ◊org{Planes de Igualdad}. Les invitamos a que busquen ejemplos de sus países y analicen el grado de avance en relación a este tema.
+
+}
+
+◊section{
+
+◊h2[#:id "6.4"]{Lecturas}
+
+◊h3{Lecturas Obligatorias}
+
+◊lectura[
+"24030040"
+"castilla2009.pdf"
+"Instituto de la Mujer de Castilla-La Mancha"
+"Guía para la incorporación del mainstreaming de género"
+"PDF"
+"284 KB"]
+
+◊lectura[
+"24030044"
+"guzman2001.pdf"
+"Virginia Guzmán"
+"La institucionalidad de género en el Estado: Nuevas perspectivas de análisis"
+"PDF"
+"184 KB"
+]
+
+◊lectura[
+"24030047"
+"demuca2011.pdf"
+"Fundación DEMUCA"
+"La perspectiva de género en el desarrollo local. Sistematización de experiencias exitosas"
+"PDF"
+"100 KB"
+]
+
+◊h3{Lecturas Complementarias}
+
+◊lectura[
+"24030136"
+"montanocalderon2010.pdf"
+"Sonia Montaño Virreira & Coral Calderón Magaña"
+"El cuidado en acción. Entre el derecho y el trabajo"
+"PDF"
+"4.4 MB"
+]
+
+◊lectura[
+"24025439"
+"onumujeres2015.pdf"
+"ONU Mujeres"
+"La hora de la igualdad sustantiva. Participación política de las mujeres en América Latina y el Caribe Hispano"
+"PDF"
+"3.2 MB"
+]
+
+◊lectura[
+"24030141"
+"womenindevelopment2007.pdf"
+"Women in Development"
+"La introducción de la perspectiva de género en los proceso de desarrollo local"
+"PDF"
+"272 KB"
+]
 
 }

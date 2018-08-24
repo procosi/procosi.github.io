@@ -1,15 +1,18 @@
 #lang pollen
 
+◊heading{
+
+◊bannersrc{banner/2.png}
 ◊title{Unidad 2}
 ◊subtitle{Modelos de desarrollo, mandatos internacionales y consensos regionales}
+
+}
 
 ◊section{
 
 ◊h2[#:id "2.1"]{Desarrollo y género}
 
 Cuando nos concentramos en lo local, identificamos las brechas de género, las desigualdades existentes entre varones y mujeres en las regiones y municipios de cada país, que se originan por la discriminación que ha puesto en desventaja a las mujeres con respecto al acceso a los recursos y al ejercicio de los derechos humanos, solamente por el hecho de ser mujeres.
-
-◊image["img/10.png"]{''}
 
 En el campo de lo local hay muchas posibilidades de cerrar las brechas de género y propiciar avances firmes y permanentes hacia un verdadero desarrollo, desde allí es posible definir y aplicar políticas concretas y acciones que promuevan la igualdad y la equidad de género.
 
@@ -19,15 +22,11 @@ La perspectiva de género ha mostrado que los procesos de desarrollo lejos de se
 
 El paradigma del desarrollo humano sustentable, articula los principios de equidad, empoderamiento y sustentabilidad, es necesario resignificarlo desde la perspectiva de género; es decir, incorporar sus principios para construir nuevos valores y nuevas relaciones basadas en la igualdad, la justicia, la equidad y la paz.
 
-◊image["img/11.png"]{''}
-
 Los paradigmas del desarrollo humano sustentable y de la perspectiva de género van de la mano; pero ◊citation{no se trata de añadir a las mujeres a un mundo práctico o simbólico pensado sin ellas, ni de agregarle a todo lo que se planifique la frase mágica enfoque de género}. Por el contrario, se busca incorporar las necesidades e intereses de las mujeres a la visión de desarrollo; transformar las relaciones entre mujeres y hombres, pero también entre las mujeres y entre los hombres, en todos los ámbitos de la vida personal y social, privada y pública, sea de índole económica, cultural, educativa, política, etc.
 
 Desde el enfoque del ◊org{Programa de las Naciones Unidas para el Desarrollo} ◊acronym{PNUD}, el paradigma del desarrollo humano está también conectado con el de la perspectiva de género porque se fundamenta en la noción de desarrollo de capacidades, referidas a las oportunidades para ser y hacer. Este proceso supone la construcción de un entorno en el que las personas puedan vivir de forma productiva y creativa, conforme a sus necesidades e intereses◊sidenote{Andira Hernández Monroy y María de la Paz López Barajas, ◊citetitle{Desarrollo humano y género en México (2000-2005): avances y desafíos}, en ◊citetitle{Programa de las Naciones Unidas para el Desarrollo, Indicadores de Desarrollo Humano y Género en México 2000-2005}, ◊acronym{PNUD}}. El fomento de las capacidades es la vía para que las personas, mujeres y hombres, sus organizaciones y sociedades, obtengan, fortalezcan y mantengan las competencias para establecer y lograr sus propios objetivos de desarrollo.
 
 Esta visión del desarrollo está articulada estrechamente con el enfoque de los derechos humanos, el cual busca reivindicar su reconocimiento, exigibilidad y ejercicio pleno, mas no desde una posición androcéntrica impregnada por los estereotipos de género o centrada en los derechos de los hombres, sino posicionando a la persona humana como sujeto central del desarrollo, de tal forma que los derechos humanos de mujeres y hombres se reconstruyan desde la perspectiva de género.
-
-◊image["img/12.png"]{''}
 
 Desde el enfoque de género se reivindican los derechos de las humanas. Al llamar humanas a las mujeres, se busca visibilizar su exclusión, evidenciar que se las ha subsumido en lo humano masculino y reconocer la humanidad como una construcción histórica y no natural.
 
@@ -37,13 +36,15 @@ La humanidad de las mujeres sugiere nuevos paradigmas. Ser humanas equivale a te
 
 Fortalecer la participación equitativa de las mujeres en los ámbitos del espacio local puede ser la vía de empoderamiento que transforme las estructuras sobre las que se asienta la discriminación y en las que la condición social de las mujeres es afectada.
 
-◊image["img/13.png"]{''}
-
 Las mujeres viven las consecuencias de las múltiples jornadas y la desvalorización de su trabajo y capacidades, además de los privilegios masculinos que los excluye de participar en las tareas domésticas y de manera creciente incluso de responsabilidades que eran típicamente de los hombres, como ser los únicos proveedores de ingresos reconocidos en sus hogares.
 
 Si bien los cambios a favor de las mujeres son sustanciosos, no han beneficiado todavía al conjunto de las mujeres; su situación se ha deteriorado y se ha vuelto más compleja debido a las múltiples jornadas de trabajo, a la feminización de las jefaturas de familia, de la pobreza, de la agricultura, de la migración, por mencionar algunos ejemplos. Aún no puede asegurarse que los logros alcanzados hasta ahora hayan propiciado condiciones más equitativas para las mujeres con relación a los hombres.
 
-◊h3{Modelos de Desarrollo. El enfoque ◊acronym{MED} y ◊acronym{GED}◊sidenote{De la Cruz, C., ◊citetitle{Guía Metodológica para integrar la perspectiva de género en proyectos y programas de desarrollo}, Emakunde, Vitoria-Gasteiz, 1998.}}
+}
+
+◊section{
+
+◊h2[#:id "2.2"]{Modelos de Desarrollo. El enfoque ◊acronym{MED} y ◊acronym{GED}◊sidenote{De la Cruz, C., ◊citetitle{Guía Metodológica para integrar la perspectiva de género en proyectos y programas de desarrollo}, Emakunde, Vitoria-Gasteiz, 1998.}}
 
 En los años setenta surge un enfoque de cambio social denominado ◊concept{Mujer en el Desarrollo} ◊acronym{MED}. Se basaba fundamentalmente en las evidencias que mostraban que el desarrollo afectaba de manera diferente a la mujer que al hombre, y muchas veces la perjudica en vez de beneficiarla. Esta teoría se concentró en la situación de la mujer y en generar políticas y acciones en pos de mejorar su calidad de vida. Fue promovida desde distintos grupos de mujeres, integrantes de Agencias de Desarrollo, de la Academia, etc. de Estados Unidos y Europa, y que ha caracterizado los escritos académicos y las prácticas a partir de los años 70.
 
@@ -74,8 +75,6 @@ La segunda tendencia conocida como ◊concept{Género en el Desarrollo} ◊acron
 
 Desde esta perspectiva, contrariamente a un modelo homogéneo de hogar, los hogares fueron concebidos como un espacio de negociación, cooperación y conflicto. Un análisis en profundidad de las normas, leyes y valores sociales de la sociedad permitió comprender que las diferencias de status de mujeres y varones tienen una profunda implicación en la manera en que participan en el trabajo remunerado y no remunerado y en la vida comunitaria en su conjunto. Estas diferencias incorporan relaciones sociales y de poder que constituyen el punto de partida a considerar para la implementación de los programas de desarrollo y, por lo tanto, influyen sobre los resultados de los mismos.
 
-◊image["img/14.png"]{''}
-
 En los años 80 y 90 la investigación demostró que las relaciones de género median los procesos de desarrollo. Por ejemplo, el análisis de las políticas de estabilización y de ajuste estructural identificó que las desigualdades de género tienen un impacto en el logro de los objetivos macroeconómicos
 
 Por otra parte, la preocupación en torno a las relaciones de género en el desarrollo ha fortalecido la afirmación que la igualdad en la condición de mujeres y varones es fundamental para cada sociedad, y que ◊em{la igualdad de género es tanto un objetivo como un medio de desarrollo}.
@@ -99,17 +98,29 @@ Por otra parte, la preocupación en torno a las relaciones de género en el desa
 }
 }
 
-◊image["tmp/p3.png"]{''}
+◊marginnote{De Mujer en el Desarrollo ◊acronym{MED} a Género en el Desarrollo ◊acronym{GED}}
 
-◊h3{Tratados y convenciones internacionales◊sidenote{◊citetitle{Sìntesis de la Guía Conceptual, Volumen I. Desarrollo Local con Igualdad de Género}, 2009}}
+◊simpletable{
+	, Mujer en el Desarrollo, Género en el Desarrollo
+Enfoque, Mujeres como problema, Desarrollo
+Énfasis, Mujeres, Relaciones entre hombres y mujeres
+Problema, Exclusión de mujeres en el proceso de desarrollo,		Relaciones desiguales que impiden el desarrollo equitativo y la participación de mujeres
+Meta, Desarrollo más eficiente y efectivo, Desarrollo equitativo y sostenible
+Solución, Integrar mujeres al proceso de desarrollo existente, Generar poder para los menos favorecidos y para las mujeres
+Algunas estrategias, Proyectos de mujeres. Aumentar la habilidad de las mujeres., Proyectos integrados. Solucionar intereses estratégicos a través de un modelo de desarrollo centrado en las personas.
+}
+
+}
+
+◊section{
+
+◊h2[#:id "2.3"]{Tratados y convenciones internacionales◊sidenote{◊citetitle{Sìntesis de la Guía Conceptual, Volumen I. Desarrollo Local con Igualdad de Género}, 2009}}
 
 La incorporación transversal de la perspectiva de género en las políticas públicas tiene sus orígenes, fundamentos y avances en un largo proceso social y político que discurre en varios escenarios, a nivel internacional y nacional, y con la participación de distintos actores, mujeres y hombres, de la política, la administración pública y la sociedad civil.
 
 En el marco de los acuerdos y ◊concept{tratados internacionales}, desde la década de los años setenta diversos organismos han emitido recomendaciones dirigidas a aumentar el reconocimiento y ejercicio de los derechos humanos de las mujeres y acrecentar sus oportunidades en diferentes esferas, destacando las relacionadas con la instrumentación.
 
 Este largo recorrido comienza en 1974, veintidós años después de la firma de la ◊org{Convención a favor de los Derechos Políticos de la Mujer} (1952), fecha en la que se firmó la ◊org{Declaración del Establecimiento de un Nuevo Orden Económico Internacional} con el propósito de corregir la creciente brecha entre países desarrollados y países en desarrollo, fijando un precedente para la ◊org{Primera Conferencia Mundial de la Mujer}, realizada en México en 1975: el establecimiento del ◊org{Año Internacional de la Mujer y del Decenio de la Mujer}.◊sidenote{◊citetitle{Las cuatro conferencias mundiales sobre la mujer, 1975 a 1995: Una perspectiva histórica}, Período extraordinario de sesiones de la Asamblea General de las Naciones Unidas para examinar la Plataforma de Acción de Beijing, Nueva York, junio de 2000.}
-
-◊image["img/15.png"]{''}
 
 Junto con estos objetivos, se definieron metas que debían cumplirse en 1980, algunas de ellas fueron: acceso equitativo de la mujer a la educación, empleo, participación política, servicios de salud, vivienda, nutrición y planificación familiar.
 
@@ -124,8 +135,6 @@ Entre sus preceptos sobresale el referente a la ◊org{Declaración Universal de
 Asimismo, puntualiza que los Estados Partes, en los pactos internacionales de derechos humanos, tienen la obligación de garantizar a la mujer y al hombre la igualdad en el goce de todos los derechos económicos, sociales, culturales, civiles y políticos.
 
 Este instrumento internacional es muy importante, en principio, por ser el primero de carácter vinculatorio 7 dirigido a erradicar la discriminación, entendida, como “toda distinción, exclusión o restricción basada en el sexo, que tenga por objeto o resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera”. @sidenote{◊org{Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer} (◊acronym{CEDAW}, por sus siglas en inglés).}
-
-◊image["img/16.png"]{''}
 
 Establece también el acuerdo para la adopción de medidas especiales de carácter temporal, es decir, acciones afirmativas, encaminadas a acelerar la igualdad de facto (de hecho) entre la mujer y el hombre, y para modificar patrones socioculturales y eliminar prejuicios y prácticas sexistas. En el año 2004, se emitió la ◊org{Recomendación General del Comité de la ◊acronym{CEDAW}} acerca de las medidas especiales de carácter temporal en donde determina que los Estados Partes tienen la obligación jurídica de respetar, proteger, promover y cumplir este derecho de no discriminación de la mujer y asegurar su desarrollo y adelanto, a fin de mejorar su situación hasta alcanzar la igualdad, tanto ◊em{de jure} como ◊em{de facto} (de dicho como de hecho), respecto del hombre, para:
 
@@ -164,17 +173,13 @@ La ◊acronym{ONU} señala que el principio de igualdad entre mujeres y hombres 
 
 El Estado debe adoptar medidas positivas en todos los ámbitos a fin de dar poder a las mujeres de forma efectiva e igualitaria. La Conferencia declaró que los derechos humanos de las mujeres aplican –por supuesto– en el ámbito privado, en la vida familiar y en las prácticas tradicionales y religiosas. Hace referencia a los instrumentos como el ◊org{Pacto Internacional de Derechos Civiles y Políticos}, que dispone que los Estados Partes se comprometen a garantizar a mujeres y hombres la igualdad en el goce de todos sus derechos civiles y políticos, además establece el principio de no discriminación por razón de sexo. La cuestión de los derechos humanos de la mujer debe ser parte integrante de las actividades de las Naciones Unidas, en particular la promoción de todos los instrumentos relacionados con este tema.
 
-En 1994, en El Cairo, se celebra la ◊org{Conferencia Mundial sobre Población y Desarrollo}, que se propone fortalecer el poder de las mujeres y mejorar sus condiciones de vida para lograr su pleno desarrollo económico, social y político. En esta Conferencia, se proclamaron los derechos sexuales y reproductivos de las mujeres, estableciendo la libre determinación para la maternidad, el número de hijas/os, la elección de pareja y el momento de ser madres.
-
-◊image["img/17.png"]{''}
+En 1994, en El Cairo, se celebra la ◊org{Conferencia Mundial sobre Población y Desarrollo}, que se propone fortalecer el poder de las mujeres y mejorar sus condiciones de vida para lograr su pleno desarrollo económico, social y político. En esta Conferencia, se proclamaron los derechos sexuales y reproductivos de las mujeres, estableciendo la libre determinación para la maternidad, el número de hij◊gender{as/os}, la elección de pareja y el momento de ser madres.
 
 La ◊org{Cumbre Mundial de Desarrollo de Copenhague} en 1995 establece que el empoderamiento de las mujeres es vital en la resolución de problemas económicos, sociales y ambientales.
 
 Reconoce que no se puede lograr un desarrollo social y económico sostenible sin la plena participación de las mujeres y que su igualdad y equidad respecto al hombre constituye una prioridad para la comunidad internacional y, como tal, debe ser un elemento fundamental del desarrollo económico y social.
 
 La ◊org{Cuarta Conferencia Mundial de la Mujer 10}◊sidenote{◊org{IV Conferencia Mundial de la Mujer}. Declaración de Beijing. Plataforma de Acción.} (Beijing 1995) encuadra en la ◊org{Plataforma de Acción}, el marco normativo y directrices de las políticas de los países participantes, que comprende un conjunto de acciones prioritarias, agrupadas en 12 esferas.
-
-◊image["img/18.png"]{''}
 
 La ◊org{Plataforma de Acción} pide también la adopción de medidas inmediatas y concertadas por todos para crear un mundo pacífico, justo, humano y equitativo, basado en los derechos humanos y las libertades fundamentales, con inclusión del principio de igualdad para todas las personas, independientemente de su edad o situación de vida. Con ese fin, reconoce que se necesita un crecimiento económico amplio y sostenido en el contexto del desarrollo sostenible para impulsar el desarrollo social y la justicia social.
 
@@ -191,11 +196,9 @@ La ◊org{Plataforma de Acción de Beijing} acordó, entre otras medidas:
 
 }
 
-En la ◊org{Segunda Conferencia de las Naciones Unidas sobre Asentamientos Humanos, Hábitat II} (Estambul, 1996), se constató que las mujeres tienen menor acceso a la propiedad, crédito, capacitación y tecnología, lo que disminuye su calidad de vida y la de sus hijas/os. Se propone revertir esta situación.
+En la ◊org{Segunda Conferencia de las Naciones Unidas sobre Asentamientos Humanos, Hábitat II} (Estambul, 1996), se constató que las mujeres tienen menor acceso a la propiedad, crédito, capacitación y tecnología, lo que disminuye su calidad de vida y la de sus hij◊gender{as/os}. Se propone revertir esta situación.
 
 Derivado de la ◊org{Segunda Cumbre de las Américas} (Santiago, 1998) la ◊acronym{OEA} adoptó la resolución que invita a la ◊org{Comisión Interamericana de la Mujer} a que desarrolle diversas actividades, entre las que figuran la elaboración del ◊org{Programa Interamericano sobre la Promoción de los Derechos de la Mujer y la Equidad e Igualdad de Género}, el cual plantea los objetivos específicos de promover la equidad e igualdad de género y los derechos humanos de la mujer, afianzando e impulsando la igualdad jurídica, real y formal de la mujer; su acceso pleno e igualitario a los beneficios del desarrollo económico, social, político y cultural, al trabajo y a los recursos productivos; a la vida política del país; a todos los niveles educativos y disciplinas de estudio; a servicios de atención médica durante todo su ciclo de vida, que abarquen la salud física, emocional y mental; a una vida libre de abuso y violencia en todas sus manifestaciones; a la eliminación de patrones culturales y estereotipos que denigran su imagen.
-
-◊image["img/19.png"]{''}
 
 En ◊org{Beijing+5} (Nueva York, 2000), Naciones Unidas convocó a un periodo extraordinario de sesiones para evaluar los logros de la ◊org{Plataforma de Beijing}. En la resolución aprobada por la Asamblea General, basada en el informe del ◊org{Comité Especial Plenario del XXIII Periodo Extraordinario de Sesiones}, emite la ◊org{Declaración Política} (junio de 2000), en la que los gobiernos reafirman el compromiso de lograr las metas y objetivos de la ◊org{Declaración y Plataforma de Acción de Beijing} y las ◊org{Estrategias de Nairobi}, orientadas al adelanto de las mujeres, así como el compromiso de aplicar las doce esferas y a continuar las gestiones a favor de la plena aplicación de la ◊org{Plataforma de Beijing}.
 
@@ -213,7 +216,11 @@ En agosto de 2007, se celebró la ◊org{X Conferencia Regional sobre la Mujer e
 
 Los pronunciamientos abarcan la adopción de medidas legislativas y reformas institucionales para prevenir, sancionar y erradicar el acoso político y administrativo contra las mujeres que acceden a puestos de decisión por vía electoral o por designación, tanto en el nivel nacional como local, así como en los partidos y movimientos políticos.
 
-◊h3{◊org{Convención lnteramericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer} (Belem do Pará)◊sidenote{Camacho, Rosalía. (2000). ◊citetitle{Las convenciones internacionales} en ◊citetitle{Guía de Capacitación Derechos Humanos de las Mujeres, Tomo 2, Módulo 14}. San José, Costa Rica: ◊acronym{IIDH}, pp. 42-47}}
+}
+
+◊section{
+
+◊h2[#:id "2.4"]{◊org{Convención lnteramericana para Prevenir, Sancionar y Erradicar la Violencia Contra la Mujer} (Belem do Pará)◊sidenote{Camacho, Rosalía. (2000). ◊citetitle{Las convenciones internacionales} en ◊citetitle{Guía de Capacitación Derechos Humanos de las Mujeres, Tomo 2, Módulo 14}. San José, Costa Rica: ◊acronym{IIDH}, pp. 42-47}}
 
 La Asamblea General de la ◊org{Organización de Estados Americanos} ◊acronym{OEA} aprobó, en junio de 1994, esta convención, que es el primer instrumento legal internacional en el mundo que reconoce, por un lado, el derecho de las mujeres a vivir una vida libre de violencia y, por otro, la violencia contra las mujeres como una violación a los derechos humanos.
 
@@ -291,8 +298,11 @@ Otro aspecto muy importante que establece esta convención es que afirma que par
 ◊li{Si nos encontramos privadas de libertad.}
 }
 
+}
 
-◊h2[#:id "2.2"]{Bibliografía}
+◊section{
+
+◊h2[#:id "2.5"]{Bibliografía}
 
 Camacho, Rosalía. (2000). ◊citetitle{Las convenciones internacionales}, en ◊citetitle{Guía de Capacitación Derechos Humanos de las Mujeres, Tomo 2, Módulo 14}. San José, Costa Rica: IIDH, pp. 42-47
 
@@ -312,5 +322,58 @@ Nussbaum, Martha: ◊citetitle{Las mujeres y el desarrollo}, Herder, Barcelona, 
 
 Nussbaum, Martha: ◊citetitle{Capabilities as Fundamental Entitlements: Sen and
 Social Justice}, Feminist Economics, 9 (2-3), 2003.
+
+}
+
+◊section{
+
+◊h2[#:id "2.6"]{Lecturas}
+
+◊h3{Lecturas Obligatorias}
+
+◊lectura[
+"24024714"
+"moser1998.pdf"
+"Caroline O. N. Moser"
+"Planificación de género. Objetivos y Obstáculos"
+"PDF"
+"196 KB"]
+
+◊lectura[
+"24024709"
+"zapata2007.pdf"
+"Daniela Zapata S."
+"Transversalizando la perspectiva de género en los objetivos de desarrollo del Milenio"
+"PDF"
+"696 KB"]
+
+◊h3{Lecturas Complementarias}
+
+◊lectura[
+"24024747"
+"cepal2007.pdf"
+"CEPAL"
+"Consenso de Quito"
+"PDF"
+"80 KB"
+]
+
+◊lectura[
+"24024735"
+"iidh2000.pdf"
+"Instituto Interamericano de Derechos Humanos"
+"Convención CEDAW y Protocolo Facultativo"
+"PDF"
+"1.2 MB"
+]
+
+◊lectura[
+"24024744"
+"unifem2006.pdf"
+"Fondo de Desarrollo de las Naciones Unidas para la Mujer"
+"Módulo de capacitación de la CEDAW"
+"PDF"
+"704 KB"
+]
 
 }

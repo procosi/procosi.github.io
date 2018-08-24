@@ -1,7 +1,12 @@
 #lang pollen
 
+◊heading{
+
+◊bannersrc{banner/1.png}
 ◊title{Unidad 1}
 ◊subtitle{La igualdad de género en el plano local}
+
+}
 
 ◊section{
 
@@ -14,8 +19,6 @@ Si analizamos la genealogía del concepto podemos ver que se encuentra en constr
 Décadas atrás, en 1949 la precursora Simone de Beauvoir decía: ◊citation{No se nace mujer, se llega a serlo…◊sidenote{Simone Beauvoir, ◊citetitle{El segundo sexo}}} y ◊citation{Él es el sujeto, él es lo absoluto; ella es lo otro}. 
 
 En los años noventa, la teórica feminista Joan Scott destaca que el término género ◊citation{es el elemento constitutivo de las relaciones basadas en las diferencias que distinguen los sexos y es una forma primaria de las relaciones de poder}.
-
-◊marginnote{Marcha por la diversidad sexual, Buenos Aires.}◊image["img/1.png"]{Marcha por la diversidad sexual, Buenos Aires.}
 
 El género desde sus orígenes, se ha asociado al concepto de mujer. Pero, de esta manera se reduce su dimensión de abordaje ya que se invisibiliza la relación existente entre diversas masculinidades y femineidades. Además, es fundamental ampliar la mirada para incorporar la visión de ◊em{diversidad sexual}. 
 
@@ -33,21 +36,38 @@ El género es un concepto:
 ◊li{◊em{Político}: Posibilita entender las formas de distribución de poder entre los géneros}
 }
 
-◊h3{El sistema sexo / género}
+◊h3{El sistema sexo/género}
 
 Se utilizan dos términos distintos para referirse a las diferencias biológicas y a aquellas construidas socialmente: sexo y género, respectivamente. En este sentido abordamos el ◊concept{sistema sexo-género}, que detallamos a continuación.
 
 Este sistema trata de explicar cómo basándonos única y exclusivamente en la diferencia del sexo con el que nace cada persona (mujer o varón) se crea todo un conjunto creencias, valores, costumbres, normas, prácticas, oportunidades y comportamientos sociales diferentes para ambos sexos. Mientras el sexo es entendido como la diferencia sexual anatómica, el género es definido como una construcción social, que cambia en el tiempo y según las sociedades.
 
-◊image["tmp/p1.png"]{''}
+◊card{
+◊cardtitle{Sexo}
+
+◊em{Diferencias biológicas ◊otherwords{se nace}}: diferencia orgánica, física y constructiva del varón y de la mujer, relacionada con la biología.
+
+Hombre ◊em{fecunda}
+Mujer ◊em{gesta}
+
+}
+
+◊card{
+◊cardtitle{Género}
+
+◊em{Relaciones entre hombres y mujeres ◊otherwords{se aprende}}: conjunto de características y roles que un conjunto social asigna a las personas, basándose en sus características biológicas ◊otherwords{sexo} y que son asumidas como propias.
+
+Masculino ◊em{productivo}
+Femenino ◊em{asistencial}
+
+}
+
 
 Sin embargo esta manera binaria de entender las categorías sexo y género fue criticada sobre todo por el movimiento transexual, argumentando que tanto el sexo como el género son construcciones sociales y la supuestamente coherencia entre ellos una manera de estabilizar la heterosexualidad como norma y en ultima consecuencia una argumentación biológica que cementa el sistema de los dos sexos y las líneas de poder dentro de él.
 
 ◊frase{Ser distintos no significa ser desiguales}
 
 Las relaciones de género son definidas como los modos en que las culturas asignan las funciones y responsabilidades a la mujer y al varón. Estas relaciones determinan los modos de acceder a los recursos materiales (como la tierra, la vivienda) y a recursos simbólicos, como el poder político. Esta estructura repercute en la vida cotidiana manifestándose, por ejemplo, en la forma en la que se divide el trabajo doméstico y extra-doméstico (entre varones y mujeres), en las responsabilidades familiares o en el campo de la educación, entre otros espacios.
-
-◊image["img/2.png"]{''}
 
 Afirmar que el género es un proceso de creación cultural a partir de las particularidades sexuales o biológicas significa que:
 
@@ -73,7 +93,9 @@ Las relaciones de género se articulan de modo conflictivo con las múltiples po
 
 }
 
-◊image["img/3.png"]{''}
+}
+
+◊section{
 
 ◊h2[#:id "1.2"]{Estereotipos y Roles de Género}
 
@@ -85,15 +107,24 @@ Los estereotipos de género responden a valores, modelos, comportamientos y acti
 
 Los atributos y los valores de género, desde criterios de deseabilidad social, conforman la masculinidad y la feminidad de los individuos. Cuando son negativos, discriminatorios o peyorativos y condicionan la capacidad de las personas para desarrollarse, limitan la libertad de elección y atentan contra sus derechos.
 
-◊image["img/4.png"]{''}
-
 Además, el valor de los estereotipos no es el mismo para varones que para mujeres, muchas veces hay una valoración positiva y superior para lo masculino en múltiples sentidos. En esta valoración existen factores de discriminación.
 
 A través del proceso de socialización se transmiten ideas y apreciaciones a las personas. La familia es la primera transmisora e incorpora en los niños y las niñas estereotipos sexuales. Luego la escuela reproducirá pautas de comportamiento que pueden ser discriminatorias.
 
-◊image["tmp/p2.png"]{''}
+◊simpletable{
+Mujer, Hombre
+Ternura, Violencia
+Debilidad física, Fuerza física
+Intuición, Razón
+Sensibilidad, Inteligencia
+Sumisión, Autoridad
+Pasividad, Espíritu emprendedor
+Abnegación, Independencia
+Dependencia, Dominio
+Escasa necesidad sexual, Fuerte impulso sexual
+}
 
-Vemos así que este tipo de construcciones simbólicas tienen también asociada una carga valorativa diferencial y jerarquizada. Asimismo, nos permiten acercarnos al hecho de que en cada sociedad se espera que las mujeres y los varones se comporten de manera diferente, ya que desde la infancia son socializados/as para ajustarse a los roles y normas masculinos y femeninos: deben vestirse de manera diferente, jugar distintos tipos de juegos, interesarse por temas diferentes, etc.
+Vemos así que este tipo de construcciones simbólicas tienen también asociada una carga valorativa diferencial y jerarquizada. Asimismo, nos permiten acercarnos al hecho de que en cada sociedad se espera que las mujeres y los varones se comporten de manera diferente, ya que desde la infancia son socializad◊gender{os/as} para ajustarse a los roles y normas masculinos y femeninos: deben vestirse de manera diferente, jugar distintos tipos de juegos, interesarse por temas diferentes, etc.
 
 En la edad adulta esta jerarquización se trasladará al mundo del trabajo, a la forma de establecer relaciones, al desarrollo de la sexualidad, a la manera de hablar y de conducirse en los diversos ámbitos de la sociedad.
 
@@ -127,13 +158,11 @@ Varones y mujeres, al hacer propio y ejercer estos roles asignados, han educado 
 
 Resulta interesante incorporar la descripción de este fenómeno que realiza la historiadora Mirta Lobato:
 
-◊blockquote["Mirta Lobato, \"Trabajo, cultura y poder: dilemas historiográficos y estudios de género en Argentina\"" ]{La división entre espacio público y privado es un elemento importante del discurso de la domesticidad. ◊noise Apoyándose en una dicotomía imaginaria se organizaron los sistemas sociales y se establecieron normas que definen espacios de competencia para las actividades económicas, políticas y culturales (Armstrong, 1987). En Europa este proceso se ubica hacia fines del siglo XVIII y en América latina a partir del siglo XIX, cuando la “doctrina” de las dos esferas excluyentes de actividad humana (lo público y lo privado) surge como componente de la ideología victoriana sobre la mujer. ◊noise Mientras que la familia dejó de ser una unidad de producción para transformarse en una de tipo emocional, la producción material de bienes pasó a realizarse socialmente fuera del hogar y se enfatizó que entre ambos espacios no había ningún tipo de interferencias. La separación entre la familia y el trabajo, entre producción doméstica y formas socializadas de producción, reconfiguró las anteriores divisiones del trabajo entre hombres y mujeres. Esta noción que presentaba las esferas pública y privada como dicotómicas, separadas y divididas, no sólo en el espacio sino por las actividades realizadas y por el sexo de los sujetos, fue clave también en el análisis político que consideraba la cuestión de la ciudadanía y la participación en el debate sobre los asuntos públicos donde la intervención de las mujeres quedó, a veces, subsumida en el universal de los ciudadanos varones y, otras, marginada en tanto se consideraba que su esfera de actuación privilegiada era el hogar}
-
-◊image["img/5.png"]{''}
+La división entre espacio público y privado es un elemento importante del discurso de la domesticidad. ◊noise Apoyándose en una dicotomía imaginaria se organizaron los sistemas sociales y se establecieron normas que definen espacios de competencia para las actividades económicas, políticas y culturales (Armstrong, 1987). En Europa este proceso se ubica hacia fines del siglo XVIII y en América latina a partir del siglo XIX, cuando la “doctrina” de las dos esferas excluyentes de actividad humana (lo público y lo privado) surge como componente de la ideología victoriana sobre la mujer. ◊noise Mientras que la familia dejó de ser una unidad de producción para transformarse en una de tipo emocional, la producción material de bienes pasó a realizarse socialmente fuera del hogar y se enfatizó que entre ambos espacios no había ningún tipo de interferencias. La separación entre la familia y el trabajo, entre producción doméstica y formas socializadas de producción, reconfiguró las anteriores divisiones del trabajo entre hombres y mujeres. Esta noción que presentaba las esferas pública y privada como dicotómicas, separadas y divididas, no sólo en el espacio sino por las actividades realizadas y por el sexo de los sujetos, fue clave también en el análisis político que consideraba la cuestión de la ciudadanía y la participación en el debate sobre los asuntos públicos donde la intervención de las mujeres quedó, a veces, subsumida en el universal de los ciudadanos varones y, otras, marginada en tanto se consideraba que su esfera de actuación privilegiada era el hogar.◊sidenote{Mirta Zaida Lobato, ◊citetitle{Trabajo, cultura y poder: dilemas historiográficos y estudios de género en la Argentina} en ◊em{Historias con mujeres, mujeres con historia}, Buenos Aires, 2009.}
 
 La función de la familia en la transmisión de valores, normas y modelos en torno a las identidades de género es de fundamental importancia. Diversas investigaciones han puesto de manifiesto que los padres y las madres se comportan de manera diferente según sus hijos sean varones o mujeres. Las niñas y los niños aprenden a desplegar roles sobre la base de la educación que reciben, el medio en el que se desarrollan y también a partir de la identificación con figuras adultas significativas. De una parte, encontramos el modelo de la femineidad impregnado de valores asociados a lo maternal y que sostienen la mayoría de las culturas occidentales. Por otra parte, hallamos el modelo de la masculinidad. Veamos la perspectiva presentada al respecto por el Diccionario de estudios de género y feminismos:
  
-◊blockquote["Susana Gamba, \"Diccionario de estudios de género y feminismos\""]{¿Es la masculinidad una condición biológica, un modo de ser, un conjunto de atributos, un mandato o una posición? ◊noise Partimos, entonces, de pensar las identidades masculinas como construcciones culturales que se reproducen socialmente y que, por ello, no pueden definirse fuera del contexto en el cual se inscriben. Esa construcción se desarrolla a lo largo de toda la vida, con la intervención de distintas instituciones (la familia, la escuela, el Estado, la iglesia, etc.) que moldean modos de habitar el cuerpo, de sentir, de pensar y de actuar el género. diversas investigaciones sobre la construcción social de la masculinidad plantean la existencia de un modelo hegemónico que ◊noise opera al mismo tiempo en dos niveles: en el nivel subjetivo, plasmándose en proyectos identitarios, a manera de actitudes, comportamientos y relaciones interpersonales, y en el nivel social, afectando la manera en que se distribuirán –en función del género- los trabajos y los recursos de los que dispone la sociedad. ◊noise no todos los varones viven ni valoran del mismo modo los esquemas de masculinidad hegemónica, pero todos los conocen. Todos han sido, de uno u otro modo, socializados dentro de este paradigma. Las mujeres también los conocen, y muchas veces esperan que los varones realmente se comporten siguiendo este modelo.◊noise en pocas palabras: varones y mujeres participan en la construcción de la masculinidad como una posición privilegiada”.}
+◊citation{¿Es la masculinidad una condición biológica, un modo de ser, un conjunto de atributos, un mandato o una posición? ◊noise Partimos, entonces, de pensar las identidades masculinas como construcciones culturales que se reproducen socialmente y que, por ello, no pueden definirse fuera del contexto en el cual se inscriben. Esa construcción se desarrolla a lo largo de toda la vida, con la intervención de distintas instituciones (la familia, la escuela, el Estado, la iglesia, etc.) que moldean modos de habitar el cuerpo, de sentir, de pensar y de actuar el género. diversas investigaciones sobre la construcción social de la masculinidad plantean la existencia de un modelo hegemónico que ◊noise opera al mismo tiempo en dos niveles: en el nivel subjetivo, plasmándose en proyectos identitarios, a manera de actitudes, comportamientos y relaciones interpersonales, y en el nivel social, afectando la manera en que se distribuirán –en función del género- los trabajos y los recursos de los que dispone la sociedad. ◊noise no todos los varones viven ni valoran del mismo modo los esquemas de masculinidad hegemónica, pero todos los conocen. Todos han sido, de uno u otro modo, socializados dentro de este paradigma. Las mujeres también los conocen, y muchas veces esperan que los varones realmente se comporten siguiendo este modelo.◊noise en pocas palabras: varones y mujeres participan en la construcción de la masculinidad como una posición privilegiada”.◊sidenote{Susana Beatriz Gamba, ◊citetitle{Diccionario de estudios: de género y feminismos. 1a. ed.}, Biblos, Buenos Aires, 2007.}}
 
 Entonces los ◊em{roles de género} son las tareas o actividades que se espera que desempeñe una persona según el sexo al que pertenece. Por ejemplo, desde este enfoque sería lógico que los varones sean albañiles o choferes, mientras que las mujeres amas de casa o enfermeras.
 
@@ -143,17 +172,17 @@ El ◊concept{rol reproductivo} es la reproducción biológica, y aquellas activ
 
 Por último, ◊concept{rol de gestión comunitaria} son las actividades que se realizan para aportar al desarrollo comunitario.
 
-◊image["img/6.png"]{''}
-
 En la actualidad se dice que las mujeres han asumido un triple rol, el productivo, el reproductivo y a veces el de gestión comunitaria, aumentando su carga de trabajo y sus responsabilidades, muchas veces de manera desigual en relación a los varones.
 
 El problema con el trabajo doméstico radica en que se asume como una tarea principalmente femenina, pero además sin valor alguno. Como es un trabajo que nunca termina, que se repite incesantemente, un trabajo del que no se pueden ver resultados permanentes, no se lo aprecia. Una desvalorización de las tareas domésticas, desvaloriza también a quien las ejecuta.
 
-◊image["img/7.png"]{''}
-
 Seguramente a lo largo de tu día realizas muchas tareas, desde que te levantas hasta que termina la jornada. Te proponemos que nos cuentes cómo es un día de tu vida y que enumeres en la tabla que está a continuación, todas aquellas actividades que realizas, desde preparar el desayuno, hasta ir a un trabajo fuera de tu casa. También te pedimos que las separes en trabajo productivo (aquel que se realiza fuera del hogar) y reproductivo (el que se hace en dentro del hogar).
 
-◊h2[#:id "1.3"]{Igualdad y Equidad de Género (◊acronym{OIT}, 2001)}
+}
+
+◊section{
+
+◊h2[#:id "1.3"]{Igualdad y Equidad de Género}
 
 La igualdad de género no significa que los hombres y las mujeres son o deberían ser iguales, sino que ambos tendrían que gozar de los mismos derechos y oportunidades en todos los aspectos de la vida. Se basa en la paridad entre hombres y mujeres en el hogar, la comunidad y la sociedad. En el contexto del desarrollo económico local, supone que la participación en la gestión pública y el acceso a oportunidades y condiciones de trabajo decentes, a los recursos y a los servicios no se vean perjudicados por el hecho de ser hombre o ser mujer
 
@@ -186,8 +215,6 @@ Existen algunas culturas que no consideran importante la educación para las muj
 
 En este caso no existe igualdad de oportunidades puesto que estas mujeres están en desventaja frente a los hombres en cuanto a conocimientos formales. Tampoco existe igualdad de trato porque se selecciona al hombre para que realice actividades (asistir a la escuela) que le representarán beneficios en el futuro. Por todo lo mencionado no existe igualdad de condición porque esa mujer en situación de analfabetismo y pobreza tendrá muchas desventajas al momento de mejorar su calidad de vida por la falta de oportunidades, trato y condición.
 
-◊image["img/8.png"]{''}
-
 El nivel educativo de la mujer en muchos países latinoamericanos es todavía muy deficiente, esto está estrechamente relacionado a su bajo nivel de vida personal, familiar y social expresada en dificultades y limitaciones latentes en la vida de las mujeres:
 
 ◊ul{
@@ -199,6 +226,10 @@ El nivel educativo de la mujer en muchos países latinoamericanos es todavía mu
 ◊li{Mayor presencia de enfermedades y mortalidad materna e infantil. Mayor propensión a confrontar hechos de maltrato, violencia y discriminación familiar y social.}
 }
 
+}
+
+◊section{
+
 ◊h2[#:id "1.4"]{La perspectiva de género}
 
 La ◊concept{perspectiva de género} analiza los roles sociales, los estereotipos que inciden culturalmente y la relación jerárquica entre varones y mujeres como factores fundamentales en la promoción, protección o impedimento para el pleno desarrollo y acceso a derechos para las mujeres. El concepto de género se refiere básicamente al análisis de las relaciones de poder: se trata de identificar y analizar las desigualdades que se producen sobre la base de la valoración de cada persona por su pertenencia sexual.
@@ -209,7 +240,7 @@ Cuando hablamos de modelos aprendidos, estamos haciendo referencia a construccio
 
 El enfoque de género◊sidenote{◊citetitle{Glosario de términos sobre género}. Centro Nacional para el Desarrollo de la Mujer y la Familia / Glosario de género y salud. ◊acronym{USAID}} es la ◊citation{forma de observar la realidad con base en las variables sexo y género y sus manifestaciones en un contexto geográfico, étnico e histórico determinado. Este enfoque permite visualizar y reconocer la existencia de relaciones de jerarquía y desigualdad entre hombres y mujeres expresadas en opresión, injusticia, subordinación, discriminación mayoritariamente hacia las mujeres}.
 
-Podría homologarse con el término ◊em{perspectiva de género}, debido a que se define como ◊citation{el enfoque o contenido conceptual que le damos al género para analizar la realidad y fenómenos diversos, evaluar las políticas, la legislación y el ejercicio de derechos, diseñar estrategias y evaluar acciones}.
+Podría homologarse con el término ◊em{perspectiva de género}, debido a que se define como ◊citation{el enfoque o contenido conceptual que le damos al género para analizar la realidad y fenómenos diversos, evaluar las políticas, la legislación y el ejercicio de derechos, diseñar estrategias y evaluar acciones◊sidenote{Fabiola Campillo, Laura Guzmán Stein, ◊citetitle{Marco de referencia y estrategia para la integración de la perspectiva de género en el IIDH}, ◊acronym{IIDH}, Costa Rica, 2000.}}.
 
 Desde este punto de vista, se considera que se trata de una ◊em{perspectiva teórico-metodológica}, que implica una forma de ver la realidad y una forma de intervenir o actuar en ella.
 
@@ -223,24 +254,108 @@ La ◊concept{incorporación de la perspectiva de género} es una estrategia o u
 
 Cuando se incorpora efectivamente la perspectiva de género en el plano local, se logran cambios fundamentales en las relaciones de poder entre ambos sexos.
 
-◊citation{La incorporación de la perspectiva de género no consiste simplemente en añadir un “componente femenino” ni un “componente de igualdad entre los géneros” a una actividad existente. Es asimismo algo más que aumentar la participación de las mujeres. Significa incorporar la experiencia, el conocimiento y los intereses de las mujeres y de los hombres para sacar adelante el programa de desarrollo. Puede entrañar la determinación de cambios necesarios en ese programa. Quizás requiera cambios en los objetivos, estrategias y acciones para que hombres y mujeres a un tiempo puedan influir y participar en los procesos de desarrollo y beneficiarse de ellos. El objetivo de la incorporación de la perspectiva de género es, por lo tanto, transformar las estructuras sociales e institucionales desiguales en estructuras iguales y justas para los hombres y las mujeres.}
+◊citation{La incorporación de la perspectiva de género no consiste simplemente en añadir un “componente femenino” ni un “componente de igualdad entre los géneros” a una actividad existente. Es asimismo algo más que aumentar la participación de las mujeres. Significa incorporar la experiencia, el conocimiento y los intereses de las mujeres y de los hombres para sacar adelante el programa de desarrollo. Puede entrañar la determinación de cambios necesarios en ese programa. Quizás requiera cambios en los objetivos, estrategias y acciones para que hombres y mujeres a un tiempo puedan influir y participar en los procesos de desarrollo y beneficiarse de ellos. El objetivo de la incorporación de la perspectiva de género es, por lo tanto, transformar las estructuras sociales e institucionales desiguales en estructuras iguales y justas para los hombres y las mujeres.◊sidenote{◊acronym{OIT}, ◊citetitle{Guía para la incorporación de la perspectiva de género en las estrategias de desarrollo económico local} Oficina Internacional del Trabajo, Programa de Desarrollo Económico Local, Oficina para la Igualdad de Género, Ginebra, 2010.}}
 
 En las esferas donde las mujeres o los hombres se encuentran en una posición de especial desventaja por haber sido víctimas de la discriminación, tal vez sea necesaria la ◊em{acción positiva} para paliar el desequilibrio. Se trata de medidas provisionales y específicas en favor de las personas de un sexo o del otro, que confieren ciertas ventajas al grupo desfavorecido y le permiten participar en la labor de desarrollo y beneficiarse de ella en pie de igualdad.
 
-◊image["img/9.png"]{''}
+}
+
+◊section{
 
 ◊h2[#:id "1.5"]{Bibliografía}
 
-Barrancos, Dora (2007). ◊em{Mujeres en la sociedad argentina}, Buenos Aires, Sudamericana, pág. 327.
+Dora, Barrancos, ◊citetitle{Mujeres en la sociedad argentina}, Sudamericana, Buenos Aires, 2007.
 
-Gamba, Susana Beatriz, coord. (2007): ◊em{Diccionario de estudios: de género y feminismos. 1a. ed.}, Buenos Aire. Biblos.
+Susana Beatriz Gamba, ◊citetitle{Diccionario de estudios: de género y feminismos. 1a. ed.}, Biblos, Buenos Aires, 2007.
 
-Héritier, Françoise (2007), ◊em{Masculino/Femenino II. Disolver la jerarquía}, Buenos Aires, FCE, pág. 17.
+Françoise Héritier, ◊citetitle{Masculino/Femenino II. Disolver la jerarquía}, Buenos Aires, 2007.
 
-Lobato, Mirta Zaida (2009). ◊em{Trabajo, cultura y poder: dilemas historiográficos y estudios de género en la Argentina} en ◊em{Historias con mujeres, mujeres con historia}, Buenos Aires, UBA, pág.p. 29.
+Mirta Zaida Lobato, ◊citetitle{Trabajo, cultura y poder: dilemas historiográficos y estudios de género en la Argentina} en ◊citetitle{Historias con mujeres, mujeres con historia}, Buenos Aires, 2009.
 
-OIT (2010), ◊em{Guía para la incorporación de la perspectiva de género en las estrategias de desarrollo económico local} Oficina Internacional del Trabajo, Programa de Desarrollo Económico Local, Oficina para la Igualdad de Género, Ginebra.
+◊acronym{OIT}, ◊citetitle{Guía para la incorporación de la perspectiva de género en las estrategias de desarrollo económico local} Oficina Internacional del Trabajo, Programa de Desarrollo Económico Local, Oficina para la Igualdad de Género, Ginebra, 2010.
 
-OIT (2001), ◊em{Programa Formujer, Incorporación de la perspectiva de género en la formación profesional: materiales didácticos}, Montevideo.
+◊acronym{OIT}, ◊citetitle{Programa Formujer, Incorporación de la perspectiva de género en la formación profesional: materiales didácticos}, Montevideo, 2001.
+
+Fabiola Campillo, Laura Guzmán Stein, ◊citetitle{Marco de referencia y estrategia para la integración de la perspectiva de género en el IIDH}, ◊acronym{IIDH}, Costa Rica, 2000.
+
+}
+
+◊section{
+
+◊h2[#:id "1.6"]{Lecturas}
+
+◊h3{Lecturas Obligatorias}
+
+◊lectura[
+"24024348"
+"barbieri1993.pdf"
+"Teresita de Barbieri"
+"Sobre la categoría género. Una introducción teórico metodológica"
+"PDF"
+"172 KB"]
+
+◊lectura[
+"24024551"
+"Lamas1996.pdf"
+"Marta Lamas"
+"La perspectiva de género"
+"PDF"
+"176 KB"]
+
+◊h3{Lecturas Complementarias}
+
+◊lectura[
+"24024618"
+"Lamas1986.pdf"
+"Marta Lamas"
+"La antropología feminista y la categoría género"
+"PDF"
+"1.4 MB"
+]
+
+◊lectura[
+"24024644"
+"Segato2010.pdf"
+"Rita Laura Segato"
+"Género y colonialidad: en busca de claves de lectura y de un vocabulario estratégico descolonial"
+"PDF"
+"360 KB"
+]
+
+◊lectura[
+"24024647"
+"Scott1996.pdf"
+"Joan W. Scott"
+"El género: una categoría útil para el análisis histórico"
+"PDF"
+"184 KB"
+]
+
+◊lectura[
+"24024638"
+"Comision2011.pdf"
+"Comisión de transición hacia el consejo de las mujeres y la igualdad de género"
+"¿Sabías que ...? Un glosario feminista"
+"PDF"
+"856 KB"
+]
+
+◊lectura[
+"24024652"
+"Connel1995.pdf"
+"Robert W. Connel"
+"La organización social de la masculinidad"
+"PDF"
+"184 KB"
+]
+
+◊lectura[
+"24024628"
+"Butler1990.pdf"
+"Judith Butler"
+"Sujeto de sexo/género/deseo"
+"PDF"
+"892 KB"
+]
 
 }

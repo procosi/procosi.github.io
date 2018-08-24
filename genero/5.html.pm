@@ -1,7 +1,12 @@
 #lang pollen
 
+◊heading{
+
+◊bannersrc{banner/5.png}
 ◊title{Unidad 5}
 ◊subtitle{Ciudadanía y participación política de las mujeres}
+
+}
 
 ◊section{
 
@@ -43,9 +48,13 @@ La atención prestada por los municipios a la igualdad de género es todavía mu
 
 Como se ha mencionado siendo el municipio la instancia de representación y gobierno más próxima a la ciudadanía, vinculada a los asuntos de la vida cotidiana, paradójicamente no ha facilitado el acceso de las mujeres a los cargos de representación municipal. Los gobiernos locales latinoamericanos carecen de pluralidad de género, puesto que son mayoritariamente encabezados por hombres. Claramente no se verifica una correlación positiva entre mayor cercanía y mayor participación de las mujeres en los cargos de representación y dirección. Por lo cual, el principio de proximidad que legitima específicamente al gobierno local, no funciona como principio que favorece la equidad de género. ◊sidenote{Massolo, Alejandra, ◊citetitle{Participación de las mujeres en los gobiernos locales de América Latina}, en ◊citetitle{Memoria del Primer Encuentro Nacional de Presidentas Municipales}, Inmujeres, México, 2003.}
 
+}
+
+◊section{
+
 ◊h2[#:id "5.2"]{2. La ciudadanía y la participación femenina}
 
-La ciudadanía tiene que ver con la pertenencia a un grupo o comunidad que confiere derechos y responsabilidades como resultado de tal membresía. Puede ser una relación con el Estado y / o entre integrantes de un grupo, sociedad o comunidad. La ciudadanía es a la vez una condición ◊otherwords{o identidad} y una práctica o proceso de relacionarse con el mundo social a través del ejercicio de derechos / protecciones y del cumplimiento de obligaciones. Sus significados varían de una región a otra y de una comunidad a otra. No se trata, entonces, de cómo alcanzar la ciudadanía, sino de cómo ésta puede ser utilizada para explicar y fortalecer aquellos elementos en las vidas de las personas que constituyen su pertenencia a una comunidad.
+La ciudadanía tiene que ver con la pertenencia a un grupo o comunidad que confiere derechos y responsabilidades como resultado de tal membresía. Puede ser una relación con el Estado y/o entre integrantes de un grupo, sociedad o comunidad. La ciudadanía es a la vez una condición ◊otherwords{o identidad} y una práctica o proceso de relacionarse con el mundo social a través del ejercicio de derechos / protecciones y del cumplimiento de obligaciones. Sus significados varían de una región a otra y de una comunidad a otra. No se trata, entonces, de cómo alcanzar la ciudadanía, sino de cómo ésta puede ser utilizada para explicar y fortalecer aquellos elementos en las vidas de las personas que constituyen su pertenencia a una comunidad.
 
 La ciudadanía es un concepto abstracto y, por lo tanto, se debe tener mucho cuidado al explicar lo que significa en la práctica y lo que efectivamente puede hacerse en el contexto de las intervenciones y políticas de desarrollo. Los proyectos de desarrollo que potencian la capacidad de los grupos marginados de tener acceso a los cuerpos de toma de decisiones e influir en éstos están trabajando con conceptos de ciudadanía implícitamente, si no de manera explícita. La ciudadanía tiene que ver con instituciones, políticas y estructuras concretas y con las formas en que las personas pueden moldearlas utilizando ideas acerca de los derechos y la participación.
 
@@ -65,7 +74,7 @@ Muchos análisis coinciden en que la propia ciudadanía conquistada por las muje
 
 La ciudadanía conquistada fue una ciudadanía de segunda categoría, estructurada a la imagen masculina. Para ellas, la filiación electoral no tenía el mismo significado de exposición pública que lo que implicaba la postulación a un determinado cargo. La inseguridad, el desconocimiento de las reglas de este mundo público, los condicionantes culturales y psicológicos, las prácticas partidarias excluyentes... seguían actuando sobre las mujeres, manteniéndolas alejadas del poder político. ◊sidenote{Costa. Ana Alice Alcantara, ◊citetitle{En busca da cidadania plena} en Álvarez, Maria Luzia y Santos, Eunice, ◊citetitle{Olhares & diversidades: os estudos sobre gênero no Norte e Nordeste}, Belém, REDOR/GEPEM, 1999.}
 
-En el campo político electoral, la mayoría de las mujeres que acceden a los cargos del legislativo y del ejecutivo utilizan la misma estrategia de conservación del poder patriarcal, que las incorpora en función de los intereses del grupo familiar / político. Gran parte de ellas son esposas, hijas o familiares de políticos tradicionales. Las mujeres todavía están fuertemente subordinadas a las relaciones patriarcales de dominación, en las que la familia juega un papel fundamental. ◊sidenote{Costa. Ana Alice Alcantara, ◊citetitle{En busca da cidadania plena} en Álvarez, Maria Luzia y Santos, Eunice, ◊citetitle{Olhares & diversidades: os estudos sobre gênero no Norte e Nordeste}, Belém, REDOR/GEPEM, 1999.}
+En el campo político electoral, la mayoría de las mujeres que acceden a los cargos del legislativo y del ejecutivo utilizan la misma estrategia de conservación del poder patriarcal, que las incorpora en función de los intereses del grupo familiar/político. Gran parte de ellas son esposas, hijas o familiares de políticos tradicionales. Las mujeres todavía están fuertemente subordinadas a las relaciones patriarcales de dominación, en las que la familia juega un papel fundamental. ◊sidenote{Costa. Ana Alice Alcantara, ◊citetitle{En busca da cidadania plena} en Álvarez, Maria Luzia y Santos, Eunice, ◊citetitle{Olhares & diversidades: os estudos sobre gênero no Norte e Nordeste}, Belém, REDOR/GEPEM, 1999.}
 
 Actualmente las mujeres están dotadas de nuevos roles, presentando nuevas orientaciones y opciones, no obstante, mantienen valores del antiguo orden patriarcal. Si bien en los últimos años hemos viviendo grandes cambios en la mayoría de ellas sus creencias políticas siguen siendo específicas en la medida en que para ellas la familia constituye el eje de los cambios que vive en relación con sus roles en la sociedad. Su actuación en la esfera pública todavía no ha conseguido romper con las determinaciones del mundo doméstico, de sus responsabilidades familiares y de su componente ◊em{maternal}. El feminismo político confronta duramente con una actuación que expresa una especie de cultura política construida con base en la desigualdad y la condición de subalternidad.
 
@@ -96,6 +105,10 @@ Las experiencias acumuladas en los últimos veinte años permiten afirmar que la
 Tradicionalmente, las mujeres de los grupos étnicos han ocupado nichos de participación definidos como espacios genéricos culturalmente establecidos y permitidos: comités comunitarios de mujeres, comités para fiestas y rituales religiosos, comités de escuela, de salud, de padres de familia.
 
 Si bien la importancia de su participación se reconoce y valora ◊otherwords{en forma distinta según el grupo étnico y las circunstancias sociopolíticas de cada caso}, la jerarquía de las autoridades comunitarias ◊otherwords{civiles o religiosas} sólo admite y reconoce una participación secundaria de las mujeres, sin ofrecerles, salvo excepcionalmente, cargos, estatus propios ni responsabilidades a título personal, sino como esposas, hijas, hermanas o compañeras. De esta forma, la socialización pública de las mujeres indígenas y su reconocimiento como agentes políticos, con influencia y ascendencia sobre la toma de decisiones colectiva y las necesidades de la vida pública de las comunidades, está mediada por las relaciones de género dentro de las comunidades indígenas.
+
+}
+
+◊section{
 
 ◊h2[#:id "5.3"]{3. Autonomía y empoderamiento}
 
@@ -128,8 +141,11 @@ Se trata de un poder que tiene dos niveles, uno extrínseco y otro intrínseco. 
 
 Según Marcela Lagarde, ◊citation{el empoderamiento es el conjunto de procesos vitales definidos por la adquisición o invención e interiorización de poderes que permiten a cada mujer o colectivo de mujeres, enfrentar formas de opresión vigentes en sus vidas ◊otherwords{exclusión, discriminación, explotación, abuso, acoso, interiorización, infidelidad o traición, incapacidad para… depresión, auto devaluación, angustia por falta de oportunidades, medios, recursos o bienes, dificultades de salud temor extremo, etc.}. Decimos que una mujer o grupo de mujeres está empoderada, cuando esos poderes ya no le son externos, se le vuelve cuerpo y subjetividad, manera de ser y de vivir. Cuando cada mujer y cada grupo de mujeres defiende por sobre todas las cosas su cuerpo, sus recursos, sus capacidades, sus bienes, sus oportunidades, su mundo inmediato y mediato. El empoderamiento de las mujeres no tiene nada que ver con una cuestión “revanchista” hacia los hombres. Se quiere una transformación en el acceso de las mujeres tanto a la propiedad como al poder, lo cual transforma las relaciones de género y es una precondición para lograr la equidad entre hombres y mujeres. Superar al aislamiento requiere más que destrezas de información, tiene que ver con la manera cómo una persona se ve a sí misma y al mundo. El desarrollo de la conciencia política es un aspecto importante aunque frecuentemente ignorado.}◊sidenote{Lagarde, Marcela, ◊citetitle{Intercambio y desarrollo humano en América Latina}. Cidhal, AC, 2008}
 
-◊image["tmp/p7.png"]{'El ciclo del empoderamiento'} ◊marginnote{El ciclo del empoderamiento muestra la naturaleza continua y dinámica del proceso de desarrollo. Los cinco niveles enunciados se deben encontrar en un proyecto para que este pueda contribuir al proceso de superar la desigualdad de género.}
+◊image["img/1.svg"]{'El ciclo del empoderamiento'} ◊marginnote{El ciclo del empoderamiento muestra la naturaleza continua y dinámica del proceso de desarrollo. Los cinco niveles enunciados se deben encontrar en un proyecto para que este pueda contribuir al proceso de superar la desigualdad de género.}
 
+}
+
+◊section{
 
 ◊h2[#:id "5.4"]{4. Las cuotas electorales}
 
@@ -147,13 +163,17 @@ En cambio, en el resto de los países de la región la lista de candidatos es ce
 
 La democracia y su complemento inseparable, la ciudadanía, con sus valores y sus habilidades no son una condición innata a los seres humanos, ni siquiera en quienes han sufrido la exclusión y la desigualdad.
 
-Vivir en democracia, ejercer el poder en un sentido democrático, ser ciudadana / o, más que una vivencia espontánea, es un aprendizaje político. De allí que todos las iniciativas pedagógicas que se emprendan para divulgar entre las poblaciones discriminadas los principios, las destrezas y las reglas que fundamentan una democracia, son fundamentales para garantizar que medidas como las cuotas.
+Vivir en democracia, ejercer el poder en un sentido democrático, ser ciudadan◊gender{a/o}, más que una vivencia espontánea, es un aprendizaje político. De allí que todos las iniciativas pedagógicas que se emprendan para divulgar entre las poblaciones discriminadas los principios, las destrezas y las reglas que fundamentan una democracia, son fundamentales para garantizar que medidas como las cuotas.
 
 A pesar del aumento de la participación política de las mujeres en puestos de decisión, siguen existiendo grandes retos pendientes. Varias autoras señalan que los mecanismos de cuotas y las reformas en los sistemas electorales han considerado a las mujeres como un grupo homogéneo, ignorando las distintas discriminaciones que impiden de manera diferenciada el acceso de las mujeres a la participación política en función de su identidad étnico-racial, su procedencia rural o urbana, edad, etc.
 
 Por ello, una de las observaciones más importantes de los últimos años consiste en que las políticas públicas deben considerar la diversidad de condiciones, situaciones e intereses de las mujeres. Line Bareiro, Clyde Soto y Lilian Soto apuntan que ◊citation{la conformación de organizaciones, redes y articulaciones de mujeres jóvenes, de mujeres negras, indígenas, lesbianas, adultas mayores, campesinas o rurales han obligado a atender políticamente diferencias que la teoría de género consideró desde sus inicios, pero la práctica política hizo que se operase homogeneizando al grupo femenino. Esa perspectiva fue sin duda útil para la remoción de las más evidentes discriminaciones legales por el hecho de ser mujeres}◊sidenote{Bareiro, Line, Clyde Soto, and Lilian Soto ◊citetitle{La inclusión de las mujeres en los procesos de reforma política en América Latina}, Inter-American Development Bank, 2007.}.
 
 La ex-diputada afro costarricense y feminista, Epsy Campbell ha evidenciado que en su país, es mayor la discriminación racial en la política, que la de género. En lo que se refiere al acceso a cargos de poder la brecha entre personas afro costarricenses y las blancas y mestizas, es mayor que entre hombres y mujeres.
+
+}
+
+◊section{
 
 ◊h2[#:id "5.5"]{5. Factores que facilitan o limitan la participación femenina◊sidenote{Barrera, Dalia, and Irma Aguirre. ◊citetitle{La participación política de las mujeres}, 2003}}
 
@@ -272,7 +292,7 @@ La ex-diputada afro costarricense y feminista, Epsy Campbell ha evidenciado que 
 ◊li{La construcción de ◊em{una agenda} para las mujeres a nivel nacional, focalizadas en demandas específicas, basada en diagnósticos precisos por áreas.
 ◊ul{
 ◊li{El Impulso a reformas legislativas en pro de las mujeres.}
-◊li{El Cuestionamiento en la práctica del confinamiento social de las mujeres a su rol de madre / esposa.}
+◊li{El Cuestionamiento en la práctica del confinamiento social de las mujeres a su rol de madre/esposa.}
 ◊li{Formación de liderazgos femeninos, con grupos sociales específicos de mujeres y mixtos.}
 ◊li{Creación de una base social de mujeres comprometidas con una agenda común, desde sus lugares de residencia, trabajo, militancia social o política.}
 ◊li{Desarrollo de liderazgo político femenino comprometido con una agenda común y con agendas específicas, contra la discriminación y con la equidad de género en el contexto de una vida democrática plena.}
@@ -313,7 +333,7 @@ La ex-diputada afro costarricense y feminista, Epsy Campbell ha evidenciado que 
 ◊ul{
 ◊li{◊em{Educación familiar} como seres para otros, sujetos al control masculino, en lo familiar y lo social, sin proyecto, necesidades ni deseos propios, más allá de los derivados de su papel de madres esposas.}
 ◊li{◊em{Educación en la familia}, donde está desdibujado el deseo de poder social y político para las mujeres, basándose su éxito en el ámbito familiar, del hogar y de su cumplimiento del rol de madre-esposa.}
-◊li{Paradójicamente, del ◊em{rol de madre esposa} surgen las motivaciones más generalizadas para la participación social y política de las mujeres ◊otherwords{ante la imposibilidad de cumplirlos cabalmente}; pero también surgen de ahí los costos de la participación: culpa, stress, ansiedad, por “descuidar” dicho papel y sus requerimientos; violencia doméstica incrementada, celos, presión para “elegir” entre la participación y la pareja y / o la familia; presión social ◊otherwords{chismes, maledicencias y desprestigio}; sensación de ◊em{masculinización}, por tener poder social y político, considerado como típico atributo masculino; separación, divorcio o “decisión” consciente de no tener pareja o vida familiar.}
+◊li{Paradójicamente, del ◊em{rol de madre esposa} surgen las motivaciones más generalizadas para la participación social y política de las mujeres ◊otherwords{ante la imposibilidad de cumplirlos cabalmente}; pero también surgen de ahí los costos de la participación: culpa, stress, ansiedad, por “descuidar” dicho papel y sus requerimientos; violencia doméstica incrementada, celos, presión para “elegir” entre la participación y la pareja y/o la familia; presión social ◊otherwords{chismes, maledicencias y desprestigio}; sensación de ◊em{masculinización}, por tener poder social y político, considerado como típico atributo masculino; separación, divorcio o “decisión” consciente de no tener pareja o vida familiar.}
 ◊li{Difícil acceso a la opción de ◊em{negociación con la pareja y los hijos}, hacia nuevas formas de división del trabajo doméstico, ruptura con las restricciones a su movilidad, a su acceso al poder y a la toma de decisiones, con esposo e hijos.}
 ◊li{◊em{Miedo o aversión al poder político}, por considerarlo “sucio”, ajeno, inalcanzable y amenazante.}
 ◊li{Dificultad para la obtención de ◊em{recursos} para impulsar la capacitación, los liderazgos y las candidaturas como mujeres}
@@ -322,6 +342,10 @@ La ex-diputada afro costarricense y feminista, Epsy Campbell ha evidenciado que 
 ◊li{Subordinación a ◊em{relaciones caciquiles o de padrinazgo político} al interior del partido para apoyar su candidatura.}
 }
 }
+
+}
+
+◊section{
 
 ◊h2[#:id "5.6"]{Bibliografía}
 
@@ -364,5 +388,86 @@ Lagarde, Marcela, ◊citetitle{Intercambio y desarrollo humano en América Latin
 Bareiro, Line, Clyde Soto, and Lilian Soto ◊citetitle{La inclusión de las mujeres en los procesos de reforma política en América Latina}, Inter-American Development Bank, 2007.
 
 Barrera, Dalia, and Irma Aguirre. ◊citetitle{La participación política de las mujeres}, 2003
+
+}
+
+◊section{
+
+◊h2[#:id "5.7"]{Lecturas}
+
+◊h3{Lecturas Obligatorias}
+
+◊lectura[
+"24025515"
+"meersever2004.pdf"
+"Shamim Meer & Charlie Sever"
+"Género y ciudadanía"
+"PDF"
+"816 KB"]
+
+◊lectura[
+"24025505"
+"molyneux2000.pdf"
+"Maxine Molyneux"
+"Género y ciudadanía en América Latina: cuestiones históricas y contemporáneas"
+"PDF"
+"2.8 MB"
+]
+
+◊lectura[
+"24025439"
+"onumujeres2015.pdf"
+"ONU Mujeres"
+"La hora de la igualdad sustantiva. Participación política de las mujeres en América Latina y el Caribe Hispano"
+"PDF"
+"3.2 MB"
+]
+
+◊lectura[
+"24025518"
+"peschard2002.pdf"
+"Jacqueline Peschard"
+"El sistema de cuotas en América Latina. Panorama general"
+"PDF"
+"140 KB"
+]
+
+◊h3{Lecturas Complementarias}
+
+◊lectura[
+"24030006"
+"sever2004.pdf"
+"Charlie Sever"
+"Género y ciudadanía"
+"PDF"
+"1.1 MB"
+]
+
+◊lectura[
+"24030017"
+"barreramassoloaguirre2004.pdf"
+"Dalia Barrera Bassols, Alejandra Massolo & Irma Aguirre Pérez"
+"Guía para la equidad de género en el municipio"
+"PDF"
+"936 KB"
+]
+
+◊lectura[
+"24030021"
+"bareiroriquelme1997.pdf"
+"Line Bareiro & Jane C. Riquelme"
+"Nuevas voceras de la ciudadanía plena"
+"PDF"
+"164 KB"
+]
+
+◊lectura[
+"24025955"
+"llanossample2008.pdf"
+"Beatriz Llanos & Kristen Sample"
+"30 años de democracia: ¿en la cresta de la ola? Participación política de la mujer en América Latina"
+"PDF"
+"1.2 MB"
+]
 
 }

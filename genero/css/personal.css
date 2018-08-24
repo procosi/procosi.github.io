@@ -1,3 +1,50 @@
+body{
+    width: 100% !important;
+    padding: 0% !important;
+    margin: 0 !important;
+}
+
+section{
+    width: 87.5%;
+    padding-left: 12.5%
+}
+
+section ul{
+    width: 50%;
+}
+
+.card ul{
+    width: 85%;
+}
+
+section > p{
+    text-align: left;
+}
+
+.banner{
+    height: 55%;
+    overflow: hidden;
+    padding: 0px;
+    position: relative;
+}
+
+.banner img{
+    position:relative;
+    height: 100%;
+    object-fit: cover;
+}
+
+.bannertitle{
+    position: absolute;
+    top: 5%;
+    left: 12.5%;
+    max-width: 40%
+}
+
+.banner .title{
+    font-size: 3.5rem;
+}
+
 .card{
     width: 48%;
     margin: 0 40px 20px 20px;
@@ -51,6 +98,54 @@ blockquote p{
     padding: 3px 6px;
 }
 
+
+.gender {
+    font-size: 0.8em;
+    color: #b39488;
+}
+
+.gendersep {
+    color: #f6cea8;
+    font-size: 1.3em;
+    top: 0.2em;
+    position: relative;
+}
+
+h2 .gendersep, h3 .gendersep, h4 .gendersep{
+    font-size: 0.9em;
+}
+
+/* .gender { */
+/*     font-size: 0.7em; */
+/*     margin: 0 -0.5em 0 0.1em; */
+/*     position: relative; */
+/*     top: 0.25em; */
+/*     color: #5c5755; */
+/* } */
+
+/* .gender { */
+/*     font-size: 0.7em; */
+/*     margin: 0 0.1em 0 0.1em; */
+/*     position: relative; */
+/*     top: -0.2em; */
+/*     color: #5c5755; */
+/* } */
+
+/* .down{ */
+/*     position: absolute; */
+/* } */
+
+/* .up { */
+/*     position: relative; */
+/*     top: -0.5em; */
+/* } */
+
+/* .up { */
+/*     position: relative; */
+/*     top: -0.6em; */
+/*     right: 0.5em; */
+/* } */
+
 h2{
     width: 55%;
 }
@@ -67,13 +162,155 @@ h2{
     margin-bottom: 20px
 }
 
-@media screen and (max-device-width: 760px) {
+heading{
+    display: none;
+}
+
+.toc {
+    padding-top: 50px;
+    margin-left: 12.5%;
+    width: 48%;
+}
+
+.toc .intro {
+    padding-top: 10px;
+    font-style: italic;
+    font-size: 1.5rem;
+    padding-bottom: 25px;
+    color: #5d5858;
+}
+
+.toc .entry {
+    padding-top: 10px;
+    font-style: italic;
+    border-top: 1px solid #f3f0ed;
+    padding-bottom: 10px;
+    background-color: #fffcf7;
+}
+
+.toc a {
+    text-decoration: none;
+    background: inherit;
+    padding-left: 12px;
+    color: #000;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+td{
+    border: 1px solid #f9f4e8;
+    padding: 8px;
+}
+
+tr, td li{
+    font-size: 1rem;
+}
+
+table ul{
+    width: 90%;
+    padding-left: 15px;
+    text-align: left;
+    line-height: 1.5rem;
+}
+
+tr:nth-child(even) {
+    background-color: #fffbf2;
+}
+
+tr:first-child {
+    font-size: 1.5rem
+}
+
+tr:first-child td {
+    border: none;
+}
+
+.noheader tr:first-child{
+    font-size: 1rem;
+}
+.noheader tr:first-child td{    
+    border: 1px solid #f9f4e8;
+}
+
+h4{
+    width: 55%;
+}
+
+h4 .sidenote{
+    font-weight: normal;
+}
+
+.lecturameta {
+    background-color: #fcf3ec;
+    border-radius: 5px;
+    color: #a29999;
+    font-size: 0.8em;
+    margin: 8px;
+    padding: 3px;
+}
+
+.lecturalink{
+    font-style: italic;
+}
+
+.lectura p{
+    margin: 0;    
+}
+
+.lectura {
+    margin: 25px 0px;
+    background: #fefbf6;
+    border-radius: 5px;
+    padding: 10px;
+    color: #484848;
+    width: 55%;
+    border: 1px solid #f6e0d3;
+}
+
+.lectura a{
+    background: inherit;
+}
+
+@media screen and (max-width: 760px) {
+
+    section{
+    width: 75%;
+    }
+
+    section ul {
+	padding-left: 10%;
+	width: 90%;
+    }
+    
+    .banner{
+	height: 60%;
+    }
+
+    .bannertitle {
+	max-width: 100%
+    }
+
+    .banner img{
+	object-position: top left;
+    }
+
+    .toc {
+	padding-top: 50px;
+	margin-left: 12.5%;
+	width: 80%;
+    }
+    
     .card{
 	width: 80%;
 	margin: 0 0 20px 0;
 	border-radius: 5px;
 	padding: 5px 25px;
 	background-color: #fffbf2;
+	float: left;
     }
 
     .margin-toggle{
@@ -81,6 +318,19 @@ h2{
     }
 
     h2, h3, h4{
+	width: 100%;
+    }
+
+    table{
+	display: flex;
+	overflow: auto;
+    }
+
+    td{
+	min-width: 200px;
+    }
+
+    .lectura{
 	width: 100%;
     }
 }
